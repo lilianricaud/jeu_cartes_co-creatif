@@ -1,8 +1,8 @@
 
-Les psychologues utilisent parfois un questionnaire qui mesure 3 aspect de la mémoire transactive:
-- la speciliasation des experties
+Les psychologues utilisent parfois un questionnaire qui mesure 3 aspects de la mémoire transactive:
+- la specialisation des experties
 - la confiance dans les compétences de chacun
-- la coordonation de l'ensemble
+- la coordination de l'ensemble
 
 ## Questionnaire
 
