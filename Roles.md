@@ -1,14 +1,14 @@
 Exemples de roles possibles:
 - animateur
 - facilitateur
-- gardien du temps
+- gardien du temps (-> TIMEBOX)
 - gardien du volume sonore
-- scribe
+- scribe (-> DOCUMENTATION)
 - expert, personne ressource
 - observateur méta
 - supervision, coaching
 - gardien de l'énergie/atmopshère
-- inspirateur/polinisateur
+- inspirateur/polinisateur (POLLINISATION)
 - attrapeur de pépites
 - attrapeur de question
 - sage
