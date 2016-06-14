@@ -23,7 +23,7 @@ Ce jeu de cartes peut avoir plusieurs usages :
 ## Les 4 catégories de cartes et quelques exemples
 (il est possible d'utiliser des couleurs différentes selon les catégories)
 
-### Des ingrédients
+### Des ingrédients avec bonnes pratiques et contexte (patterns)
 
     rôles (déterminer des rôles tels que facilitateur, maître du temps, scribe, scrutateur d'ambiance...)
     timebox (le fait de se mettre des horaires et de les respecter)
@@ -79,6 +79,7 @@ Ce jeu de cartes peut avoir plusieurs usages :
     calendrier cyclique
     rétrospective
     baromètre des tâches
+    avis à la population
     …
 
 
@@ -109,6 +110,9 @@ Ce jeu de cartes peut avoir plusieurs usages :
     cerveaux droit et gauche
     liminalité
     irénisme
+    Eilm
+    Mémoire de travail
+    Calepin Visuo-Spatial
     …
 
 
@@ -123,25 +127,42 @@ Ce jeu de cartes peut avoir plusieurs usages :
     inverser (par ex : comment être certain.e.s de ne pas susciter de coopération)
     itérer
     commencer par ce qui est connu
+    faire un état des lieux
+    limiter le travail en cours
     limiter les options
     mesurer le temps de cycle
+    visualiser le workflow
+    faire de retrospectives
+    concevoir pour des besoins qui ne changent pas
     simplifier
     regarder à l'intérieur et à l'extérieur
     accueillir les objections
     expliciter la gouvernance
+    expliciter les frontières du groupe
+    expliciter le rapport à l'argent
+    expliciter la structure de parole
     réactiver la mémoire
-    faire un état des lieux
     se déplacer
     improviser
-    expliciter des désaccord
+    expliciter les désaccords
     documenter
     ouvrir
     explorer
     fermer / clôturer
-    écouter attentivement
+    écouter activement
     prototyper
     copier / transposer / combiner
-    expliciter les frontières du groupe
+    identifier les fonctions critiques
+    Faire avec ses mains
+    Requalifier en problème 
+    changer une seule chose
+    réifier
+    se rendre redondant
+    mettre l'intelligence dans les outils et l'environnement
+    design on the land, not paper
+    build scale mockups
+    draw on a photograph
+    use models
     …
 
 
