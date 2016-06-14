@@ -163,6 +163,7 @@ Ce jeu de cartes peut avoir plusieurs usages :
     build scale mockups
     draw on a photograph
     use models
+    cartographier
     …
 
 
