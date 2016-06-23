@@ -66,26 +66,41 @@ Ce jeu de cartes peut avoir plusieurs usages :
     DEFIS BORDERLINE: utilisable pour créer un état de FLOW: se placer à la limite de ce que l'on sent que l'on peut faire. attention à ne pas aller au dela de la limite de la confiance en soi.
     INDICATEURS DE COOPERATION: http://prose.io/#lilianricaud/travail-en-reseau/edit/master/Indicateurs_de_cooperation.md
     MORT DU GROUPE: Tout se passe comme si le groupe avait un corps, des émotions, passions, idées, rêves, conscience. Anticiper les conditions de la fin du groupe, accepter l'idée de renaitre différemment sous d'autres formes, types d'initiatives, d'autres groupes. Savoir parler de la fin de l'expérience pour rester sereinement en vie. (Lien avec COMPOSTABILITE)
-    règles d'intéraction
-    prise de parole
-    debout
+    JE AGISSANT: privilégier l'expression du potentiel créateur de chacun (Maltecheff p103) Passer de groupe comme lieu où on va faire quelque chose à un lieu où on va exprimer son projet personnel avec le soutien du groupe. De "que suis je venu chercher ici?" à "que suis je venu exprimer ici?" Groupe = vehicule pour exprimer son projet de réalisation personnelle, le partager, le redéfinir avec ceux en résonance. Passer de Nous à JE limite la boulimie d'actions et d'idées et force à la concentration.
+    ECOUTE ACTIVE
+    DIVERSITE: source de richesse, augmente le potentiel latent.
+    REMIX: aucune production de qualité n'est entieremment nouvelle, toute création s'appuie sur des éléments existants. Plutot que d'éviter la copie, mieux vaut l'utiliser. Recette pour REMIXER: COPIER -> TRANSPOSER -> COMBINER
+    QUESTIONS: questions ouvrantes/puissantes (contenus dans SOUVENIR DU FUTUR, METEO INTERIEURE, peux tu REFORMULER, qu'entends tu par... ?
+    ET SI: ouvre des possibles, opposé au oui, mais. les jeux permettent de passer du oui mais au ET SI. Que se passerait il si... ? Imaginez ce qui se passerait si ... ?
+    CONTEXTE:
+    OBJECTIFS FLOUS
+    POTENTIEL LATENT
+    BINOME:
+    REGLES D'INTERACTION
+    STRUCTURE DE PAROLE
+    RESPIRATION
+    RENCONTRE DEBOUT
+    REPAS DELICIEUX
+    DELESTEUR
+    TACHES ESSENTIELLES: quelles sont les taches critiques / essentielles ? les taches qui, si on ne le faits le système s'écroule/ne fonctionne pas. Les EXPLICITER / rendre visible. S'assurer qu'elles sont prises en charge.
+    MEMOIRE: garder des traces de la mémoire collective (ANCRAGE, ARTEFACTS)
     architecture capacitante
-     Sas (se créer un sas de transition d'un état à un autre)
-    sous-groupes
+    SOUS-GROUPES
     fonctions vitales de groupes
-    mouvement
+    SAS (se créer une zone de transition d'un état/lieu à un autre)
+    MOUVEMENT
+    OBJET RIDICULE: dans des situations potentiellement tendues, introduire un objet ridicule pour signaler des débordements (jugement) de manière ludique sans avoir à le dire, évite de redevenir trop sérieux. Exemples: poulet en plastique, jouet, ballon, bonnet de fou du roi, pomodoro, ...
     environnement
-    lieu convivial
-    respiration
-    auto-évaluation
-    sens
-    jeu
-    univers de jeu
-    décision
-    hasard
-    Valeurs
-    Limites (espace, temps, cadre...)
-    Repas délicieux    
+    LIEU CONVIVIAL
+    AUTO-EVALUATION: selon vous: qu'est ce qui a marché ? qu'est ce qui peut être amélioré ? REFORMULER en termes positifs. Questionnaire: 5 points forts. Exercice: emergence compétences clés? Notation: auto-évaluation contextualisée, évaluation croisée. expliciter le positif, impact sur les personnes. combiner avec MATRICE VISUELLE (DIAGRAMME RADAR) avec paramètres évaluation: auto, croisée, normes
+    SENS: histoire d'une question posée à 3 tailleurs de pierre. "Que faites vous?" le premier: "je gagne ma vie", le deuxieme: " je taille de pierres", le troisième:" je construit une cathédrale". Ingrédient clé de MOTIVATION PROFONDE individuelle et collective.
+    JEU: contient ESPACE DE JEU, LIMITES, RÊGLES D'INTERACTION, ARTEFACTS, BUT
+    UNIVERS DE JEU: 1) imaginer l'univers, 2) le créer, 3) y pénétrer, 4) l'explorer, 5) en sortir.
+    ANCRAGE: ARTEFACTS sur les murs, monuments dans l'espace public, émotion ou partie du corps touchée, associée à une idée ou un concept, RITUELS comme ancrage temporels.
+    HASARD
+    VALEURS
+    LIMITES: (espace, temps, cadre, règles du jeu, contraintes...)
+       
     …
 
 
@@ -120,6 +135,7 @@ Ce jeu de cartes peut avoir plusieurs usages :
     avis à la population
     ELECTION SANS CANDIDAT
     CONSENTEMENT: confiance dans le fait que la production du groupe est supérieure à la production individuelle. PErsonne ne dit non, chacun s'engage à ne pas rester sur une position de blocage, mais de même le groupe s'engage à ne pas mettre de pression sur l'individu.
+    OBJECTION: doit être argumentée, pas simplement un non. Ne pas être d'accord différent de objection personnelle: préciser un risque, enrichir la proposition ou l'idée, voir une limite personnelle ou collective, un point qui semble ne pas avoir été pris en compte.
     …
 
 
