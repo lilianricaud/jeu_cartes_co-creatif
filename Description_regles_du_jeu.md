@@ -40,6 +40,32 @@ Ce jeu de cartes peut avoir plusieurs usages :
     SOCIAL ARCHITECTURE: social geometry/topology. Bourdieu, field-like centers can be mapped, qualitative relationships. similarity with spatial/temporal geometry, strong/weak links, mass.
     TIME ARCHITECTURE: time geometry/temporal architecture, similarity with spatial architecture, what are the timebox, rituals, regular events, cycles, seasons ? what are their qualities ? traditionnal reituals were rich temporal architecture, so is SCRUM with its sequences.
     DEMARRAGE: un système et son évlution sont énormément influencés par les conditions initialles "une création est un moment d'une delicatesse extrème". Placez les elemenst pour avoir les meilleurs conditions de départ, la suite sera une amplification de cet état initial (INTENTION)
+    FONCTIONS VITALES GROUPES: http://prose.io/#lilianricaud/travail-en-reseau/edit/master/Fonctions_vitales_des_groupes.md
+    DECISION
+    PLAISIR/JOIE MOTEUR: remplacer les objectifs à atteindre à tout prix par des engagements librements consentis? Donner du SENS à l'effort en manifestant l'expression du meilleur de soi. Conjuguer HUMOUR VISION, RÊVE et ACTION.
+    MOTIVATION PROFONDE: Quel est mon enjeu personnel dans ce groupe ? que suis venu chercher ici ? Au dela de la noble cause à laquelle nous nous rattachons, quelles sont les motivations plus profondes qui guident nos façons d'être et d'agir ?
+    CERCLES PERMEABLES: il est important de combiner protection et ouverture (-> MEMBRANE) il est possible de définir les conditions de passage d'un cercle à l'autre, ainsi que les conditions de présence dans un cercle (ex: sociocratie utilise des cercles multiples et reliés où tout le pouvoir n'est pas concentré dans le premier cercle)
+    POROSITE:
+    COEUR, CORPS, CERVEAU
+    ATTITUDE: curiosité, optimisme, empathie, ouverture, interrogation, motivation, regard frais, humilité
+    EMERGENCE
+    RITUELS: ancrer une pratique individuelle ou collective. Possède structure et periodicité / regularité.
+    FLUX: (latin fluxus=écoulement) désigne en génral un ensemble d'élements (informations, données, énergie, matière...) évoluant dans un sens commun. Déplacement caractérisé par une origine, une destination et un trajet.
+    LOI DES DEUX PIEDS: chacun son chemin.
+    SYMBOLES: associer/ANCRER image et idées, fonctionne bien pour mémorisation (les marques ou les religions s'appuie sur ça) nous vivons dans des mondes symboliques.
+    LUDIFICATION
+    DIAGRAMME EN ETOILE: diagramme de Kivrat/Redan / étoile: représente en 2Dau moins 3 ensemble de données multivariées
+    HISTOIRE: storytelling, conte, nous sommes capturés par les histoires, meilleure façon de faire passer informations (ancrage émotionnel)
+    CONVIVIALITE / EPANOUISSEMENT
+    REGLES DU JEU
+    AFFORDANCES: un outil bien conçu donne des informations qui indiquent comment il peut ou doit être utilisé (intéret pour traces STIGMERGIE)
+    MANIPULATION ETHIQUE: manipulation qui aide la personne (ex la PNL doit être utilisée de manière éthique comme le fait un osthéopathe uqi manipule un patient. Pour cela elle doit laisser une part de libre arbitre à la personne (lien avec INTENTION, TRANSPARENCE, CHARTE ETHIQUE)
+    TECHNIQUES COMMNUICATION NON VERBALES: voix (silence, intonation), gestuelle (attitude physique, énergie, mouvement, occupation espace) regard (PNL, synchronisation)
+    VIDE: il est important de créer un espace vide pour que les gens puisse venir le remplir. Applicable à plusieurs niveaux: ceux qui amène le projet à ce jour et ceux qui le rejoindrons. Processus, récipient, afin que les gens s'en emparent de leur histoire et l'écrivent eux mêmes.
+    INVOCATION D'EXPERIENCE: utilisable pour créer un état de FLOW.
+    DEFIS BORDERLINE: utilisable pour créer un état de FLOW: se placer à la limite de ce que l'on sent que l'on peut faire. attention à ne pas aller au dela de la limite de la confiance en soi.
+    INDICATEURS DE COOPERATION: http://prose.io/#lilianricaud/travail-en-reseau/edit/master/Indicateurs_de_cooperation.md
+    MORT DU GROUPE: Tout se passe comme si le groupe avait un corps, des émotions, passions, idées, rêves, conscience. Anticiper les conditions de la fin du groupe, accepter l'idée de renaitre différemment sous d'autres formes, types d'initiatives, d'autres groupes. Savoir parler de la fin de l'expérience pour rester sereinement en vie. (Lien avec COMPOSTABILITE)
     règles d'intéraction
     prise de parole
     debout
@@ -92,6 +118,8 @@ Ce jeu de cartes peut avoir plusieurs usages :
     rétrospective
     baromètre des tâches
     avis à la population
+    ELECTION SANS CANDIDAT
+    CONSENTEMENT: confiance dans le fait que la production du groupe est supérieure à la production individuelle. PErsonne ne dit non, chacun s'engage à ne pas rester sur une position de blocage, mais de même le groupe s'engage à ne pas mettre de pression sur l'individu.
     …
 
 
@@ -125,6 +153,11 @@ Ce jeu de cartes peut avoir plusieurs usages :
     Eilm
     Mémoire de travail
     Calepin Visuo-Spatial
+    ARCHIPEL DE COOPERATION: reliance basée sur un partage de VALEURS, grandes INTENTION de changements et sentiment qu'il faut être plusieurs pour faire changer les choses. Pas de structure juridique ou barrière formelle. système de gouvernance flexible, garantissant processus coopératif. Reconnaisance biodiversité d'opinions et possibilités d'engagement à la carte. Mobilisation sur actions concrètes plutot que sur  programme ou long discours (ref: Maltcheff p.114) 
+    STIGMERGIE: principes http://www.lilianricaud.com/travail-en-reseau/principes-cles-pour-mettre-en-oeuvre-une-cooperation-stigmergique/
+    GOUVERNANCE DES COMMUNS: 8 principes fondamentaux
+    BUNDLE OF RIGHTS
+    MAX-NEEF’S THEORY OF NEEDS: http://prose.io/#lilianricaud/jeu_cartes_co-creatif/edit/master/Max-Neef_s_Theory_of_Needs.md
     …
 
 
