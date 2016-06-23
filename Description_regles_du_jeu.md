@@ -133,6 +133,39 @@ Ce jeu de cartes peut avoir plusieurs usages :
     rétrospective
     baromètre des tâches
     avis à la population
+    TOUR DE TABLE
+    MANDALA HOLISTIQUE
+    MARCHE CREATIVE
+    CERCLE
+    AVIS A LA POPULATION
+    GROUPES EN CIRCULATION
+    CALENDRIER CYCLIQUE
+    VISUALISATION DE DONNEES AVEC LES PIEDS
+    PAROLE AU CENTRE
+    TABLES DE DECOUVERTE
+    IGNITE
+    EVALUATION/VOTE A 5 DOIGTS 
+    ARRET-DEPART COLLECTIF
+    SPRINT D'ECRITURE
+    RETROSPECTIVE
+    MATRICE EFFORT_IMPACT
+    BAROMETRE DES TACHES
+    ENTRETIENS CROISES EN BINOME/ASCENCEUR
+    FEEDBACK CONSTRUCTIF
+    ENTENDRE LES DESACCORDS
+    CONSEIL
+    MEETING MAP
+    REVELATEUR DE ROLES
+    APERO BULLES
+    DEBAT MOUVANT
+    DIALOGUE BOHMIEN
+    DOCUMENTATION CROISEE
+    TOUS DANS LE MÊME BATEAU
+    POMODORO
+    TRIADE APPRECIATIVE
+    DEMARCHE APPRECIATIVE
+    CARTES SOURIRES
+    PLUS
     ELECTION SANS CANDIDAT
     CONSENTEMENT: confiance dans le fait que la production du groupe est supérieure à la production individuelle. PErsonne ne dit non, chacun s'engage à ne pas rester sur une position de blocage, mais de même le groupe s'engage à ne pas mettre de pression sur l'individu.
     OBJECTION: doit être argumentée, pas simplement un non. Ne pas être d'accord différent de objection personnelle: préciser un risque, enrichir la proposition ou l'idée, voir une limite personnelle ou collective, un point qui semble ne pas avoir été pris en compte.
