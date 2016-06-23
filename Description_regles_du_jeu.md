@@ -18,6 +18,7 @@ Ce jeu de cartes peut avoir plusieurs usages :
 - s'affranchir du numérique en passant par le "tangible", le "toucher"
 - amener un côté ludique et joli en symbolisant les outils/recettes/concepts avec des dessins simples
 - besoin de manipuler les choses autrement que par le mental
+- manipulation collective de concepts
 
 
 ## Les 4 catégories de cartes et quelques exemples
@@ -25,11 +26,25 @@ Ce jeu de cartes peut avoir plusieurs usages :
 
 ### Des ingrédients avec bonnes pratiques et contexte (patterns)
 
-    rôles (déterminer des rôles tels que facilitateur, maître du temps, scribe, scrutateur d'ambiance...)
-    timebox (le fait de se mettre des horaires et de les respecter)
-    valeurs
-    limites (espace, temps, cadre...)
-    Sas (se créer un sas de transition d'un état à un autre)
+    RÔLES (déterminer des rôles tels que facilitateur, maître du temps, scribe, scrutateur d'ambiance...)
+    TIMEBOX (le fait de se mettre des horaires et de les respecter, sculpter le temps de manière consciente)
+    ARTEFACTS + CANEVAS
+    POLLINISATION CROISEE (comment faire circuler des idées entre groupes pour générer de nouvelles combinaisons enrichissantes).
+    INTENTION
+    INVITATION (lance la première impulsion (conditions initiales d'un nouveau système) importance d'une INTENTION claire et LANGAGE approprié
+    LANGAGE: le langage est à la fois un outil, un filtre et un indicateur, reflète une vision du monde (ex: "ressources humaines"), crée une réalité par l'interprétation qu'il permet ("arbre" pour tronc + feuilles), ARCHITCTURE CAPACITANTE, il ouvre ou ferme des portes (IX ou 9 ne permet pas de manipuler information et donc de calculer de la même manière). Peut créer des barrières semi-perméables, MEMBRANES (ex: jargon, accent)
+    TOMATES: une métaphore utile pour accepter la critique et la transformer en quelque chose d'utile ("quelqu'un a d'autres tomates pour faire de la sauce?")
+    LEADERSHIP CIRCULANT: expression du leadership de chacun = puissant facteur de mobilisation, expliciter ou faire tourner les RÔLES ou FONCTIONS VITALES, passer de hierarchier à co-responsabilité et co-protection, créer les conditions de reussite de celui qui prend le leadership.
+    COMPOSTABILITE: créer des conditions de compostabilité assez tôt. Penser la MORT DU GROUPE pour mourir heureux.
+    ARCHITECTURES: visibles ou invisibles (EXPLICITER) CAPACITANTE ou décapacitante. Ex: architcture invisibles: monnaie, culture, LANGAGE
+    SOCIAL ARCHITECTURE: social geometry/topology. Bourdieu, field-like centers can be mapped, qualitative relationships. similarity with spatial/temporal geometry, strong/weak links, mass.
+    TIME ARCHITECTURE: time geometry/temporal architecture, similarity with spatial architecture, what are the timebox, rituals, regular events, cycles, seasons ? what are their qualities ? traditionnal reituals were rich temporal architecture, so is SCRUM with its sequences.
+    DEMARRAGE: un système et son évlution sont énormément influencés par les conditions initialles "une création est un moment d'une delicatesse extrème". Placez les elemenst pour avoir les meilleurs conditions de départ, la suite sera une amplification de cet état initial (INTENTION)
+    règles d'intéraction
+    prise de parole
+    debout
+    architecture capacitante
+     Sas (se créer un sas de transition d'un état à un autre)
     sous-groupes
     fonctions vitales de groupes
     mouvement
@@ -42,12 +57,9 @@ Ce jeu de cartes peut avoir plusieurs usages :
     univers de jeu
     décision
     hasard
-    intention
-    invitation
-    règles d'intéraction
-    prise de parole
-    debout
-    architecture capacitante
+    Valeurs
+    Limites (espace, temps, cadre...)
+    Repas délicieux    
     …
 
 
