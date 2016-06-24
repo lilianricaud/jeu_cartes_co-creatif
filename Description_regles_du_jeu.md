@@ -150,7 +150,8 @@ Ce jeu de cartes peut avoir plusieurs usages :
     RETROSPECTIVE
     MATRICE EFFORT_IMPACT
     BAROMETRE DES TACHES
-    ENTRETIENS CROISES EN BINOME/ASCENCEUR
+    ENTRETIENS CROISES EN BINOME
+    ASCENCEUR
     FEEDBACK CONSTRUCTIF
     ENTENDRE LES DESACCORDS
     CONSEIL
@@ -165,9 +166,48 @@ Ce jeu de cartes peut avoir plusieurs usages :
     TRIADE APPRECIATIVE
     DEMARCHE APPRECIATIVE
     CARTES SOURIRES
-    PLUS
+    MATRICE PLUS/DELTA
+    PANNEAUX VRAI/FAUX
+    METEO INTERIEURE
+    EN UN MOT
+    CERCLE SAMOAN
+    SOUVENIR DU FUTUR
+    ACCELERATEUR DE PROJET
+    FEEDBACK MURAL
+    CLE DE RESOLUTION DE PROBLEMES
+    BILAN RELATIONNEL
+    MATRICE QUI/QUOI/QUAND
     ELECTION SANS CANDIDAT
-    CONSENTEMENT: confiance dans le fait que la production du groupe est supérieure à la production individuelle. PErsonne ne dit non, chacun s'engage à ne pas rester sur une position de blocage, mais de même le groupe s'engage à ne pas mettre de pression sur l'individu.
+    COMMUNICATION NON VIOLENTE
+    MATRICE TOOLS FOR SCHOOLS
+    5 POURQUOI ?
+    E-PRIME
+    MIKE CHECK
+    6 ACCORDS PARTAGES
+    CERCLE VERTUEUX
+    ETHOS/LOGOS/PATHOS
+    PRESENTATION CROISEE
+    BOOKSPRINT
+    5S
+    PERSONAS
+    CLIQUER/REMBOBINER
+    5W: journalists ask: what, why, when, who, where, (how)
+    INTRO FORMATION
+    PARKING LOT
+    FORUM OUVERT
+    BATON DE PAROLE
+    MARCHE DES COMPETENCES
+    PHOTO LANGAGE
+    DESIGN EMERGENT
+    METHODE S+7: (Oulipo)
+    WORLD CAFE
+    KANBAN
+    JEUX DE RÔLE
+    NOEUD DE GROUPE
+    GARDIEN DE BUT
+    REFLEXION CALME
+    MATRICE INFLUENCE VS IMPACT
+    DECISION PAR CONSENTEMENT: confiance dans le fait que la production du groupe est supérieure à la production individuelle. PErsonne ne dit non, chacun s'engage à ne pas rester sur une position de blocage, mais de même le groupe s'engage à ne pas mettre de pression sur l'individu.
     OBJECTION: doit être argumentée, pas simplement un non. Ne pas être d'accord différent de objection personnelle: préciser un risque, enrichir la proposition ou l'idée, voir une limite personnelle ou collective, un point qui semble ne pas avoir été pris en compte.
     …
 
@@ -207,6 +247,8 @@ Ce jeu de cartes peut avoir plusieurs usages :
     GOUVERNANCE DES COMMUNS: 8 principes fondamentaux
     BUNDLE OF RIGHTS
     MAX-NEEF’S THEORY OF NEEDS: http://prose.io/#lilianricaud/jeu_cartes_co-creatif/edit/master/Max-Neef_s_Theory_of_Needs.md
+    GOLDEN CIRCLE/START WITH WHY : Simon Sinek: "les gens n'achètent pas ce que vous faites, ils achètent pourquoi vous le faites". Cercle avec Pourquoi au milieu, comment autour, quoi à la périphérie. Ex: Apple. Why: change the status quo, think different. How: beautifully design products, simple to use, user-friendly. What: computers. but also ... music players, phone, watch, ... Martin Luther king said "I have a dream", not "I have a plan". Neo cortex work with rationnality, treat language. Limbic system works with feeling, trust, loyalty, decision-making, it has no capacity for language. We are convinced by feeling, not rationnality of language.
+    LOI DE DIFFUSION DE L'INNOVATION: Innovateurs (2,5%): inventent, early adopters (13,5%) adoptent, majorité précoce (34%) suivent l'adoption tôt, majorité tardive (34%) suivent l'adoption plus tard, retardataires (6%) suivent contraints et forcés. Pour une acceptation ou un succès d'une idée ou d'un produit, nécessité de passer un seuil de bascule (tipping point) des early adopters (de 15 à 20 % des gens). Les early adopters sont plus près a prendre des décisions avec les tripes d'ou l'intérêt de parler du pourquoi, pas du quoi. 
     …
 
 
@@ -283,6 +325,5 @@ Chaque carte se compose de :
     ZIM = wiki sur PC pour classer et ranger... sur l'ordi (on avait dit qu'une fois n'était pas coutume :p)
 
 
-AUTEUR : DLA37
-DATE : 24/05/2016
-LICENCE : CCbySA
+AUTEUR : Lilian Ricaud, DLA37
+LICENCE : CC-BY-SA
