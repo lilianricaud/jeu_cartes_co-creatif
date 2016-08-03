@@ -1,11 +1,10 @@
  Un jeu de cartes pour cartographier et manipuler individuellement ou collectivement la connaissance.
  
-
 Il s'agit simplement d'un jeu de cartes faites maison constitué de fiches techniques à composer soi-même, reprenant les différents ingrédients, outils ou concepts clés qui nous permettent d'animer des groupes ou de travailler et vivre en collectifs. Une sorte de bibilothèque à porter de main, à trimbaler partout et à composer et utiliser selon nos besoins.
 
-MOTS CLÉS : animation - convivialité - outils - ingrédients - trucs et astuces
+Ce système peut être utilisé pour cartographier tout type de connaissance et agit comme un lentille qui aide a voir le monde et expliciter certainnes connaissances. Attention à ne pas se noyer dans la complexité et à générer seulement les cartes qui ont sens pour vous.
 
-## Objectifs et usages
+## Usages comme outil de facilitation
 
 Le jeu de cartes pris en exemple est celui de Lilian Ricaud. Il est composé de 4 catégories, mais il peut être modulé en fonction des utilisation personnelles de chacun. Le but est de consituer son propre jeu en fonction de ses usages et des éléments qui nous parlent le plus.
 Le fait d'avoir des cartes à manipuler, classer... plutôt que des fiches numériques (ou en plus des fiches numériques !) permet de revenir au corporel, à l'humain.
@@ -21,8 +20,8 @@ Ce jeu de cartes peut avoir plusieurs usages :
 - manipulation collective de concepts
 
 
-## Les 4 catégories de cartes et quelques exemples
-(il est possible d'utiliser des couleurs différentes selon les catégories)
+###  Les 4 catégories de cartes et quelques exemples
+
 
 ### Des ingrédients avec bonnes pratiques et contexte (patterns)
 
@@ -345,6 +344,16 @@ Il existe plusieurs possibilités combiner le principe des cartes avec du numér
 - génération de QR codes à coller sur cartes papier pour accéder à dernières versions en ligne via cartes papiers+smartphones
 - usage de puces RFID ou contact est aussi possible/envisageable, mais ne semble pas nécessaire dans la grande majorité des cas.
 
+
+## Usage comme outil de gestion de langage de patterns
+
+Ceci est une innovation par rapport au travail d'Alexander. Celui ci construit un langage de pattern sous forme d'un document imprimé linéaire et le valide avec les usagers avant d'aller plus loin.
+
+Le format linéaire est utile, mais limité, les patterns formant par essence un réseau/système non linéaire.
+
+Pour faciliter la manipulation individuelle et collective des patterns, un système de cartes a été utilisé (voir la descriptionde l'usage du jeu de cartes:
+
+http://prose.io/#lilianricaud/jeu_cartes_co-creatif/edit/master/Cartes-trames-langage-de-patterns.md
 
 ## Pour aller plus loin
 
