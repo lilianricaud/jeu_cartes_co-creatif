@@ -24,7 +24,8 @@ Une carte postale de 1900, représentant l'entrée de la Grande Mosquée de Kair
 La représentation de notre univers proche ou lointain n'est pas le seul domaine où l'on représente en deux dimensions des informations plus complexes. :La représentation en deux dimensions d'une surface de R 3 {\displaystyle \mathbb {R} ^{3}} \mathbb {R} ^{3} est appelée cartographie, et sert par exemple à la génération de textures en image de synthèse.
 
 Une carte est également un terme utilisé pour signifier une représentation à l'aide d'un graphe ou d'un diagramme.
-Carte mentale
+
+## Carte mentale
 
 C'est une méthode d'enquête qui tente de retraduire les représentations qu'ont les individus: Ce type d'approche utilisé par exemple en sociologie permet de retracer :
 
