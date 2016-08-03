@@ -1,7 +1,7 @@
- Un jeu de cartes pour s'y retrouver, capitaliser, composer et transmettre
+ Un jeu de cartes pour cartographier et manipuler individuellement ou collectivement la connaissance.
  
-Comment retrouver simplement toutes les astuces, outils et idées qu'on a vu, lu, utilisé... en s'affranchissant du numérique ! (une fois n'est pas coutume)
-Il s'agit simplement d'un jeu de cartes constitué de fiches techniques à composer soi-même, reprenant les différents ingrédients, outils ou concepts clés qui nous permettent d'animer des groupes ou de travailler et vivre en collectifs. Une sorte de bibilothèque à porter de main, à trimbaler partout et à composer et utiliser selon nos besoins.
+
+Il s'agit simplement d'un jeu de cartes faites maison constitué de fiches techniques à composer soi-même, reprenant les différents ingrédients, outils ou concepts clés qui nous permettent d'animer des groupes ou de travailler et vivre en collectifs. Une sorte de bibilothèque à porter de main, à trimbaler partout et à composer et utiliser selon nos besoins.
 
 MOTS CLÉS : animation - convivialité - outils - ingrédients - trucs et astuces
 
@@ -307,23 +307,51 @@ Ce jeu de cartes peut avoir plusieurs usages :
 
 Chaque carte se compose de :
 
-    au recto :
-        un titre court (nom de l'ingrédient, de la recette, du concept...)
-        un dessin qui symbolise la carte
-        dans une couleur qui correspond à la catégorie concernée
-        plutôt en majuscules pour faciliter la lecture de tous
-    au verso :
-        une description courte de la carte
-        plutôt au crayon de papier pour pouvoir modifier par la suite
-        plutôt en majuscules pour faciliter la lecture de tous
+- au recto :
+        - un titre court (nom de l'ingrédient, de la recette, du concept...)
+        - un dessin qui symbolise la carte
+        - dans une couleur qui correspond à la catégorie concernée
+        - plutôt en majuscules pour faciliter la lecture de tous
+ - au verso :
+        - une description courte de la carte
+        - plutôt au crayon de papier pour pouvoir modifier par la suite
+        - plutôt en majuscules pour faciliter la lecture de tous
+        
+        
+### Combiner les cartes entre elles
+
+Les cartes peuvent être utilisées pour agir les unes sur les autres. Par exemples:
+- identifier ingrédients présents dans une recette
+- ajouter ingrédients dans une recette
+- utiliser verbes d'action pour conjuguer les ingrédients et/ou recettes.
+- apports théoriques amenés dans l'usage
+
+
+
+### Combiner les cartes avec un plateau de jeu / territoire / lieu
+
+L'espace dans lequels les cartes sont utilisées peut influencer leur usage:
+- plateau de jeu
+- territoire (plateau de jeu ou virtuel)
+- affichage dans l'espace physique (collées a un mur ou suspendus de manière à ce que le recto ET le verso soient visibles)
+
+### Combiner les cartes avec du numérique
+
+Il existe plusieurs possibilités combiner le principe des cartes avec du numérique pour aller plus loin:
+- pad pour co-édition avec usagers sous format linéaire
+- mindmap (freemind ou mindmeister) pour édition ou co-édition sous format non linéaire
+- Wikis en ligne ou local: mediawiki/yeswiki pour travail en ligne avec amélioration itérative et collaborative des cartes patterns ou usage de ZIM (wiki de bureau pour classer et ranger localement sur l'ordi) + Owncloud (pour partage/synchronisation en ligne).
+- multibao/git/github: pour faciliter le partage/duplication des cartes patterns avec travail itératif en parallèle sur les patterns. Git et multibao favorisent la gestion des forks (branches parallèles) et la gestion/comparaison des versions.
+- génération de QR codes à coller sur cartes papier pour accéder à dernières versions en ligne via cartes papiers+smartphones
+- usage de puces RFID ou contact est aussi possible/envisageable, mais ne semble pas nécessaire dans la grande majorité des cas.
 
 
 ## Pour aller plus loin
 
     Architecte Christopher Alexander (théorie des Pattern languages)
     Livre : Les nouveaux collectifs citoyens (Yvan Maltcheff)
-    ZIM = wiki sur PC pour classer et ranger... sur l'ordi (on avait dit qu'une fois n'était pas coutume :p)
 
 
-AUTEUR : Lilian Ricaud, DLA37
+
+AUTEURS : Lilian Ricaud, DLA37
 LICENCE : CC-BY-SA
