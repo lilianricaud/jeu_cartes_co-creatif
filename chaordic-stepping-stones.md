@@ -28,6 +28,25 @@ The higher level concept.
 
 There is an interesting array of limiting beliefs that can show up throughout the process. Identify and make them explicit.
 
+### Structure
+
+Once the concept has been chosen, it is time to create the structure that will channel resources. It is in these conversations that decisions about the resources of the group: time, money, energy, commitment and attention are made.
+
+### Act/Practice
+
+The ongoing practice within the structures agreed upon and designed is important. This is the world of to do lists, conference calls and e-mail exchanges. The invitation here is to practice working with one another in alignment with the designs created.
+
+### Harvest
+
+Harvesting is about making meaning of the work, telling the story and feeding forward the results so that they have the desired or intended impacts in the world.
+
+
+### Iterative Process
+
+Working with the chaordic stepping stones provides an iterative planning framework and process that has participants continuing to check back with each of the stepping stones as plans and implementation emerges and changes. Are we still working to need and purpose? Do we have all the right people given where we are in our process? Are there new limiting beliefs that have emerged? Does our design still work? How do we continue to make meaning of our experiences? Has the need changed now that we have been doing some of the work? Are our principles holding strong?
+
+Where are you in your process?
+
 ## Source:
 
 https://shapeshiftstrategies.com/2016/08/16/a-school-review-process-illustrates-the-chaordic-stepping-stones-in-action/
