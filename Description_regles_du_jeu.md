@@ -1,10 +1,11 @@
- Un jeu de cartes pour cartographier et manipuler individuellement ou collectivement la connaissance.
+ Un jeu de cartes pour s'y retrouver, capitaliser, composer et transmettre
  
-Il s'agit simplement d'un jeu de cartes faites maison constitué de fiches techniques à composer soi-même, reprenant les différents ingrédients, outils ou concepts clés qui nous permettent d'animer des groupes ou de travailler et vivre en collectifs. Une sorte de bibilothèque à porter de main, à trimbaler partout et à composer et utiliser selon nos besoins.
+Comment retrouver simplement toutes les astuces, outils et idées qu'on a vu, lu, utilisé... en s'affranchissant du numérique ! (une fois n'est pas coutume)
+Il s'agit simplement d'un jeu de cartes constitué de fiches techniques à composer soi-même, reprenant les différents ingrédients, outils ou concepts clés qui nous permettent d'animer des groupes ou de travailler et vivre en collectifs. Une sorte de bibilothèque à porter de main, à trimbaler partout et à composer et utiliser selon nos besoins.
 
-Ce système peut être utilisé pour cartographier tout type de connaissance et agit comme un lentille qui aide a voir le monde et expliciter certainnes connaissances. Attention à ne pas se noyer dans la complexité et à générer seulement les cartes qui ont sens pour vous.
+MOTS CLÉS : animation - convivialité - outils - ingrédients - trucs et astuces
 
-## Usages comme outil de facilitation
+## Objectifs et usages
 
 Le jeu de cartes pris en exemple est celui de Lilian Ricaud. Il est composé de 4 catégories, mais il peut être modulé en fonction des utilisation personnelles de chacun. Le but est de consituer son propre jeu en fonction de ses usages et des éléments qui nous parlent le plus.
 Le fait d'avoir des cartes à manipuler, classer... plutôt que des fiches numériques (ou en plus des fiches numériques !) permet de revenir au corporel, à l'humain.
@@ -20,33 +21,31 @@ Ce jeu de cartes peut avoir plusieurs usages :
 - manipulation collective de concepts
 
 
-###  Les 4 catégories de cartes et quelques exemples
-
+## Les 4 catégories de cartes et quelques exemples
+(il est possible d'utiliser des couleurs différentes selon les catégories)
 
 ### Des ingrédients avec bonnes pratiques et contexte (patterns)
 
-    RÔLES (déterminer des rôles tels que facilitateur, maître du temps, scribe, scrutateur d'ambiance...)
-    TIMEBOX (le fait de se mettre des horaires et de les respecter, sculpter le temps de manière consciente)
-    ARTEFACTS + CANEVAS
-    POLLINISATION CROISEE (comment faire circuler des idées entre groupes pour générer de nouvelles combinaisons enrichissantes).
-    INTENTION
-    INVITATION (lance la première impulsion (conditions initiales d'un nouveau système) importance d'une INTENTION claire et LANGAGE approprié
-    LANGAGE: le langage est à la fois un outil, un filtre et un indicateur, reflète une vision du monde (ex: "ressources humaines"), crée une réalité par l'interprétation qu'il permet ("arbre" pour tronc + feuilles), ARCHITCTURE CAPACITANTE, il ouvre ou ferme des portes (IX ou 9 ne permet pas de manipuler information et donc de calculer de la même manière). Peut créer des barrières semi-perméables, MEMBRANES (ex: jargon, accent)
-    TOMATES: une métaphore utile pour accepter la critique et la transformer en quelque chose d'utile ("quelqu'un a d'autres tomates pour faire de la sauce?")
-    LEADERSHIP CIRCULANT: expression du leadership de chacun = puissant facteur de mobilisation, expliciter ou faire tourner les RÔLES ou FONCTIONS VITALES, passer de hierarchier à co-responsabilité et co-protection, créer les conditions de reussite de celui qui prend le leadership.
-    COMPOSTABILITE: créer des conditions de compostabilité assez tôt. Penser la MORT DU GROUPE pour mourir heureux.
-    ARCHITECTURES: visibles ou invisibles (EXPLICITER) CAPACITANTE ou décapacitante. Ex: architcture invisibles: monnaie, culture, LANGAGE
-    SOCIAL ARCHITECTURE: social geometry/topology. Bourdieu, field-like centers can be mapped, qualitative relationships. similarity with spatial/temporal geometry, strong/weak links, mass.
-    TIME ARCHITECTURE: time geometry/temporal architecture, similarity with spatial architecture, what are the timebox, rituals, regular events, cycles, seasons ? what are their qualities ? traditionnal reituals were rich temporal architecture, so is SCRUM with its sequences.
-    DEMARRAGE: un système et son évlution sont énormément influencés par les conditions initialles "une création est un moment d'une delicatesse extrème". Placez les elemenst pour avoir les meilleurs conditions de départ, la suite sera une amplification de cet état initial (INTENTION)
-    FONCTIONS VITALES GROUPES: http://prose.io/#lilianricaud/travail-en-reseau/edit/master/Fonctions_vitales_des_groupes.md
-    DECISION
-    PLAISIR/JOIE MOTEUR: remplacer les objectifs à atteindre à tout prix par des engagements librements consentis? Donner du SENS à l'effort en manifestant l'expression du meilleur de soi. Conjuguer HUMOUR VISION, RÊVE et ACTION.
-    MOTIVATION PROFONDE: Quel est mon enjeu personnel dans ce groupe ? que suis venu chercher ici ? Au dela de la noble cause à laquelle nous nous rattachons, quelles sont les motivations plus profondes qui guident nos façons d'être et d'agir ?
-    CERCLES PERMEABLES: il est important de combiner protection et ouverture (-> MEMBRANE) il est possible de définir les conditions de passage d'un cercle à l'autre, ainsi que les conditions de présence dans un cercle (ex: sociocratie utilise des cercles multiples et reliés où tout le pouvoir n'est pas concentré dans le premier cercle)
-    POROSITE:
-    COEUR, CORPS, CERVEAU
-    ATTITUDE: curiosité, optimisme, empathie, ouverture, interrogation, motivation, regard frais, humilité
+    #_RÔLES
+    #_TIMEBOX
+    #_ARTEFACTS + CANEVAS
+    #_POLLINISATION CROISEE
+    #_INTENTION
+    #_INVITATION
+    #_LANGAGE
+    #_TOMATES
+    #_LEADERSHIP CIRCULANT
+    #_COMPOSTABILITE
+    #_ARCHITECTURES
+    #_DEMARRAGE
+    #_FONCTIONS VITALES GROUPES
+    #_DECISION
+    #_PLAISIR/JOIE MOTEUR
+    #_MOTIVATION PROFONDE
+    #_CERCLES PERMEABLES
+    #_POROSITE
+    #_COEUR, CORPS, CERVEAU
+    #_ATTITUDE: 
     EMERGENCE
     RITUELS: ancrer une pratique individuelle ou collective. Possède structure et periodicité / regularité.
     FLUX: (latin fluxus=écoulement) désigne en génral un ensemble d'élements (informations, données, énergie, matière...) évoluant dans un sens commun. Déplacement caractérisé par une origine, une destination et un trajet.
@@ -306,61 +305,23 @@ Ce jeu de cartes peut avoir plusieurs usages :
 
 Chaque carte se compose de :
 
-- au recto :
-        - un titre court (nom de l'ingrédient, de la recette, du concept...)
-        - un dessin qui symbolise la carte
-        - dans une couleur qui correspond à la catégorie concernée
-        - plutôt en majuscules pour faciliter la lecture de tous
- - au verso :
-        - une description courte de la carte
-        - plutôt au crayon de papier pour pouvoir modifier par la suite
-        - plutôt en majuscules pour faciliter la lecture de tous
-        
-        
-### Combiner les cartes entre elles
+    au recto :
+        un titre court (nom de l'ingrédient, de la recette, du concept...)
+        un dessin qui symbolise la carte
+        dans une couleur qui correspond à la catégorie concernée
+        plutôt en majuscules pour faciliter la lecture de tous
+    au verso :
+        une description courte de la carte
+        plutôt au crayon de papier pour pouvoir modifier par la suite
+        plutôt en majuscules pour faciliter la lecture de tous
 
-Les cartes peuvent être utilisées pour agir les unes sur les autres. Par exemples:
-- identifier ingrédients présents dans une recette
-- ajouter ingrédients dans une recette
-- utiliser verbes d'action pour conjuguer les ingrédients et/ou recettes.
-- apports théoriques amenés dans l'usage
-
-
-
-### Combiner les cartes avec un plateau de jeu / territoire / lieu
-
-L'espace dans lequels les cartes sont utilisées peut influencer leur usage:
-- plateau de jeu
-- territoire (plateau de jeu ou virtuel)
-- affichage dans l'espace physique (collées a un mur ou suspendus de manière à ce que le recto ET le verso soient visibles)
-
-### Combiner les cartes avec du numérique
-
-Il existe plusieurs possibilités combiner le principe des cartes avec du numérique pour aller plus loin:
-- pad pour co-édition avec usagers sous format linéaire
-- mindmap (freemind ou mindmeister) pour édition ou co-édition sous format non linéaire
-- Wikis en ligne ou local: mediawiki/yeswiki pour travail en ligne avec amélioration itérative et collaborative des cartes patterns ou usage de ZIM (wiki de bureau pour classer et ranger localement sur l'ordi) + Owncloud (pour partage/synchronisation en ligne).
-- multibao/git/github: pour faciliter le partage/duplication des cartes patterns avec travail itératif en parallèle sur les patterns. Git et multibao favorisent la gestion des forks (branches parallèles) et la gestion/comparaison des versions.
-- génération de QR codes à coller sur cartes papier pour accéder à dernières versions en ligne via cartes papiers+smartphones
-- usage de puces RFID ou contact est aussi possible/envisageable, mais ne semble pas nécessaire dans la grande majorité des cas.
-
-
-## Usage comme outil de gestion de langage de patterns
-
-Ceci est une innovation par rapport au travail d'Alexander. Celui ci construit un langage de pattern sous forme d'un document imprimé linéaire et le valide avec les usagers avant d'aller plus loin.
-
-Le format linéaire est utile, mais limité, les patterns formant par essence un réseau/système non linéaire.
-
-Pour faciliter la manipulation individuelle et collective des patterns, un système de cartes a été utilisé (voir la descriptionde l'usage du jeu de cartes:
-
-http://prose.io/#lilianricaud/jeu_cartes_co-creatif/edit/master/Cartes-trames-langage-de-patterns.md
 
 ## Pour aller plus loin
 
     Architecte Christopher Alexander (théorie des Pattern languages)
     Livre : Les nouveaux collectifs citoyens (Yvan Maltcheff)
+    ZIM = wiki sur PC pour classer et ranger... sur l'ordi (on avait dit qu'une fois n'était pas coutume :p)
 
 
-
-AUTEURS : Lilian Ricaud, DLA37
+AUTEUR : Lilian Ricaud, DLA37
 LICENCE : CC-BY-SA
