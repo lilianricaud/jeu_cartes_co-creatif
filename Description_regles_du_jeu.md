@@ -45,10 +45,10 @@ Ce jeu de cartes peut avoir plusieurs usages :
     #_CERCLES PERMEABLES
     #_POROSITE
     #_COEUR, CORPS, CERVEAU
-    #_ATTITUDE: 
-    EMERGENCE
-    RITUELS: ancrer une pratique individuelle ou collective. Possède structure et periodicité / regularité.
-    FLUX: (latin fluxus=écoulement) désigne en génral un ensemble d'élements (informations, données, énergie, matière...) évoluant dans un sens commun. Déplacement caractérisé par une origine, une destination et un trajet.
+    #_ATTITUDE 
+    #_EMERGENCE
+    #_RITUELS 
+    #_FLUX
     LOI DES DEUX PIEDS: chacun son chemin.
     SYMBOLES: associer/ANCRER image et idées, fonctionne bien pour mémorisation (les marques ou les religions s'appuie sur ça) nous vivons dans des mondes symboliques.
     LUDIFICATION
