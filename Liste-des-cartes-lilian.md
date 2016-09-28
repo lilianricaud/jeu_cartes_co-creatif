@@ -3,13 +3,13 @@
 
 ### Des ingrédients avec bonnes pratiques et contexte (patterns)
 
-- >RÔLES
-- >TIMEBOX
+- >RÔLES: /roles.md
+- >TIMEBOX: /timebox.md
 - >ARTEFACTS + CANEVAS
 - >POLLINISATION CROISEE
-- >INTENTION
-- >INVITATION
-- >LANGAGE
+- >INTENTION: /intention.md
+- >INVITATION: /invitation.md
+- >LANGAGE: /langage.md
 - >TOMATES
 - >LEADERSHIP CIRCULANT
 - >COMPOSTABILITE
@@ -71,7 +71,9 @@
 - SENS: histoire d'une question posée à 3 tailleurs de pierre. "Que faites vous?" le premier: "je gagne ma vie", le deuxieme: " je taille de pierres", le troisième:" je construit une cathédrale". Ingrédient clé de MOTIVATION PROFONDE individuelle et collective.
 - JEU: contient ESPACE DE JEU, LIMITES, RÊGLES D'INTERACTION, ARTEFACTS, BUT
 - UNIVERS DE JEU: 1) imaginer l'univers, 2) le créer, 3) y pénétrer, 4) l'explorer, 5) en sortir.
-- ANCRAGE: ARTEFACTS sur les murs, monuments dans l'espace public, émotion ou partie du corps touchée, associée à une idée ou un concept, RITUELS comme ancrage temporels.
+- ANCRAGE: /ancrage.md
+
+
 - HASARD
 - VALEURS
 - LIMITES: (espace, temps, cadre, règles du jeu, contraintes...)
@@ -182,8 +184,8 @@
 - GARDIEN DE BUT
 - REFLEXION CALME
 - MATRICE INFLUENCE VS IMPACT
-- DECISION PAR CONSENTEMENT: confiance dans le fait que la production du groupe est supérieure à la production individuelle. PErsonne ne dit non, chacun s'engage à ne pas rester sur une position de blocage, mais de même le groupe s'engage à ne pas mettre de pression sur l'individu.
-- OBJECTION: doit être argumentée, pas simplement un non. Ne pas être d'accord différent de objection personnelle: préciser un risque, enrichir la proposition ou l'idée, voir une limite personnelle ou collective, un point qui semble ne pas avoir été pris en compte.
+- DECISION PAR CONSENTEMENT: /decision-par-consentement.md
+- OBJECTION: /objection.md
 - …
 
 
@@ -276,4 +278,3 @@
 - use models
 - cartographier
 - …
-
