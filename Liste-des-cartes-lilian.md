@@ -49,6 +49,7 @@
 - ET SI: ouvre des possibles, opposé au oui, mais. les jeux permettent de passer du oui mais au ET SI. Que se passerait il si... ? Imaginez ce qui se passerait si ... ?
 - CONTEXTE:
 - OBJECTIFS FLOUS
+- OBJECTIF PREPONDERANT: /objectif-preponderant.md
 - POTENTIEL LATENT
 - BINOME:
 - REGLES D'INTERACTION
