@@ -28,3 +28,5 @@ Un animateur (facilitateur) est désigné pour diriger la progression de la mét
 Plusieurs tours de table peuvent être fait. On peut revenir en arrière sur le point des questions, des opinions et des objections autant de fois que nécessaire. Le but ultime est que toutes les objections aient été levées à la satisfaction de tous les participants à la décision.
 
 Source: https://sites.google.com/site/espritdecommunaute/communitas/annexe-d-le-principe-de-decision-par-consentement
+Voir aussi fiche à télécharger Université du Nous
+http://universite-du-nous.org/wp-content/uploads/2013/09/process-gest-par-constt-V5BIS.pdf
