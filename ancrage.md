@@ -5,3 +5,5 @@ Un ancrage rend tangible et visible une structure invisible (une idée, un conce
 - rythmes et chants pour ancrer dans le corps
 - affichage, écrits, dessins, images dans l'environnement proche (tatouage,  dessin sur les murs, les rochers, sculpture, photos, dans l'espace physique, espace en ligne)
 - monuments / chefs-d'oeuvre
+
+ARTEFACTS sur les murs, monuments dans l'espace public, émotion ou partie du corps touchée, associée à une idée ou un concept, RITUELS comme ancrage temporels.
