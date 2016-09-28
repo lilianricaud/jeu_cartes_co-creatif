@@ -1,39 +1,36 @@
+## Les 4 catégories de cartes et quelques exemples
+(il est possible d'utiliser des couleurs différentes selon les catégories)
 
-###  Les 4 catégories de cartes
+### Des ingrédients avec bonnes pratiques et contexte (patterns)
 
-
-### Ingrédients avec bonnes pratiques et contexte (patterns)
-
-- RÔLES (déterminer des rôles tels que facilitateur, maître du temps, scribe, scrutateur d'ambiance...)
-- TIMEBOX (le fait de se mettre des horaires et de les respecter, sculpter le temps de manière consciente)
-- ARTEFACTS + CANEVAS
-- POLLINISATION CROISEE (comment faire circuler des idées entre groupes pour générer de nouvelles combinaisons enrichissantes).
-- INTENTION
-- INVITATION (lance la première impulsion (conditions initiales d'un nouveau système) importance d'une INTENTION claire et LANGAGE approprié
-- LANGAGE: le langage est à la fois un outil, un filtre et un indicateur, reflète une vision du monde (ex: "ressources humaines"), crée une réalité par l'interprétation qu'il permet ("arbre" pour tronc + feuilles), ARCHITCTURE CAPACITANTE, il ouvre ou ferme des portes (IX ou 9 ne permet pas de manipuler information et donc de calculer de la même manière). Peut créer des barrières semi-perméables, MEMBRANES (ex: jargon, accent)
-- TOMATES: une métaphore utile pour accepter la critique et la transformer en quelque chose d'utile ("quelqu'un a d'autres tomates pour faire de la sauce?")
-- LEADERSHIP CIRCULANT: expression du leadership de chacun = puissant facteur de mobilisation, expliciter ou faire tourner les RÔLES ou FONCTIONS VITALES, passer de hierarchier à co-responsabilité et co-protection, créer les conditions de reussite de celui qui prend le leadership.
-- COMPOSTABILITE: créer des conditions de compostabilité assez tôt. Penser la MORT DU GROUPE pour mourir heureux.
-- ARCHITECTURES: visibles ou invisibles (EXPLICITER) CAPACITANTE ou décapacitante. Ex: architcture invisibles: monnaie, culture, LANGAGE
-- SOCIAL ARCHITECTURE: social geometry/topology. Bourdieu, field-like centers can be mapped, qualitative relationships. similarity with spatial/temporal geometry, strong/weak links, mass.
-- TIME ARCHITECTURE: time geometry/temporal architecture, similarity with spatial architecture, what are the timebox, rituals, regular events, cycles, seasons ? what are their qualities ? traditionnal reituals were rich temporal architecture, so is SCRUM with its sequences.
-- DEMARRAGE: un système et son évlution sont énormément influencés par les conditions initialles "une création est un moment d'une delicatesse extrème". Placez les elemenst pour avoir les meilleurs conditions de départ, la suite sera une amplification de cet état initial (INTENTION)
-- FONCTIONS VITALES GROUPES: http://prose.io/#lilianricaud/travail-en-reseau/edit/master/Fonctions_vitales_des_groupes.md
-- DECISION
-- PLAISIR/JOIE MOTEUR: remplacer les objectifs à atteindre à tout prix par des engagements librements consentis? Donner du SENS à l'effort en manifestant l'expression du meilleur de soi. Conjuguer HUMOUR VISION, RÊVE et ACTION.
-- MOTIVATION PROFONDE: Quel est mon enjeu personnel dans ce groupe ? que suis venu chercher ici ? Au dela de la noble cause à laquelle nous nous rattachons, quelles sont les motivations plus profondes qui guident nos façons d'être et d'agir ?
-- CERCLES PERMEABLES: il est important de combiner protection et ouverture (-> MEMBRANE) il est possible de définir les conditions de passage d'un cercle à l'autre, ainsi que les conditions de présence dans un cercle (ex: sociocratie utilise des cercles multiples et reliés où tout le pouvoir n'est pas concentré dans le premier cercle)
-- POROSITE:
-- COEUR, CORPS, CERVEAU
-- ATTITUDE: curiosité, optimisme, empathie, ouverture, interrogation, motivation, regard frais, humilité
-- EMERGENCE
-- RITUELS: ancrer une pratique individuelle ou collective. Possède structure et periodicité / regularité.
-- FLUX: (latin fluxus=écoulement) désigne en génral un ensemble d'élements (informations, données, énergie, matière...) évoluant dans un sens commun. Déplacement caractérisé par une origine, une destination et un trajet.
-- LOI DES DEUX PIEDS: chacun son chemin.
-- SYMBOLES: associer/ANCRER image et idées, fonctionne bien pour mémorisation (les marques ou les religions s'appuie sur ça) nous vivons dans des mondes symboliques.
-- LUDIFICATION
-- DIAGRAMME EN ETOILE: diagramme de Kivrat/Redan / étoile: représente en 2Dau moins 3 ensemble de données multivariées
-- HISTOIRE: storytelling, conte, nous sommes capturés par les histoires, meilleure façon de faire passer informations (ancrage émotionnel)
+- >RÔLES
+- >TIMEBOX
+- >ARTEFACTS + CANEVAS
+- >POLLINISATION CROISEE
+- >INTENTION
+- >INVITATION
+- >LANGAGE
+- >TOMATES
+- >LEADERSHIP CIRCULANT
+- >COMPOSTABILITE
+- >ARCHITECTURES
+- >DEMARRAGE
+- >FONCTIONS VITALES GROUPES
+- >DECISION
+- >PLAISIR/JOIE MOTEUR
+- >MOTIVATION PROFONDE
+- >CERCLES PERMEABLES
+- >POROSITE
+- >COEUR, CORPS, CERVEAU
+- >ATTITUDE 
+- >EMERGENCE
+- >RITUELS 
+- >FLUX
+- >LOI DES DEUX PIEDS 
+- >SYMBOLES
+- >LUDIFICATION
+- >DIAGRAMME EN ETOILE
+- >HISTOIRE
 - CONVIVIALITE / EPANOUISSEMENT
 - REGLES DU JEU
 - AFFORDANCES: un outil bien conçu donne des informations qui indiquent comment il peut ou doit être utilisé (intéret pour traces STIGMERGIE)
@@ -279,3 +276,4 @@
 - use models
 - cartographier
 - …
+
