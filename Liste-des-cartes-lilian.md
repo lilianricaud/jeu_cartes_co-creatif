@@ -212,6 +212,7 @@
 - Shu Ha Ri
 - piège ontologique
 - objet-lien
+- objet social: l'objet social est la raison pour laquelle deux personnes se parlent plutot que de parler à quelqu'un d'autre. Nous sommes de animaux sociaux et nous aimons sociabiliser, mais au démarrage nous avons besoin d'une raison de le faire. Cette raison, le noeud ans le réseau social est l'objet social, autour duquel se forme le réseau social.
 - attracteur cognitif
 - numinosité
 - cerveaux droit et gauche
