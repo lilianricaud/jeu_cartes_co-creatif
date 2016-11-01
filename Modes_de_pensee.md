@@ -1,7 +1,21 @@
 
-> Extrait de Animapproches, par Jean-Michel Cornu
 
-> cet extrait donne des pistes sur l'interet de cartes pattern comme outil pour manipuler collectivement l'information: l'usage du calepin visuo-spatial qui permet une vue d'ensemble non linéaire. Autre idées inspirée: concevoir des territoire non plus comme un simple business model canvas ou mandala, mais avec des reliefs, rivières, etc... autres elements structurants de par le pattern naturel qu'il possède. Le bateau du speedboat est déja dans cette idée, mais on pourrait imaginer un territoire avec plus patterns naturels (arbre/bracnhe, vague, spirale, clusters, ...
+
+> cet extrait donne des pistes sur l'interet de cartes pattern comme outil pour manipuler collectivement l'information: l'usage du calepin visuo-spatial qui permet une vue d'ensemble non linéaire. Autre idées inspirée: concevoir des territoire non plus comme un simple business model canvas ou mandala, mais avec des reliefs, rivières, etc... autres elements structurants de par le pattern naturel qu'il possède. Le bateau du speedboat est déja dans cette idée, mais on pourrait imaginer un territoire avec plus patterns naturels (arbre/branche, vague, spirale, clusters, ...)
+
+## Discours vs cartographie
+
+### Cartographier pour donner une vision d'ensemble
+
+Dans un échange à plusieurs, et plus encore dans un conflit, chacun à tendance à défendre sa position et à la répéter sans cesse pour être sûr qu'elle soit bien prise en compte. Dans les faits, très souvent les différents points de vue ne s'excluent pas mais au contraire se complètent pour donner ensemble une vision plus globale. Pour dépasser cette difficulté, il faut *prendre en compte nos deux modes de pensée * qui utilisent chacun une mémoire de travail différente.
+
+Le premier, basé sur le **discours** consiste à placer les idées les unes à la suite de l'autre, un peu comme nous plaçons un pas devant l'autre pour avancer depuis un point de départ jusqu'à un point d'arrivée en suivant un cheminement. Ce mode de pensée permet en particulier l'approche rationnelle mais _il prend très difficilement en compte le conflit (un point de départ, deux directions), l'intelligence collective (plusieurs points de vue sur le même point d'arrivée) ou encore la créativité (trouver de nouveaux chemins entre plusieurs points de départ et plusieurs points d'arrivée) qui utilisent tous les trois un autre mode complémentaire_.
+
+Le deuxième mode de pensée est basée sur la **cartographie**. Il consiste à disposer toutes les idées en fonction de leur proximité sur une même carte mentale, sans chercher à les sélectionner a priori pour obtenir une vision la plus complète des idées et des chemins possibles. Les schémas heuristiques (mind mapping en anglais) co-construits et projetés à la vue de tous lors de séances sont très performants pour donner une vision globale aux membres du groupe et ainsi permettre de chercher de nouvelles idées et de nouveaux points de vue plutôt que chacun ne se focalise que sur une ou quelques idées déjà proposées.
+
+https://github.com/supagroflorac/cooptic/blob/master/contributions/m_Cartographier%20pour_donner_une_vision_d_ensemble.md
+
+### Extrait de Animapproches, par Jean-Michel Cornu
 
 Pour en savoir plus : nous avons non pas un mais deux modes de pensée
 
