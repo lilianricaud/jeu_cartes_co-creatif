@@ -8,3 +8,9 @@
 - Observation: données et expériences observables
 
 Observation -> Sélection -> Sens -> Suppositions -> Conclusions -> Croyances -> Actions -> Boucle réflexive: nos croyances influencent ce que nous observons.
+
+## Source
+
+The Ladder of Inference Peter Senge,The Fifth Discipline
+
+<img src ="https://pivotalthinking.files.wordpress.com/2011/11/plain-inference.png">
