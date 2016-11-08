@@ -1,5 +1,12 @@
 # Coopération ou collaboration - quelles différences ?
 
+## En 2 mots
+
+Un orchestre de musique clasique ou chacun joue une partition pré-établie: coopération
+Un groupe de Jazz ou chacun improvise en accord avec les autres: collaboration
+
+## Fiche Outils-Réseaux
+
 Entre la coopération et la collaboration, la différence est nuancée.  
 F. Henri et K. Lundgren-Cayrol analysent de manière très éclairante la différence entre ces deux notions.  
 La présentation qui suit reprend largement cette analyse.  
