@@ -8,3 +8,9 @@
     4. Respect et soutien mutuel – réciprocité, donner, obtenir de l'aide
     5. Sens – un sentiment clair que ce que l'on fait est utile et suffisament aligné avec ses valeurs personnelles. 
     6. Un futur desirable – les gens ne veulent générallement investir du temps et de l'energie dans un travail qui ne mène à rien. 
+
+Conditions préalables pour un travail collaboratif assisté par des facilitateurs:
+
+- L’enjeu est commun et significatif
+- Les parties prenantes concernées sont prêtes à un réel travail collaboratif entre elles ou mieux, elles n’ont plus d’autres choix
+- La direction du groupe est ouverte aux résultats des travaux collaboratifs
