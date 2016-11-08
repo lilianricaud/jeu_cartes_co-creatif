@@ -1,9 +1,9 @@
 # Coopération ou collaboration - quelles différences ?
 
-## En 2 mots
+## En 2 lignes
 
-Un orchestre de musique clasique ou chacun joue une partition pré-établie: coopération
-Un groupe de Jazz ou chacun improvise en accord avec les autres: collaboration
+- Un orchestre de musique clasique ou chacun joue une partition pré-établie: coopération
+- Un groupe de Jazz ou chacun improvise en accord avec les autres: collaboration
 
 ## Fiche Outils-Réseaux
 
@@ -39,16 +39,16 @@ Les membres du groupe travaillent pour un but commun. Mais chacun, individuellem
 
 De cette manière de réaliser la tâche commune, découlent d'autres différences :  
 
-*   ### La maturité des groupes
+* La maturité des groupes
 
-*   ### Les interactions entre les personnes
+* Les interactions entre les personnes
 
-*   ### La manière de considérer le but
+* La manière de considérer le but
 
 ## La maturité des groupes
 
-*   La démarche coopérative est plus structurée et encadrante. L'animateur organise et "contrôle" le travail. Ce type de travail convient davantage au "groupe-enfant";
-*   La démarche collaborative est plus souple et les membres du groupe disposent de plus de liberté, Elle convient davantage au "groupe-adulte"
+* La démarche coopérative est plus structurée et encadrante. L'animateur organise et "contrôle" le travail. Ce type de travail convient davantage au "groupe-enfant";
+* La démarche collaborative est plus souple et les membres du groupe disposent de plus de liberté, Elle convient davantage au "groupe-adulte"
 
 On peut voir la démarche coopérative comme une méthode d'initiation et de préparation à une réelle collaboration.  
 
