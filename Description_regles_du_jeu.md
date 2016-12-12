@@ -47,8 +47,7 @@ http://www.multibao.org/#lilianricaud/jeu_cartes_co-creatif/blob/master/Cartes-t
 ## Pour aller plus loin
 
 - Architecte Christopher Alexander (théorie des Pattern languages)
-- Livre : Les nouveaux collectifs citoyens (Yvan Maltcheff)
-- ZIM = wiki sur PC pour classer et ranger... sur l'ordi (on avait dit qu'une fois n'était pas coutume :p)
+- Ward Cunnigham a utilisé un système similaire pour penser collectivement des developpements informatiques: les CRC cards. Il recommande de limiter le nombre de cartes visibles à un moment donné et l'information de chaque carte. En fait certains cartes sont volontairement laissées blanches/vides le plus longtemps possible, mme si elles peuvent être manipulées avant: http://wiki.c2.com/?CrcCard
 
 
 AUTEUR : Lilian Ricaud, DLA37
