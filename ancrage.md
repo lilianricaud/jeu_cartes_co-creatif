@@ -7,3 +7,7 @@ Un ancrage rend tangible et visible une structure invisible (une idée, un conce
 - monuments / chefs-d'oeuvre
 
 ARTEFACTS sur les murs, monuments dans l'espace public, émotion ou partie du corps touchée, associée à une idée ou un concept, RITUELS comme ancrage temporels.
+
+Progressivité des ancrages:
+
+Idée -> Mot / symbole -> Post-it -> carte pattern -> carte figée / imprimée / contrat écrit -> monument / objet / tatouage / personnage /divinité / rôle /gardien
