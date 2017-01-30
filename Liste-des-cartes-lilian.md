@@ -78,7 +78,7 @@
 
 - HASARD
 - VALEURS
-- LIMITES: (espace, temps, cadre, règles du jeu, contraintes...)
+- >LIMITES: 
 -    
 - …
 
