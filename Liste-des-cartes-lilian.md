@@ -32,8 +32,8 @@
 - >DIAGRAMME EN ETOILE
 - >HISTOIRE
 - CONVIVIALITE / EPANOUISSEMENT
-- REGLES DU JEU
-- AFFORDANCES: 
+- >REGLES DU JEU
+- >AFFORDANCES
 - MANIPULATION ETHIQUE: manipulation qui aide la personne (ex la PNL doit être utilisée de manière éthique comme le fait un osthéopathe uqi manipule un patient. Pour cela elle doit laisser une part de libre arbitre à la personne (lien avec INTENTION, TRANSPARENCE, CHARTE ETHIQUE)
 - TECHNIQUES COMMNUICATION NON VERBALES: voix (silence, intonation), gestuelle (attitude physique, énergie, mouvement, occupation espace) regard (PNL, synchronisation)
 - VIDE: il est important de créer un espace vide pour que les gens puisse venir le remplir. Applicable à plusieurs niveaux: ceux qui amène le projet à ce jour et ceux qui le rejoindrons. Processus, récipient, afin que les gens s'en emparent de leur histoire et l'écrivent eux mêmes.
