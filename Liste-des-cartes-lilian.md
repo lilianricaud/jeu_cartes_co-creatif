@@ -38,7 +38,7 @@
 - >MANIPULATION ETHIQUE: 
 - TECHNIQUES COMMNUICATION NON VERBALES
 - VIDE
-- INVOCATION D'EXPERIENCE: utilisable pour créer un état de FLOW.
+- INVOCATION D'EXPERIENCE
 - DEFIS BORDERLINE: utilisable pour créer un état de FLOW: se placer à la limite de ce que l'on sent que l'on peut faire. attention à ne pas aller au dela de la limite de la confiance en soi.
 - INDICATEURS DE COOPERATION: http://prose.io/#lilianricaud/travail-en-reseau/edit/master/Indicateurs_de_cooperation.md
 - MORT DU GROUPE: Tout se passe comme si le groupe avait un corps, des émotions, passions, idées, rêves, conscience. Anticiper les conditions de la fin du groupe, accepter l'idée de renaitre différemment sous d'autres formes, types d'initiatives, d'autres groupes. Savoir parler de la fin de l'expérience pour rester sereinement en vie. (Lien avec COMPOSTABILITE)
