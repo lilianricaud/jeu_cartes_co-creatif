@@ -12,6 +12,6 @@ Progressivité des ancrages:
 
 Idée -> Mot / symbole -> Post-it -> carte pattern -> carte figée / imprimée / contrat écrit -> monument / objet / tatouage / personnage /divinité / rôle /gardien
 
-Ancrages dans la tradition orale: histoires / contes / personnages / divinités / chanson / rythmes
+Ancrages dans la tradition orale: histoires / contes / personnages / divinités / chants / rythmes
 
 
