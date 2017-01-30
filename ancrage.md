@@ -11,3 +11,7 @@ ARTEFACTS sur les murs, monuments dans l'espace public, émotion ou partie du co
 Progressivité des ancrages:
 
 Idée -> Mot / symbole -> Post-it -> carte pattern -> carte figée / imprimée / contrat écrit -> monument / objet / tatouage / personnage /divinité / rôle /gardien
+
+Ancrages dans la tradition orale: histoires / contes / personnages / divinités / chanson / rythmes
+
+
