@@ -1,4 +1,4 @@
-## ANCRAGE
+## ANCRAGES
 
 Un ancrage rend tangible et visible une structure invisible (une idée, un concept, des valeurs, une règle) et donc renforce cette idée dans la conscience individuelle et collective.
 
