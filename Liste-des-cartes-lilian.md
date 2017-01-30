@@ -36,15 +36,15 @@
 - >REGLES DU JEU
 - >AFFORDANCES
 - >MANIPULATION ETHIQUE: 
-- TECHNIQUES COMMNUICATION NON VERBALES
-- VIDE
-- INVOCATION D'EXPERIENCE
-- DEFIS BORDERLINE: utilisable pour créer un état de FLOW: se placer à la limite de ce que l'on sent que l'on peut faire. attention à ne pas aller au dela de la limite de la confiance en soi.
-- INDICATEURS DE COOPERATION: http://prose.io/#lilianricaud/travail-en-reseau/edit/master/Indicateurs_de_cooperation.md
-- MORT DU GROUPE: Tout se passe comme si le groupe avait un corps, des émotions, passions, idées, rêves, conscience. Anticiper les conditions de la fin du groupe, accepter l'idée de renaitre différemment sous d'autres formes, types d'initiatives, d'autres groupes. Savoir parler de la fin de l'expérience pour rester sereinement en vie. (Lien avec COMPOSTABILITE)
-- JE AGISSANT: privilégier l'expression du potentiel créateur de chacun (Maltecheff p103) Passer de groupe comme lieu où on va faire quelque chose à un lieu où on va exprimer son projet personnel avec le soutien du groupe. De "que suis je venu chercher ici?" à "que suis je venu exprimer ici?" Groupe = vehicule pour exprimer son projet de réalisation personnelle, le partager, le redéfinir avec ceux en résonance. Passer de Nous à JE limite la boulimie d'actions et d'idées et force à la concentration.
+- >TECHNIQUES COMMNUICATION NON VERBALES
+- >VIDE
+- >INVOCATION D'EXPERIENCE
+- >DEFIS BORDERLINE
+- >INDICATEURS DE COOPERATION
+- >MORT DU GROUPE
+- JE AGISSANT
 - ECOUTE ACTIVE
-- DIVERSITE: source de richesse, augmente le potentiel latent.
+- DIVERSITE
 - REMIX: aucune production de qualité n'est entieremment nouvelle, toute création s'appuie sur des éléments existants. Plutot que d'éviter la copie, mieux vaut l'utiliser. Recette pour REMIXER: COPIER -> TRANSPOSER -> COMBINER
 - QUESTIONS: questions ouvrantes/puissantes (contenus dans SOUVENIR DU FUTUR, METEO INTERIEURE, peux tu REFORMULER, qu'entends tu par... ?
 - ET SI: ouvre des possibles, opposé au oui, mais. les jeux permettent de passer du oui mais au ET SI. Que se passerait il si... ? Imaginez ce qui se passerait si ... ?
