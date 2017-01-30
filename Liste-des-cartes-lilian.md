@@ -35,9 +35,9 @@
 - >EPANOUISSEMENT
 - >REGLES DU JEU
 - >AFFORDANCES
-- MANIPULATION ETHIQUE: manipulation qui aide la personne (ex la PNL doit être utilisée de manière éthique comme le fait un osthéopathe uqi manipule un patient. Pour cela elle doit laisser une part de libre arbitre à la personne (lien avec INTENTION, TRANSPARENCE, CHARTE ETHIQUE)
-- TECHNIQUES COMMNUICATION NON VERBALES: voix (silence, intonation), gestuelle (attitude physique, énergie, mouvement, occupation espace) regard (PNL, synchronisation)
-- VIDE: il est important de créer un espace vide pour que les gens puisse venir le remplir. Applicable à plusieurs niveaux: ceux qui amène le projet à ce jour et ceux qui le rejoindrons. Processus, récipient, afin que les gens s'en emparent de leur histoire et l'écrivent eux mêmes.
+- >MANIPULATION ETHIQUE: 
+- TECHNIQUES COMMNUICATION NON VERBALES
+- VIDE
 - INVOCATION D'EXPERIENCE: utilisable pour créer un état de FLOW.
 - DEFIS BORDERLINE: utilisable pour créer un état de FLOW: se placer à la limite de ce que l'on sent que l'on peut faire. attention à ne pas aller au dela de la limite de la confiance en soi.
 - INDICATEURS DE COOPERATION: http://prose.io/#lilianricaud/travail-en-reseau/edit/master/Indicateurs_de_cooperation.md
@@ -77,7 +77,7 @@
 
 
 - HASARD
-- VALEURS
+- >VALEURS
 - >LIMITES: 
 -    
 - …
@@ -227,7 +227,7 @@
 - GOUVERNANCE DES COMMUNS: 8 principes fondamentaux
 - BUNDLE OF RIGHTS
 - MAX-NEEF’S THEORY OF NEEDS: http://prose.io/#lilianricaud/jeu_cartes_co-creatif/edit/master/Max-Neef_s_Theory_of_Needs.md
-- GOLDEN CIRCLE/START WITH WHY : Simon Sinek: "les gens n'achètent pas ce que vous faites, ils achètent pourquoi vous le faites". Cercle avec Pourquoi au milieu, comment autour, quoi à la périphérie. Ex: Apple. Why: change the status quo, think different. How: beautifully design products, simple to use, user-friendly. What: computers. but also ... music players, phone, watch, ... Martin Luther king said "I have a dream", not "I have a plan". Neo cortex work with rationnality, treat language. Limbic system works with feeling, trust, loyalty, decision-making, it has no capacity for language. We are convinced by feeling, not rationnality of language.
+- >GOLDEN CIRCLE/START WITH WHY : 
 - LOI DE DIFFUSION DE L'INNOVATION: Innovateurs (2,5%): inventent, early adopters (13,5%) adoptent, majorité précoce (34%) suivent l'adoption tôt, majorité tardive (34%) suivent l'adoption plus tard, retardataires (6%) suivent contraints et forcés. Pour une acceptation ou un succès d'une idée ou d'un produit, nécessité de passer un seuil de bascule (tipping point) des early adopters (de 15 à 20 % des gens). Les early adopters sont plus près a prendre des décisions avec les tripes d'ou l'intérêt de parler du pourquoi, pas du quoi. 
 - …
 
