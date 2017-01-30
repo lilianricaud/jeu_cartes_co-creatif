@@ -73,7 +73,7 @@
 - SENS: histoire d'une question posée à 3 tailleurs de pierre. "Que faites vous?" le premier: "je gagne ma vie", le deuxieme: " je taille de pierres", le troisième:" je construit une cathédrale". Ingrédient clé de MOTIVATION PROFONDE individuelle et collective.
 - JEU: contient ESPACE DE JEU, LIMITES, RÊGLES D'INTERACTION, ARTEFACTS, BUT
 - UNIVERS DE JEU: 1) imaginer l'univers, 2) le créer, 3) y pénétrer, 4) l'explorer, 5) en sortir.
-- ANCRAGE: /ancrage.md
+- >ANCRAGES: /ancrages.md
 
 
 - HASARD
@@ -87,7 +87,7 @@
 
 - sprint d'écriture
 - feedback mural
-- acsenseur (So speed dating)
+- ascenseur (So speed dating)
 - accélérateur de projet
 - souvenir du futur
 - cercle samoan
