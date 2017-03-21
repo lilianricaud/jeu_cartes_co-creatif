@@ -35,8 +35,104 @@ Pour chaque attitude il est possible de collectivement déterminer ce que serait
 Des "exercices de musculation" renforcent le coté attention, developpement et création d'habitudes par la répétition.
 
 
+## Orginal Mindsets cards
 
+Embrace and value where people are
+Everyone has a role to play
+Assume good intentions
+There's more than enough for everyone
+We need to get specific to be sure we're talking about the same thing
+We're in it together
+Everyone is intelligent
+No risk, no reward
+Sharing work before it's "ready" will make it better
+Slowing down will help us make better choices
+You are not your user
+Mistakes are part of learning
+I can't take care of others if I'm not compassionate to myself
+My time is valuable
+Our relationships are resilient
+Other people's time is just as valuable as mine
+Energy and enthusiasm are enough to get started
+Be the change
+Humor and fun lead to better work
+Listen for understanding
+I trust everyone to make good decisions if we're all on the same page
+Be conscious about power
+Be conscious about equity
+I like figuring out new things
+We can't improve if we don't talk openly and quickly about problems
+I don't always have to be out in front
+Little wins, small steps
+Good enough is good enough
+Wait and see
+Goals should be achievable
+Shoot for the stars, and you'll get to the moon
+We need to understand more before we can act
+Conflict is embarassing and should be dealt with privately
+I trust myself more than my teammates
+"Getting feedback" is code for I've failed
+There's not enough for everyone
+It's not safe to show my anger, so I'll find other ways to express it.
+Sharing before I'm ready will make me look bad
+Everyone should have a say in everything
+There is a "right" answer
+If it ain't broke, why fix it?
+Not my responsibility
+They're the problem that needs to be fixed, not me
+Play it safe
+I'm not done until it's perfect
+We don't have time for anything more than a quick fix
+It's too big and complex
+Mistakes are bad
+Work is serious. There's no place for fun.
+The goal of conversation is persuasion
+They won't do a good job unless someone tells them what to do
+They will never change
+There's no point, because they won't listen
+I know everything I need to know
+I know better
+I don't want them to hate me
+Everything depends on me
+Things happen, and there's nothing I can do about them.
+Including others will slow down everything
+Why stick my neck out? Nothing good ever comes of it.
+I'm most comfortable when I'm contributing what I already know
+It's not safe to talk openly about problems
+If I take a back seat, I'm letting everyone down
+Why should I change when nobody else is?
+I don't want to offend anyone
 
+## High performance collaboration muscles
+
+### Core muscles
+We use core muscles in every aspect of our collaborative work. They tie our task, relationship, and sensemaking muscles together.
+
+- Pausing
+- Asking generative questions
+- Listening actively
+- Navigating power
+
+### Task muscles
+We use task muscles to achieve our work specific goals.
+- Acting strategically
+- Group information hygiene
+- Working inclusively
+- Working iterativelly
+
+### Relationship
+Our relationship muscles help us engage with other more effectivelly.
+- Self-awareness
+- Asking for help
+-  Giving/receiving feedback
+- Challenging conversations
+- Weaving
+
+### Sensemaking
+We rely on our sensemaking muscles to constantly learn and improve.
+- Synthesizing / validating
+- Facilitating alignement
+- Thinking systematically
 
 ## Variantes
 
