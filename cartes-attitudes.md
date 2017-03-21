@@ -26,8 +26,15 @@ Pour rendre explicite les attitudes présentes ou souhaitables dans la culture d
 
 ## Muscles collaboratifs
 
+Pour aller plus loin il est possible de transformer les cartes attitudes en muscles collaboratif pour mesurer une progression.
+
+Le cadre métaphorique ramper-marcher-courir-voler est particulièrement interessant.
+
+Pour chaque attitude il est possible de collectivement déterminer ce que serait l'attitude haute et basse (probablement nécessaire d'avoir des experts extérieurs pour prendre du recul).
 
 
+
+## Variantes
 
 Possibilité de faire la même chose pour cartographier evenements (eventstorming) et faire des cartes avec curseur.
 
