@@ -32,6 +32,10 @@ Le cadre métaphorique ramper-marcher-courir-voler est particulièrement interes
 
 Pour chaque attitude il est possible de collectivement déterminer ce que serait l'attitude haute et basse (probablement nécessaire d'avoir des experts extérieurs pour prendre du recul).
 
+Des "exercices de musculation" renforcent le coté attention, developpement et création d'habitudes par la répétition.
+
+
+
 
 
 ## Variantes
