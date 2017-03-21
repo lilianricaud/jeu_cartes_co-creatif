@@ -35,7 +35,7 @@ Pour chaque attitude il est possible de collectivement déterminer ce que serait
 Des "exercices de musculation" renforcent le coté attention, developpement et création d'habitudes par la répétition.
 
 
-## Orginal Mindsets cards
+## Original Mindsets cards
 
 Embrace and value where people are
 Everyone has a role to play
