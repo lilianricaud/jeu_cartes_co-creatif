@@ -1,6 +1,6 @@
 # Signficance culturelle chez les aborigènes
 
-Adapté à partir d'extraits de "la peinture aborigène" Stéphane JACOB, Pierre GRUNDMANN, Maia PONSONNET
+Adapté à partir d'extraits de "la peinture aborigène" Stéphane JACOB, Pierre GRUNDMANN, Maia PONSONNET p23.
 
 Signficance culturelle par ordre d'importance de l'ANCRAGE: NOM, RECITS, CHANTS, CEREMONIES, SITES, GARDIENS
 

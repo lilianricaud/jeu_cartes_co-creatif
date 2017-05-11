@@ -15,3 +15,12 @@ Idée -> Mot / symbole -> Post-it -> carte pattern -> carte figée / imprimée /
 Ancrages dans la tradition orale: histoires / contes / personnages / divinités / chants / rythmes
 
 
+Ancrage dans la culture aborigène:
+
+NOM, RECITS, CHANTS, CEREMONIES, SITES, GARDIENS
+
+Ancrages dans la culture boudistes:
+
+Thangkas = supports peints
+Yidam = métaphore de vertus spirituelles pour produire images mentales justes et efficaces.
+chants (mantras ?)
