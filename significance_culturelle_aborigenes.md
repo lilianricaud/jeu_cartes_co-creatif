@@ -22,3 +22,12 @@ Le partage se fait entre initiés et chaque outil culturel contient un double se
 la peinture ou le chant sont assurés par des gardiens dépositaires du savoir sur un domaine particulier, les RECITS et les HISTOIRES associés, et possèdent le droit de les representer, ce qui leur confère un pouvoir social important. Le droit sur ces RECITS mythiques sont associés a des TERRITOIRES et des CLANS -> les REPRENSENTATIONS appartiennent à ces groupes.
 
 ## Langue
+
+La langue renforce l'application de système de parenté complexe, les noms donnés aux proches interdisant certaines combinaisons de mariages.
+
+
+## LOIS IMMUABLES ADAPTEES
+
+Dans la culture aborigène les lois sont immuables, mais surtout les lois mythiques. en pratique, les lois sont adaptées aux situations, evenements de générations. Les cadres ont toujours un échapatoires (quotidien, rituel, ...)
+
+un peintre doit respecter l'usage des représentations, mais quand il maitrise, il peut innover.
