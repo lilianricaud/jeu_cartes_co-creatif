@@ -19,4 +19,6 @@ cartes territoire: stylisés sous forme de symboles (homme + lance, point d'eau,
 Le partage se fait entre initiés et chaque outil culturel contient un double sens pratique ésotérique avec plusieurs niveaux de lectures
 
 ## GARDIENS DEPOSITAIRES
-la peinture ou le chant sont assurés par des gardiens dépositaires du savoir sur un domaine particulier, les RECITS et les HISTOIRES associés, et possèdent le droit de les representer, ce qui leur confère un pouvoir social important. Le droit sur ces RECITS mythiques sont associés a des TERRITOIRES et des CLANS -> les REPRENSENTATIONS appartiennent à ces groupes
+la peinture ou le chant sont assurés par des gardiens dépositaires du savoir sur un domaine particulier, les RECITS et les HISTOIRES associés, et possèdent le droit de les representer, ce qui leur confère un pouvoir social important. Le droit sur ces RECITS mythiques sont associés a des TERRITOIRES et des CLANS -> les REPRENSENTATIONS appartiennent à ces groupes.
+
+## Langue
