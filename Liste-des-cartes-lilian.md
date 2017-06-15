@@ -192,9 +192,10 @@
 
 
 ### Des concepts clés et apport théoriques
-
-- attracteur cognitif
+- ATTRACTEUR COGNITIF
+- AMENITÉ
 - NUMINOSITÉ
+- EFFET MOHRING
 - bûche maîtresse
 - parabole du roti
 - la tragédie des 3 C
