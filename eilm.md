@@ -1,4 +1,12 @@
-# Eilm
+# EILM
+
+(Arabe): savoir particulier des signes, des forces du vent, des reliefs mouvant du territoire, qui permet aux nomades de se déplacer dans le désert sans se perdre.
+
+"Science mineure" s'interessant aux conjonctures et à leur effets, signaux faibles, changements qualitatifs.
+
+Opposé à "science royale" qui cherche a caractériser une chose en lui conférant une identité, une essence stable, avec propriétés qui en découlent par déduction.
+
+version longue
 
 Un mot dans l’arabe ancien désigne cette idée, Eilm. Eilm est le savoir particulier des signes, des forces du vent, des reliefs mouvants du territoire, qui permet aux nomades de se déplacer dans le désert sans se perdre. 
 
