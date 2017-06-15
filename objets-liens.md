@@ -1,4 +1,4 @@
-## Objets liens
+## OBJETS LIENS
 
 Constitue un objet circulant autour duquel on va s'actualiser sans cesse (ex ballon de foot).
 
