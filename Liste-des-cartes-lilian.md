@@ -197,6 +197,7 @@
 - MAIEUTIQUE
 - CREATION D'UN RESEAU
 - PARADIGME INDUSTRIEL
+- PARADIGME CARTÉSIEN
 - bûche maîtresse
 - parabole du roti
 - la tragédie des 3 C
