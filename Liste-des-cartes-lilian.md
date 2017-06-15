@@ -221,12 +221,6 @@
 - pyramide de maslow
 - dialectique vs dialogique
 - Shu Ha Ri
-- PIÈGE ONTOLOGIQUE
-- OBJETS-LIENS
-- OBJET SOCIAL
-- CULTURE
-- INJONCTION PARADOXALE
-- BEYONDERS
 - attracteur cognitif
 - numinosité
 - cerveaux droit et gauche
@@ -235,6 +229,14 @@
 - Eilm
 - Mémoire de travail
 - Calepin Visuo-Spatial
+- STRUCTURES ET ARCHITECTURES INVISIBLES
+- PIÈGE ONTOLOGIQUE
+- OBJETS-LIENS
+- OBJET SOCIAL
+- CULTURE
+- INJONCTION PARADOXALE
+- BEYONDERS
+- CAPITAL SYMBOLIQUE
 - ARCHIPEL DE COOPERATION
 - STIGMERGIE
 - GOUVERNANCE DES COMMUNS: 8 principes fondamentaux
