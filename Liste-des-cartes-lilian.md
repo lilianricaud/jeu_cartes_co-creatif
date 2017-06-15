@@ -202,7 +202,9 @@
 - kaïzen
 - la trahison des images
 - le triangle de karpmann
-- capacitation
+- COMPLEXITE
+- CAPACITATION
+- WABI-SABI
 - POLARISATION SYMBIOTIQUE
 - CARTE VS TERRITOIRE
 - BIOMIMICRY
@@ -211,7 +213,7 @@
 - ÉNACTION
 - SÉRENDIPITÉ
 - TRANSFERT
-- liminalité
+- LIMINALITÉ
 - DUENDE
 - SHU HA RI
 - UBUNTU
