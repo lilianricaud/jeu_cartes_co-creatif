@@ -1,4 +1,4 @@
-# MEMOIRE TRANSACTIVE
+# MEMOIRE TRANSACTIVE (GROUPE)
 
 3 aspects:
 - spécialisation des expertises
