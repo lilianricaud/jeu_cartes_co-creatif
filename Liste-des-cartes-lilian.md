@@ -221,9 +221,9 @@
 - pyramide de maslow
 - dialectique vs dialogique
 - Shu Ha Ri
-- piège ontologique
+- PIÈGE ONTOLOGIQUE
 - OBJETS-LIENS
-- objet social: l'objet social est la raison pour laquelle deux personnes se parlent plutot que de parler à quelqu'un d'autre. Nous sommes de animaux sociaux et nous aimons sociabiliser, mais au démarrage nous avons besoin d'une raison de le faire. Cette raison, le noeud ans le réseau social est l'objet social, autour duquel se forme le réseau social.
+- OBJET SOCIAL
 - attracteur cognitif
 - numinosité
 - cerveaux droit et gauche
