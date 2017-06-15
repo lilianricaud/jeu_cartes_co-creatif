@@ -1,4 +1,4 @@
-## OBJETS LIENS
+# OBJETS LIENS
 
 Constitue un objet circulant autour duquel on va s'actualiser sans cesse (ex ballon de foot).
 
@@ -6,15 +6,15 @@ Matériels, immateriels, symboliques, pluriels ? Quels types ?
 
 3 types d'objet sliens
 
-### objets miam-miam
+## objets miam-miam
 
 On se coordonne pour avoir quelque chose qu'on veut acquerir (argent, proie)
 
-### Objets monstres
+## Objets monstres
 
 On s'unit contre, inventer un objet monstre pour assembler les masses ensemble
 
-### Objet art
+## Objet art
 
 On crée quelque chose, on s'approprie quelque chose.
 
