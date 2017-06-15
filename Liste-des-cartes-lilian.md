@@ -194,7 +194,7 @@
 ### Des concepts clés et apport théoriques
 
 - attracteur cognitif
-- numinosité
+- NUMINOSITÉ
 - bûche maîtresse
 - parabole du roti
 - la tragédie des 3 C
@@ -202,6 +202,8 @@
 - la trahison des images
 - le triangle de karpmann
 - capacitation
+- POLARISATION SYMBIOTIQUE
+- CARTE VS TERRITOIRE
 - BIOMIMICRY
 - 5 NIVEAUX DE FORMATION
 - ECOSYTEME VS EGOSYSTEME
