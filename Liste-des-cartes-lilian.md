@@ -215,18 +215,20 @@
 - énaction
 - sérendipité
 - transfert
-- HEURISTIQUE
-- COURBE DU DEUIL
-- DIALECTIQUE VS DIALOGIQUE
 - Shu Ha Ri
 - attracteur cognitif
 - numinosité
 - cerveaux droit et gauche
 - liminalité
-- irénisme
+- IRÉNISME
 - Eilm
 - Mémoire de travail
 - Calepin Visuo-Spatial
+- DISCOURS VS CARTOGRAPHIE
+- HEURISTIQUE
+- COURBE DU DEUIL
+- DIALECTIQUE VS DIALOGIQUE
+- MODELE COGNITIF DE MEDIATION
 - ANEKANTAVADA
 - STRUCTURES ET ARCHITECTURES INVISIBLES
 - PIÈGE ONTOLOGIQUE
