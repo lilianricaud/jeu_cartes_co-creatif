@@ -6,4 +6,5 @@ En gros, on va retrouver trois grands types de biais. Il nous arrive d'omettre d
 
 Pour prendre une image, les méta-modèles permettent de dévoiler des portes cachées, et donnent la clef pour ouvrir la porte.
 
+
 http://www.multibao.org/#sylvainboyer/decodage/blob/master/meta_modeles.md
