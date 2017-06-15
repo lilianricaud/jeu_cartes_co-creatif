@@ -3,7 +3,7 @@
 "Depechez vous d'être créatif"
 "Business plan d'innovation"
 
-Une injonction paradoxable contient deux injonction opposée ce qui peut conduire à une DISSONANCE COGNITIVE. 
+Une injonction paradoxable contient deux injonctions opposées ce qui peut conduire à une DISSONANCE COGNITIVE. 
 
 Dans certains cas c'est positif et à but de questionner (koan zen), mais le plus sousvent cela conduit à des conflits internes.
 
