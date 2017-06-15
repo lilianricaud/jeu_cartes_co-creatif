@@ -198,6 +198,7 @@
 - CREATION D'UN RESEAU
 - PARADIGME INDUSTRIEL
 - PARADIGME CARTÉSIEN
+- META-MODELES
 - bûche maîtresse
 - parabole du roti
 - la tragédie des 3 C
