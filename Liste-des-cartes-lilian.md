@@ -218,10 +218,10 @@
 - Shu Ha Ri
 - attracteur cognitif
 - numinosité
-- cerveaux droit et gauche
+- CERVEAU DROIT ET GAUCHE
 - liminalité
 - IRÉNISME
-- Eilm
+- EILM
 - Mémoire de travail
 - Calepin Visuo-Spatial
 - DISCOURS VS CARTOGRAPHIE
