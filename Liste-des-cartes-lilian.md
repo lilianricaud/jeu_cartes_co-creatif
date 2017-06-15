@@ -215,7 +215,8 @@
 - énaction
 - sérendipité
 - transfert
-- courbe du deuil
+- HEURISTIQUE
+- COURBE DU DEUIL
 - DIALECTIQUE VS DIALOGIQUE
 - Shu Ha Ri
 - attracteur cognitif
