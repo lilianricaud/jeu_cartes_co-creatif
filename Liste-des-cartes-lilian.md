@@ -191,7 +191,24 @@
 - …
 
 
-### Des concepts clés et apport théoriques, 
+### Des concepts clés et apport théoriques
+
+
+- bûche maîtresse
+- parabole du roti
+- la tragédie des 3 C
+- kaïzen
+- la trahison des images
+- le triangle de karpmann
+- capacitation
+- les 5 niveaux de formation (être exposé à / avoir vécu / savoir expliquer / être agile / savoir innover)
+- ÉNACTION
+- SÉRENDIPITÉ
+- TRANSFERT
+- liminalité
+- Shu Ha Ri
+- attracteur cognitif
+- numinosité
 - EFFET SAPIR-WHORF
 - DISSONANCE COGNITIVE
 - MAIEUTIQUE
@@ -203,25 +220,10 @@
 - ECHELLE D'INFERENCE
 - METHODE VEGETATIVE D'HUNDERTWASSER
 - PYRAMIDE DE MASLOW
-- bûche maîtresse
-- parabole du roti
-- la tragédie des 3 C
-- kaïzen
-- la trahison des images
-- le triangle de karpmann
-- capacitation
-- structures et architectures invisibles
-- les 5 niveaux de formation (être exposé à / avoir vécu / savoir expliquer / être agile / savoir innover)
-- énaction
-- sérendipité
-- transfert
-- Shu Ha Ri
-- attracteur cognitif
-- numinosité
 - CERVEAU DROIT ET GAUCHE
-- liminalité
 - IRÉNISME
 - EILM
+- MEMOIRE TRANSACTIVE
 - MEMOIRE DE TRAVAIL
 - CALEPIN VISUO-SPATIAL
 - DISCOURS VS CARTOGRAPHIE
@@ -243,7 +245,7 @@
 - GOUVERNANCE DES COMMUNS: 8 principes fondamentaux
 - BUNDLE OF RIGHTS
 - MAX-NEEF’S THEORY OF NEEDS: Max-Neef_s_Theory_of_Needs.md
-- >GOLDEN CIRCLE/START WITH WHY
+- GOLDEN CIRCLE/START WITH WHY
 - LOI DE DIFFUSION DE L'INNOVATION
 - …
 
