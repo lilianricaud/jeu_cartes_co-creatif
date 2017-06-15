@@ -208,18 +208,15 @@
 - la tragédie des 3 C
 - kaïzen
 - la trahison des images
-- anekantavada (= parabole des aveugles et de l'éléphant)
 - le triangle de karpmann
 - capacitation
 - structures et architectures invisibles
 - les 5 niveaux de formation (être exposé à / avoir vécu / savoir expliquer / être agile / savoir innover)
-- capital symbolique
 - énaction
 - sérendipité
 - transfert
 - courbe du deuil
-- pyramide de maslow
-- dialectique vs dialogique
+- DIALECTIQUE VS DIALOGIQUE
 - Shu Ha Ri
 - attracteur cognitif
 - numinosité
