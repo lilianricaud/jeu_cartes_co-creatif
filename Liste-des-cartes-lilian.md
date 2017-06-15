@@ -192,13 +192,14 @@
 
 
 ### Des concepts clés et apport théoriques
+- la tragédie des 3 C
 - ATTRACTEUR COGNITIF
 - AMENITÉ
 - NUMINOSITÉ
 - EFFET MOHRING
 - BÛCHE MAÎTRESSE
 - PARABOLE DU ROTI
-- la tragédie des 3 C
+- COORDINATED BACTERIAL NETWORKS
 - KAÏZEN
 - LA TRAHISON DES IMAGES
 - TRIANGLE DE KARPMANN
