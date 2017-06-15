@@ -209,6 +209,8 @@
 - Shu Ha Ri
 - attracteur cognitif
 - numinosité
+- CYNEFIN
+- JUGAAD
 - EFFET SAPIR-WHORF
 - DISSONANCE COGNITIVE
 - MAIEUTIQUE
