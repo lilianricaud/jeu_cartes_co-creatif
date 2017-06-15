@@ -193,7 +193,8 @@
 
 ### Des concepts clés et apport théoriques
 
-
+- attracteur cognitif
+- numinosité
 - bûche maîtresse
 - parabole du roti
 - la tragédie des 3 C
@@ -201,14 +202,16 @@
 - la trahison des images
 - le triangle de karpmann
 - capacitation
-- les 5 niveaux de formation (être exposé à / avoir vécu / savoir expliquer / être agile / savoir innover)
+- BIOMIMICRY
+- 5 NIVEAUX DE FORMATION
+- ECOSYTEME VS EGOSYSTEME
 - ÉNACTION
 - SÉRENDIPITÉ
 - TRANSFERT
 - liminalité
-- Shu Ha Ri
-- attracteur cognitif
-- numinosité
+- DUENDE
+- SHU HA RI
+- UBUNTU
 - CYNEFIN
 - JUGAAD
 - EFFET SAPIR-WHORF
