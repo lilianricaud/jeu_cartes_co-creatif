@@ -196,12 +196,12 @@
 - AMENITÉ
 - NUMINOSITÉ
 - EFFET MOHRING
-- bûche maîtresse
-- parabole du roti
+- BÛCHE MAÎTRESSE
+- PARABOLE DU ROTI
 - la tragédie des 3 C
-- kaïzen
-- la trahison des images
-- le triangle de karpmann
+- KAÏZEN
+- LA TRAHISON DES IMAGES
+- TRIANGLE DE KARPMANN
 - COMPLEXITE
 - CAPACITATION
 - WABI-SABI
