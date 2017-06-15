@@ -1,6 +1,4 @@
-## Dialectique vs dialogique
-
-#DIALECTIQUE VS DIALOGIQUE
+# DIALECTIQUE VS DIALOGIQUE
 
 Nos conversations peuvent suivre deux voies différentes:
 
