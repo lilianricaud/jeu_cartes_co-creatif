@@ -199,6 +199,8 @@
 - PARADIGME INDUSTRIEL
 - PARADIGME CARTÉSIEN
 - META-MODELES
+- BESOINS VS ATTENTES
+- ECHELLE 
 - bûche maîtresse
 - parabole du roti
 - la tragédie des 3 C
@@ -232,9 +234,9 @@
 - STIGMERGIE: principes http://www.lilianricaud.com/travail-en-reseau/principes-cles-pour-mettre-en-oeuvre-une-cooperation-stigmergique/
 - GOUVERNANCE DES COMMUNS: 8 principes fondamentaux
 - BUNDLE OF RIGHTS
-- MAX-NEEF’S THEORY OF NEEDS: http://prose.io/#lilianricaud/jeu_cartes_co-creatif/edit/master/Max-Neef_s_Theory_of_Needs.md
-- >GOLDEN CIRCLE/START WITH WHY : 
-- LOI DE DIFFUSION DE L'INNOVATION: Innovateurs (2,5%): inventent, early adopters (13,5%) adoptent, majorité précoce (34%) suivent l'adoption tôt, majorité tardive (34%) suivent l'adoption plus tard, retardataires (6%) suivent contraints et forcés. Pour une acceptation ou un succès d'une idée ou d'un produit, nécessité de passer un seuil de bascule (tipping point) des early adopters (de 15 à 20 % des gens). Les early adopters sont plus près a prendre des décisions avec les tripes d'ou l'intérêt de parler du pourquoi, pas du quoi. 
+- MAX-NEEF’S THEORY OF NEEDS: Max-Neef_s_Theory_of_Needs.md
+- >GOLDEN CIRCLE/START WITH WHY
+- LOI DE DIFFUSION DE L'INNOVATION
 - …
 
 
