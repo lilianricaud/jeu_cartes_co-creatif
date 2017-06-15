@@ -192,7 +192,11 @@
 
 
 ### Des concepts clés et apport théoriques, 
-
+- EFFET SAPIR-WHORF
+- DISSONANCE COGNITIVE
+- MAIEUTIQUE
+- CREATION D'UN RESEAU
+- PARADIGME INDUSTRIEL
 - bûche maîtresse
 - parabole du roti
 - la tragédie des 3 C
