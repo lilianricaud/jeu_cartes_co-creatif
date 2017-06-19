@@ -1,5 +1,7 @@
 # GOUVERNANCE DES COMMUNS
 
+8 principes fondamentaux identifiés par Elinor Ostrom pour qu'un commun fonctionne
+
 - délimitation claire de l'objet de la communauté et de ses membres
 - cohérence entre les règles relatives à la ressource commune et la nature de cette ressource
 - un système permettant aux individus de participer à la définition et à la modification des règles
