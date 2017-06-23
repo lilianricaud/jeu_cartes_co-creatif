@@ -35,6 +35,8 @@ Chaque carte se compose de :
 - - plutôt au crayon de papier pour pouvoir modifier par la suite
 - - plutôt en majuscules pour faciliter la lecture de tous
 
+options : gomettes de couleurs pour "tagger" cartes multicatégories.
+
 ## Cartes Patterns
 
 http://www.multibao.org/#lilianricaud/jeu_cartes_co-creatif/blob/master/Cartes-trames-langage-de-patterns.md
