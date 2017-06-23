@@ -35,7 +35,17 @@ Chaque carte se compose de :
 - - plutôt au crayon de papier pour pouvoir modifier par la suite
 - - plutôt en majuscules pour faciliter la lecture de tous
 
-options : gomettes de couleurs pour "tagger" cartes multicatégories.
+
+## Autres formats
+
+- ajout facilitation graphique sur chaque carte
+- cartes de couleurs différentes
+- gomettes de couleurs pour "tagger" cartes multicatégories.
+
+## Autres usages:
+- franck lepage collaboratif (tirer et composer avec cartes)
+- mindmapping en croisant type de cartes, reliant les concepts
+- pour une prépa d'animation ou formation, scanner ses connaissances en explorant ses cartes avec les mains
 
 ## Cartes Patterns
 
