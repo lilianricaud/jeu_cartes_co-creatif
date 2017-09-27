@@ -5,6 +5,8 @@
 - DIVISION DU TRAVAIL
 - MONNAIE RARE
 
+possede intelligence de dinosaure, tout petit cerveau, corps immense
+
 ## Source
 
 JF Noubel
