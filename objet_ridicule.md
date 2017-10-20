@@ -1,0 +1,3 @@
+# OBJET RIDICULE
+
+dans des situations potentiellement tendues, introduire un objet ridicule pour signaler des débordements (jugement) de manière ludique sans avoir à le dire, évite de redevenir trop sérieux. Exemples: poulet en plastique, jouet, ballon, bonnet de fou du roi, pomodoro, ...
