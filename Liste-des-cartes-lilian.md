@@ -49,13 +49,13 @@
 - QUESTIONS: questions ouvrantes/puissantes (contenus dans SOUVENIR DU FUTUR, METEO INTERIEURE, peux tu REFORMULER, qu'entends tu par... ?
 - ET SI: ouvre des possibles, opposé au oui, mais. les jeux permettent de passer du oui mais au ET SI. Que se passerait il si... ? Imaginez ce qui se passerait si ... ?
 - CONTEXTE:
-- OBJECTIFS FLOUS
-- OBJECTIF PREPONDERANT: /objectif-preponderant.md
-- POTENTIEL LATENT
-- BINOME:
-- REGLES D'INTERACTION
-- STRUCTURE DE PAROLE
-- RESPIRATION
+- > OBJECTIFS FLOUS
+- > OBJECTIF PREPONDERANT: /objectif-preponderant.md
+- > POTENTIEL LATENT
+- > BINOME
+- > REGLES D'INTERACTION
+- > STRUCTURE DE PAROLE
+- > RESPIRATION
 - > RENCONTRE DEBOUT
 - > REPAS DELICIEUX
 - > DELESTEUR
