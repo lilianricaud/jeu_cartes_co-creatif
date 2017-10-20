@@ -1,4 +1,6 @@
-ce qui a du 
+# Sens
+
+ce qui a du sens
 - satisfait
 - interesse
 - stimule
