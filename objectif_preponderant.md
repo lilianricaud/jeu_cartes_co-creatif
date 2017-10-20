@@ -1,10 +1,19 @@
 ## Objectif prépondérant
-
 Une bonne idée ne suffit pas pour qu'un groupe coopère et mène l'idée à terme.
 
 Un objectif assez fort et assez clair pour créer une vision partagée autour de laquelle un groupe peut s'unir et coopérer pour atteindre cet objectif.
 
+Un objectif prépondérant est quelque chose d’assez grand et persuasif pour aider les individus et les groupes à surmonter leur différences personnelles afin d’arriver à quelque chose de plus important que ce qu’ils auraient pu faire en restant isolés.
+
+Dans les projets collaboratifs de masse, de tels objectifs apparaissent souvent sous forme de mission d’entreprise (« mission statement »), description de projet, instructions, ligne de conduite, qui essayent de communiquer les objectifs et problématiques du groupe.
+
+Les objectifs prépondérant ont aussi tendance à communiquer les valeurs clés, les croyances, les normes du groupe, ce qui a pour effet d’attirer des participants partageant ces valeurs.
+
+-> IRENISME
+
 Si un groupe a un objectif prépondérant, il arrivera à dépasser n'importe quel obstacles pour réussir. A l'inverse en l'absence d'un objectif prépondérant, la coopération s'arretera à la première difficulté.
+
+Un objectif prépondérant contient impérativement du SENS. EXPLICITER le SENS est l'une des premières étapes clé de tout projet collectif.
 
 Version appliquée à l'entreprise: Big Hairy Audacious Goal
 
