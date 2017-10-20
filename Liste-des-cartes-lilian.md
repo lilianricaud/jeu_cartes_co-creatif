@@ -65,12 +65,12 @@
 - SOUS-GROUPES
 - fonctions vitales de groupes
 - SAS (se créer une zone de transition d'un état/lieu à un autre)
-- MOUVEMENT
-- OBJET RIDICULE: dans des situations potentiellement tendues, introduire un objet ridicule pour signaler des débordements (jugement) de manière ludique sans avoir à le dire, évite de redevenir trop sérieux. Exemples: poulet en plastique, jouet, ballon, bonnet de fou du roi, pomodoro, ...
-- environnement
-- LIEU CONVIVIAL
-- AUTO-EVALUATION: selon vous: qu'est ce qui a marché ? qu'est ce qui peut être amélioré ? REFORMULER en termes positifs. Questionnaire: 5 points forts. Exercice: emergence compétences clés? Notation: auto-évaluation contextualisée, évaluation croisée. expliciter le positif, impact sur les personnes. combiner avec MATRICE VISUELLE (DIAGRAMME RADAR) avec paramètres évaluation: auto, croisée, normes
-- SENS: histoire d'une question posée à 3 tailleurs de pierre. "Que faites vous?" le premier: "je gagne ma vie", le deuxieme: " je taille de pierres", le troisième:" je construit une cathédrale". Ingrédient clé de MOTIVATION PROFONDE individuelle et collective.
+- > MOUVEMENT
+- > OBJET RIDICULE
+- > environnement
+- > LIEU CONVIVIAL
+- > AUTO-EVALUATION
+- > SENS
 - > JEU
 - > UNIVERS DE JEU
 - >ANCRAGES: /ancrages.md
