@@ -58,10 +58,10 @@
 - RESPIRATION
 - RENCONTRE DEBOUT
 - REPAS DELICIEUX
-- DELESTEUR
-- TACHES ESSENTIELLES: quelles sont les taches critiques / essentielles ? les taches qui, si on ne le faits le système s'écroule/ne fonctionne pas. Les EXPLICITER / rendre visible. S'assurer qu'elles sont prises en charge.
-- MEMOIRE: garder des traces de la mémoire collective (ANCRAGE, ARTEFACTS)
-- architecture capacitante
+- > DELESTEUR
+- > TACHES ESSENTIELLES
+- > MEMOIRE
+- > architecture capacitante
 - > SOUS-GROUPES
 - > fonctions vitales de groupes
 - > SAS (se créer une zone de transition d'un état/lieu à un autre)
