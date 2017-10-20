@@ -71,8 +71,8 @@
 - LIEU CONVIVIAL
 - AUTO-EVALUATION: selon vous: qu'est ce qui a marché ? qu'est ce qui peut être amélioré ? REFORMULER en termes positifs. Questionnaire: 5 points forts. Exercice: emergence compétences clés? Notation: auto-évaluation contextualisée, évaluation croisée. expliciter le positif, impact sur les personnes. combiner avec MATRICE VISUELLE (DIAGRAMME RADAR) avec paramètres évaluation: auto, croisée, normes
 - SENS: histoire d'une question posée à 3 tailleurs de pierre. "Que faites vous?" le premier: "je gagne ma vie", le deuxieme: " je taille de pierres", le troisième:" je construit une cathédrale". Ingrédient clé de MOTIVATION PROFONDE individuelle et collective.
-- JEU: contient ESPACE DE JEU, LIMITES, RÊGLES D'INTERACTION, ARTEFACTS, BUT
-- UNIVERS DE JEU: 1) imaginer l'univers, 2) le créer, 3) y pénétrer, 4) l'explorer, 5) en sortir.
+- > JEU
+- > UNIVERS DE JEU
 - >ANCRAGES: /ancrages.md
 
 
