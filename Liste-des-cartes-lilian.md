@@ -46,9 +46,9 @@
 - >ECOUTE ACTIVE
 - >DIVERSITE
 - >REMIX
-- QUESTIONS: questions ouvrantes/puissantes (contenus dans SOUVENIR DU FUTUR, METEO INTERIEURE, peux tu REFORMULER, qu'entends tu par... ?
-- ET SI: ouvre des possibles, opposé au oui, mais. les jeux permettent de passer du oui mais au ET SI. Que se passerait il si... ? Imaginez ce qui se passerait si ... ?
-- CONTEXTE:
+- > QUESTIONS
+- > ET SI
+- > CONTEXTE
 - > OBJECTIFS FLOUS
 - > OBJECTIF PREPONDERANT: /objectif-preponderant.md
 - > POTENTIEL LATENT
@@ -74,8 +74,6 @@
 - > JEU
 - > UNIVERS DE JEU
 - >ANCRAGES: /ancrages.md
-
-
 - HASARD
 - >VALEURS
 - >LIMITES: 
