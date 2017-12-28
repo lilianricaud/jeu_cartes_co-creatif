@@ -4,11 +4,9 @@ le langage est à la fois un outil, un filtre et un indicateur, reflète une vis
 
 Peut nous enfermer dans des PIEGES_ONTOLOGIQUES. 
 
-Les règles du langage sont des transformations:le langage fournit une série de règles qui autorise certaines transformations qui ont un sens mais interdit les autres. Les transformations typiquement autorisées sont la substitution, l'inversino, la concaténation.
+Les règles du langage sont des transformations (GRAMMAIRE TRANSFORMATIONNELLE)
 
 LE (GROS, JOLI *qualité*) CHAT (*nom/pattern) CHASSE (*verbe/relation/Action*)
 transformational grammar p442
 
-Rules of language are transformations
 
-A string creating system was defined the language provides a series of rules which allowed certain kinds of transformations which would elaborate a give string, and turn it into another string  which is allowed. Typical allowed transformations include substitution, inversion, concatenation. from The Nature of Order: The process of creating life; Alexander, C.
