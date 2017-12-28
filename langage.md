@@ -7,6 +7,6 @@ Peut nous enfermer dans des PIEGES_ONTOLOGIQUES.
 Les règles du langage sont des transformations (GRAMMAIRE TRANSFORMATIONNELLE)
 
 LE (GROS, JOLI *qualité*) CHAT (*nom/pattern) CHASSE (*verbe/relation/Action*)
-transformational grammar p442
+transformational grammar Nature of order v2, p442
 
 
