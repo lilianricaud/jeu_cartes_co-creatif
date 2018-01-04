@@ -263,6 +263,7 @@
 - PYRAMIDE DES NIVEAUX LOGIQUES
 - ANCRES POSITIVES
 - ÉTATS RESSOURCES
+- 5 BESOINS DE BASE DU CERVEAU DROIT
 - …
 
 
@@ -314,4 +315,5 @@
 - draw on a photograph
 - use models
 - cartographier
+- ressuciter son estime de soi
 - …
