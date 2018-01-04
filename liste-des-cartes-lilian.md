@@ -186,6 +186,7 @@
 - MATRICE INFLUENCE VS IMPACT
 - DECISION PAR CONSENTEMENT: /decision-par-consentement.md
 - OBJECTION: /objection.md
+- MÉTHODE CREATIVE DE WALT DISNEY
 - …
 
 
