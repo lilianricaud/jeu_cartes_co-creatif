@@ -12,3 +12,5 @@ Selon Disney, la créativité suit 3 phases:
 
 si besoin/blocage, faire appel au réveur.
 possibilité de matérialiser les rôles avec des chapeaux comme chapeau de bono.
+
+https://lateralaction.com/articles/walt-disney/
