@@ -18,4 +18,4 @@ Exemples de roles possibles:
 - incarner l'action
 
 
-Les roles peuvent être rendus visibles, être distribués et tournants
+Les roles peuvent être rendus visibles (EXPLICITE), être DISTRIBUÉS et tournants (ROTATION)
