@@ -1,8 +1,5 @@
 ## Les neuf lois de la coopération
-La coopération est obtenue en agissant sur l'environnement plutôt que par la
-contrainte des personnes. Le monde actuel en perpétuel mouvement aide à
-façonner l'environnement pour arriver aux trois conditions qui facilitent la
-coopération :
+La coopération est obtenue en agissant sur l'environnement plutôt que par la contrainte des personnes. Le monde actuel en perpétuel mouvement aide à façonner l'environnement pour arriver aux trois conditions qui facilitent la coopération :
 - Réconcilier l'intérêt individuel et collectif
 - Multiplier les possibilités sans qu'aucune ne soit critique
 - Faciliter le passage à l'acte
