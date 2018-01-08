@@ -9,6 +9,8 @@ Dans les projets collaboratifs de masse, de tels objectifs apparaissent souvent 
 
 Les objectifs prépondérant ont aussi tendance à communiquer les valeurs clés, les croyances, les normes du groupe, ce qui a pour effet d’attirer des participants partageant ces valeurs.
 
+Exemple:  – "Si tu veux construire un bateau, ne rassemble pas tes hommes et femmes pour leur donner des ordres, pour expliquer chaque détail, pour leur dire où trouver chaque chose. Si tu veux construire un bateau, fais naître dans le coeur de tes hommes et femmes le désir de la mer". Saint-Exupéry (Antoine de )
+
 -> IRENISME
 
 Si un groupe a un objectif prépondérant, il arrivera à dépasser n'importe quel obstacles pour réussir. A l'inverse en l'absence d'un objectif prépondérant, la coopération s'arretera à la première difficulté.
