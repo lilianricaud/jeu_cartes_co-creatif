@@ -9,8 +9,7 @@ Exemples de roles possibles:
 - supervision, coaching
 - gardien de l'énergie/atmopshère
 - inspirateur/polinisateur (POLLINISATION)
-- attrapeur de pépites
-- attrapeur de question
+- attrapeur (pépites, questions)
 - sage
 - gardien de la vision
 - super intendant (pilotage et suivi)
@@ -18,4 +17,4 @@ Exemples de roles possibles:
 - incarner l'action
 
 
-Les roles peuvent être rendus visibles (EXPLICITE), être DISTRIBUÉS et tournants (ROTATION)
+Les rôles peuvent être rendus visibles (EXPLICITE), soit par simple discussion ou mieux à l'aide d'ARTÉFACTS (ex: Chapeaux de Bono). Pour une GOUVERNANCE PARTAGÉ, ils peuvent être DISTRIBUÉS et tournants (ROTATION)
