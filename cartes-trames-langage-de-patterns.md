@@ -88,9 +88,9 @@ Ces cartes permettent plusieurs avantages:
 - par rapport à un support numérique seul, le fait de pouvoir toucher les cartes et les déplacer avec ses mains,  le support cartes facilitent la manipulation collective de l'information
 - par rapport a des cartes imprimées, le format "fait main" permet la correction, l'évolution par itération successives. de nouvelles cartes sont facilement créées ou modifiées.
 
-Pour ceux qui ne connaissant pas la méthode des langages de pattern, il est important de comprendre qu'il ne s'agit pas d'une simple liste d'éléments, mais de trame qui peuvent être déclinées différemment selon le contexte. 
+Pour ceux qui ne connaissant pas la méthode des langages de pattern, il est important de comprendre qu'il ne s'agit pas d'une simple liste d'éléments, mais de trameS qui peuvent être déclinées différemment selon le contexte. 
 
-Par exemple le pattern ACCESSIBILITE peut être décliné en accès aux fauteuils roulants et toilettes adaptées, mais aussi sur des mobiliers ou équipements adaptées a d'autre types de handicaps (postes informatiques spéciaux, logiciels ou site web accessibles aux malvoyants, …)
+Par exemple le pattern ACCESSIBILITE peut être décliné en accès aux fauteuils roulants et toilettes adaptées, mais aussi sur des mobiliers ou équipements adaptées à d'autre types de handicaps (postes informatiques spéciaux, logiciels ou site web accessibles aux malvoyants, …)
 
 Voici ces différents patterns détaillés:
 
