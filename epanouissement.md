@@ -13,4 +13,6 @@ s'épanouir (emploi pronominal
 
 (en anglais (fleur) blooming, (personne) blossoming ou encore la notion plus récente de "thrivability", la capacité à s'épanouir à prospérer)
 
+Cette notion est permise par des architectures capacitantes (CAPACITATION) ou conviviales (CONVIVIALITÉ). C'est la FONCTION NATURELLE, contraire de la FONCTION FORCÉE d'un système cité par la PERMACULTURE ou la QUALITÉ SANS NOM décrite par C. Alexander.
+
 en janvier 2017 Wikipedia n'a pas d'article sur la notion d'épanouissement.
