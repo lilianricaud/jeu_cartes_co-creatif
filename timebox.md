@@ -1,6 +1,6 @@
-## Timebox
+## TIMEBOX
 
-Le fait de se mettre des horaires et de les respecter, sculpter le temps de manière consciente)
+Le fait de se mettre des horaires et de les respecter, sculpter le temps de manière consciente
 
 La contrainte de temps est un des ingrédients les plus puissants.
 
@@ -10,5 +10,5 @@ Différentes façons de l'utiliser:
 - demander à quelqu'un du groupe de jouer le ROLE de gardien du temps
 - ...
 
-Ce pattern fait partie du pattern #_LIMITES
+Ce pattern fait partie du pattern LIMITES
 
