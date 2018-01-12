@@ -17,4 +17,4 @@ Exemples de roles possibles:
 - incarner l'action
 
 
-Les rôles peuvent être rendus visibles (EXPLICITE), soit par simple discussion ou mieux à l'aide d'ARTÉFACTS (ex: Chapeaux de Bono). Pour une GOUVERNANCE PARTAGÉ, ils peuvent être DISTRIBUÉS et tournants (ROTATION)
+Les rôles explicites facilitent l'ANCRAGE d'une fonction qui devient incarnée par un ou plusieurs individus. Ils peuvent être rendus visibles (EXPLICITE), soit par simple discussion ou mieux à l'aide d'ARTÉFACTS (ex: Chapeaux de Bono). Pour une GOUVERNANCE PARTAGÉ, ils peuvent être DISTRIBUÉS et tournants (ROTATION)
