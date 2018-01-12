@@ -4,6 +4,6 @@ Quels sont les mécanismes de décision dans un groupe ? Majorité, consensus, c
 
 Sont il explicites (#_EXPLICITER) ou implicites.
 
-Ont ils été discuté et choisi consciemment ?
+Ont ils été discutés et choisis consciemment ?
 
 Sont ils réévalués pour savoir s'ils servent leur objectif ? (#_RETROSPECTIVE) 
