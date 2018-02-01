@@ -2,6 +2,8 @@
 
 ## Compétences collaboratives pivots
 
+Une combinaison de ces trois compétences semble corrélée à une mise en œuvre plus riche de la coopération/collaboration. Elles peuvent donc être considérées comme des compétences « pivots » du projet collaboratif.
+
 ### Avoir l'esprit collaboratif
 
 - à priori positif vis à vis de la collaboration
