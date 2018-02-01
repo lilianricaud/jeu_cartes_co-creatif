@@ -30,7 +30,11 @@
 - « gérer les informations »,
 - « agir pour atteindre les objectifs communs »).
 
-## Se développe par
+## Développement des compétences collaboratives
+
+Le développement des compétences collaboratives, l’approche par l’activité est pertinente
+tant pour l’analyse (à la lumière de la théorie de l’activité) que pour la scénarisation des activités
+d’apprentissage (apprentissage « par le faire »).
 
 écosystème favorable au developpement de compétences collaboratives plutot que d'un traitement séparé par des exercices specifiques
 
