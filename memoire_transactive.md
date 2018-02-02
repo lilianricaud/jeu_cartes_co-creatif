@@ -1,3 +1,4 @@
+# MÉMOIRE TRANSACTIVE
 
 Les psychologues utilisent parfois un questionnaire qui mesure 3 aspects de la mémoire transactive:
 - la specialisation des experties
