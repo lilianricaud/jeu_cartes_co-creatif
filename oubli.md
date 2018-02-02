@@ -21,6 +21,7 @@ déficit d'attention
 - technique de rappel avec indice est la meilleure pour vérifier si la personne a bien intégré l'information.
 - prérequis: ("il faut savoir ... pour comprendre")
 - préactivation du cerveau:
+- vocaliser (faire travailler larynx)
 
 
 rappel libre: qui etait en classe avec vous ?
