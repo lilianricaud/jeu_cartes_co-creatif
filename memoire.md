@@ -15,7 +15,7 @@ mémoire épisodique: sur les stituation vécues avec chronologie des faits, not
 mémoire perceptive ou sensorielle: m"moire des sentiments ou émotions, transforme signaux physiques (visuel,auditif, olfactif) en réactions du corps
 
 
-m"moire de savoir faire:
+mémoire de savoir faire:
 mémoire procédurale: explicite (on ne sait pas expliquer) comment on fait du vélo, utiliser un instrument, ... utiliser information cognitive
 
 nécessite grand nombre de répétition, mais on n'oublie jamais.
