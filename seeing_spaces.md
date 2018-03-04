@@ -14,3 +14,6 @@ shift from putting things together to seeing and understanding in powerful ways.
 For tinkering you need bulding tools
 for Engineering you need conceptual tools
 For science you need seeingtools that allow deep understanding and exploration.
+
+Bret Scott
+https://vimeo.com/36579366
