@@ -1,5 +1,7 @@
 ## ANCRAGES
 
+
+
 Un ancrage rend tangible et visible une structure invisible (une idée, un concept, des valeurs, une règle) et donc renforce cette idée dans la conscience individuelle et collective.
 
 - rythmes et chants pour ancrer dans le corps
@@ -24,3 +26,6 @@ Ancrages dans la culture boudistes:
 Thangkas = supports peints
 Yidam = métaphore de vertus spirituelles pour produire images mentales justes et efficaces.
 chants (mantras ?)
+
+«En PNL, on parle «d’ancrage» pour désigner le processus qui permet de mémoriser sensiblement un état grâce à une ancre (un signal, un geste, ... que l’on choisit consciemment). On peut réactiver cet état à tout moment en reproduisant cette ancre.» (UdN) Quel est le souvenir, personnage, animal, métaphore, sons, ...qui permet d’ancrer
+l’état? 
