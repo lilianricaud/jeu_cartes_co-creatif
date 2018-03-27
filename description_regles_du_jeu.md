@@ -7,7 +7,7 @@ MOTS CLÉS : animation - convivialité - outils - ingrédients - trucs et astuce
 
 ## Objectifs et usages
 
-Le jeu de cartes pris en exemple est celui de Lilian Ricaud. Il est composé de 4 catégories, mais il peut être modulé en fonction des utilisation personnelles de chacun. Le but est de consituer son propre jeu en fonction de ses usages et des éléments qui nous parlent le plus.
+Le jeu de cartes pris en exemple est celui de Lilian Ricaud. Il est composé de 4 catégories, mais il peut être modulé en fonction des utilisation personnelles de chacun. Le but est de constituer son propre jeu en fonction de ses usages et des éléments qui nous parlent le plus.
 Le fait d'avoir des cartes à manipuler, classer... plutôt que des fiches numériques (ou en plus des fiches numériques !) permet de revenir au corporel, à l'humain.
 
 Ce jeu de cartes peut avoir plusieurs usages :
@@ -59,7 +59,7 @@ http://www.multibao.org/#lilianricaud/jeu_cartes_co-creatif/blob/master/Cartes-t
 ## Pour aller plus loin
 
 - Architecte Christopher Alexander (théorie des Pattern languages)
-- Ward Cunnigham a utilisé un système similaire pour penser collectivement des developpements informatiques: les CRC cards. Il recommande de limiter le nombre de cartes visibles à un moment donné et l'information de chaque carte. En fait certains cartes sont volontairement laissées blanches/vides le plus longtemps possible, mme si elles peuvent être manipulées avant:
+- Ward Cunnigham a utilisé un système similaire pour penser collectivement des developpements informatiques: les CRC cards. Il recommande de limiter le nombre de cartes visibles à un moment donné et l'information de chaque carte. En fait certains cartes sont volontairement laissées blanches/vides le plus longtemps possible, même si elles peuvent être manipulées avant:
 
 One of the things he noticed was that people would put blank cards somewhere on the table and talk about them as if there was something written there. The card and its placement made the concept real, and so the team could effectively discuss it, even though it didn’t have a name or description. (Ward has since formalized leaving CRC cards blank as long as possible as a best practice.) This observation helped him recognize the need and importance of Link As You Think, even if the concept (or Wiki page) did not already exist. 
 
