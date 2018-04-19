@@ -1,4 +1,4 @@
-# Cartes attitudes
+# CARTOGRAPHIE DES ATTITUDES
 
 ## Principe
 
