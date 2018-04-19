@@ -4,7 +4,7 @@
 
 concept issu du jainisme indien.
 
-Parabole des aveugles et de l'éléphant. Chaque aveugle perçoit le même objet differemment:
+Parabole des aveugles et de l'éléphant. Chaque aveugle perçoit le même objet différemment:
 - flanc = mur
 - defense = lance
 - trompe = serpent
