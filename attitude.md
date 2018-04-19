@@ -4,4 +4,4 @@ Quelle attitude avons nous ?
 
 curiosité, optimisme, empathie, ouverture, interrogation, motivation, regard frais, humilité
 
--> voir CARTES ATTITUDES
+-> voir CARTOGRAPHIE DES ATTITUDES
