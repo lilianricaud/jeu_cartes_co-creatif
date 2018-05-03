@@ -38,7 +38,9 @@ Deux natures:
 - Moyenne: composée de plusieurs boucles micros
 - Macro: composée de plusieurs boucles moyennes
 
-permettent de découper le jeu en plusieurs parties
+permettent de découper le jeu en plusieurs parties.
+
+Il y a toujours plusieurs boucles imbriquées les unes dans les autres, donc plusieurs objectifs parallèle, ce qui incite à rester dans le jeu.
 
 ## Jeux à structure émergente
 
@@ -46,9 +48,11 @@ Jeux type Minecraft ont une structure sandbox/bac à sable.
 
 Systeme dejeux emergent, offre multitude de possibilités au joueur, y compris ajouter de nouvelles règles
 
- laissent un degré de liberté au joueurs (perte de controle des concepteurs sur l'expérienc delivré)
+ laissent un degré de liberté au joueurs (perte de controle des concepteurs sur l'expérience delivrée)
 
 Le joueur démarre souvent la boucle de gameplay en se fixant des objectifs.
+
+
 
 Source: https://www.youtube.com/watch?v=2z7nIDSbloc
 
