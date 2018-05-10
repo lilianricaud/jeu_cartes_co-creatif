@@ -9,3 +9,10 @@ Une aspiration sociale au développement équitable des capabilités motive l’
 - la ressource faisant l’objet d’un commun de capabilité (« ressource sociale ») concoure aux capabilités et fait l’objet d’un jugement partagé d’utilité, de désirabilité et d’un vœu de dotation équitable construit par la délibération
 
 Des pouvoirs publics qui, en sus de la reconnaissance méta-institutionnelle des règles du communs (Ostrom,1990), favorisent la liberté procédurale des acteurs et adoptent une posture de co-construction
+
+CAPABILITÉS
+
+## liens
+
+- http://www.bibliobsession.net/2017/11/08/communs-de-capabilites-chainon-manquant/
+- https://hal.archives-ouvertes.fr/hal-01539864
