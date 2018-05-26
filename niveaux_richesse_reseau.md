@@ -8,4 +8,6 @@ Dans la vie d'une réseau, on observe l'apparition de plusieurs niveaux de riche
 
 A partir du niveau 2, les richesses produites sont en général de qualité suffisante que pour envisager une valorisation financière.
 
+Une valorisation financière nécessite licences ouverte ET consentement éclairé des membres du réseau.
+
 Source: http://ebook.coop-tic.eu/francais/wakka.php?wiki=LesReseauxQuiDurentSontSousLicenceCcBy
