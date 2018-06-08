@@ -14,6 +14,8 @@ ARCHITECTURES INVISIBLES: favorise ou défavorisent certaines possibilités. Ex 
 Même si ça ne fait pas tout, une architecture n'est jamais neutre, elle favorise l'AUTONOMIE, la CONVIVIALITÉ ou au contraire l'hétéronomie, l'aliénation, d'où l'importance de la rendre visible par l'usage de JEUX CO-CRÉATIFS, de QUESTIONS PUISSANTES.
 
 
-#_SOCIAL_ARCHITECTURE: social geometry/topology. Bourdieu, field-like centers can be mapped, qualitative relationships. similarity with spatial/temporal geometry, strong/weak links, mass.
+#_SOCIAL_ARCHITECTURE: 
+social geometry/topology. Bourdieu, field-like centers can be mapped, qualitative relationships. similarity with spatial/temporal geometry, strong/weak links, mass.
 
-#_TIME_ARCHITECTURE: time geometry/temporal architecture, similarity with spatial architecture, what are the timebox, rituals, regular events, cycles, seasons ? what are their qualities ? traditionnal rituals were rich temporal architecture, so is SCRUM with its sequences.
+#_TIME_ARCHITECTURE: 
+time geometry/temporal architecture, similarity with spatial architecture, what are the timebox, rituals, regular events, cycles, seasons ? what are their qualities ? traditionnal rituals were rich temporal architecture, so is SCRUM with its sequences.
