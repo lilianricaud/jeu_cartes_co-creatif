@@ -28,7 +28,10 @@ SIGNFICANCE CULTURELLE ABORIGENES
 ANCRAGE: NOM, RECITS, CHANTS, CEREMONIES, SITES, GARDIENS, THANGKAS YIDAM
 
 
-Liens
+## Liens
 
-La tyrannie de l’absence de structure
+
+- http://www.thetransitioner.org/Architectures_and_HR_JFNoubel_v1.0.pdf
+- http://www.lilianricaud.com/travail-en-reseau/projets-collaboratifs-lart-de-bien-demarrer/
+- La tyrannie de l’absence de structure
 https://infokiosques.net/lire.php?id_article=2
