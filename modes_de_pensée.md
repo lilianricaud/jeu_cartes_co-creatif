@@ -1,7 +1,11 @@
+# MÉTACARTES OUTIL ET MODES DE PENSÉE
+
 
 > Extrait de Animapproches, par Jean-Michel Cornu
 
-> cet extrait donne des pistes sur l'interet de cartes pattern comme outil pour manipuler collectivement l'information: l'usage du calepin visuo-spatial qui permet une vue d'ensemble non linéaire. Autre idées inspirée: concevoir des territoire non plus comme un simple business model canvas ou mandala, mais avec des reliefs, rivières, etc... autres elements structurants de par le pattern naturel qu'il possède. Le bateau du speedboat est déja dans cette idée, mais on pourrait imaginer un territoire avec plus patterns naturels (arbre/bracnhe, vague, spirale, clusters, ...
+> cet extrait donne des pistes sur l'interet de cartes pattern comme outil pour manipuler collectivement l'information: 
+
+l'usage du calepin visuo-spatial qui permet une vue d'ensemble non linéaire. Autre idées inspirée: concevoir des territoire non plus comme un simple business model canvas ou mandala, mais avec des reliefs, rivières, etc... autres elements structurants de par le pattern naturel qu'il possède. Le bateau du speedboat est déja dans cette idée, mais on pourrait imaginer un territoire avec plus patterns naturels (arbre/bracnhe, vague, spirale, clusters, ...
 
 Pour en savoir plus : nous avons non pas un mais deux modes de pensée
 
