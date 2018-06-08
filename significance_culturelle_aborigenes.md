@@ -1,4 +1,4 @@
-# Signficance culturelle chez les aborigènes
+# Significance culturelle chez les aborigènes
 
 Adapté à partir d'extraits de "la peinture aborigène" Stéphane JACOB, Pierre GRUNDMANN, Maia PONSONNET p23.
 
@@ -21,7 +21,7 @@ Le partage se fait entre initiés et chaque outil culturel contient un double se
 ## GARDIENS DEPOSITAIRES
 la peinture ou le chant sont assurés par des gardiens dépositaires du savoir sur un domaine particulier, les RECITS et les HISTOIRES associés, et possèdent le droit de les representer, ce qui leur confère un pouvoir social important. Le droit sur ces RECITS mythiques sont associés a des TERRITOIRES et des CLANS -> les REPRESENTATIONS appartiennent à ces groupes.
 
-## Langue
+## LANGUE
 
 La langue renforce l'application de système de parenté complexe, les noms donnés aux proches interdisant certaines combinaisons de mariages.
 
