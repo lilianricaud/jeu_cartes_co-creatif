@@ -1,5 +1,6 @@
+# GRAMMAIRE TRANSFORMATIONNELLE
 
-Les règles du langage sont des transformations:le langage fournit une série de règles qui autorise certaines transformations qui ont un sens mais interdit les autres. Les transformations typiquement autorisées sont la substitution, l'inversino, la concaténation.
+Les règles du langage sont des transformations:le langage fournit une série de règles qui autorise certaines transformations qui ont un sens mais interdit les autres. Les transformations typiquement autorisées sont la substitution, l'inversion, la concaténation.
 
 Rules of language are transformations
 
