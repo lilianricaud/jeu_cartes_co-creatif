@@ -33,4 +33,10 @@ Voici quelques caractéristiques que l’on peut attendre d’un jeu utilisé ho
 
 Pour en savoir plus sur les jeux-cadres, suivez le lien : les jeux-cadres
 
+http://www.thiagi.fr/thiagipedia/jeux-cadres/
+
+Source:
 http://www.thiagi.fr/thiagipedia/article/le-jeu-pour-apprendre
+
+
+Voir aussi JOLT, JEU
