@@ -217,3 +217,5 @@ Ainsi, entre deux cellules distinctes, un mur percé d’une simple porte crée 
 C’est à cause de ces exigences si différentes que faire coexister mouvement et occupation pose parfois problème.
 8
 Hillier 1996 : 153 : « [A] group will collectively define a space in which all the people the first person can see can see each other,and this is a mathematical definition of convexity in space, except that a mathematician would say points rather than people. », 317 :« In particular, any activity that involves the interaction and co-presence of several people is by definition likely to be convex, sinceit is only in a convex space that each person can be aware of all the others. ».
+
+https://www.academia.edu/307194/Du_ph%C3%A9notype_au_g%C3%A9notype_analyse_de_la_syntaxe_spatiale_en_architecture_minoenne_MMIIIB-MRIB_
