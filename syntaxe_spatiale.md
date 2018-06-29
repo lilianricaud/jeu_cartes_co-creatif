@@ -68,9 +68,152 @@ La perméabilité manifeste le degré de contrôle exercé sur la manière dont 
 
 L’isolation renvoie au degré de discontinuité, c'est-à-dire à la force des limites entre cellules spatiales. À ce sujet, un examen de la forme des limites entre cellules est nécessaire (5). 
 
-Le séquençage est lié à la manière dont les espaces sont connectés (sous forme de chaînes,
+## Séquençage
 
+Le séquençage est lié à la manière dont les espaces sont connectés (sous forme de chaînes,  d’anneaux, etc.). Dans une certaine mesure, perméabilité et séquençage peuvent être appréhendés par le biais des types topologiques
+(6).Définie par Hillier (Hillier 1996 : 316-320), cette typologie permet de qualifier, en termes de mouvement etd’occupation, les relations (connexions) spatiales de n’importe quelle cellule constitutive d’un bâtiment et, parextension, d’un graphe justifié. En effet, occupation et mouvement sont les deux comportements basiques qu’abrite un espace bâti. L’occupation est du domaine statique mais peut néanmoins impliquer des mouvementstrès localisés au sein de l’espace occupé (Hillier 1996 : 317). Le mouvement, au contraire, concerne davantage la relation entre espaces ou entre l’intérieur et l’extérieur. Chacun de ces comportements a des exigences spatiales différentes (7). Un espace d’occupation est généralement convexe (Hillier 1996 : 124-132 et 317-318). En géométrie, un objet peut être qualifié de ‘convexe’ si pour toute paire de points {A, B} de cet objet, le segment[AB] qui les unit est entièrement contenu dans l’objet. Par analogie, Hillier attribue cette propriété à un espacedont les occupants peuvent se voir les uns les autres (8). Une zone associée au mouvement est, quant à elle,d’avantage linéaire (Hillier 1996 : 317-318). En fait, si le mouvement veut être intelligible et efficient, il est nécessaire qu’il existe des lignes relativement claires et libres - non entravées - à travers l’espace. Les espaces qui composent une architecture peuvent donc être divisés en quatre catégories qui répondent plus ou moins aux exigences de l’occupation et du mouvement. 
+
+
+ 
+Théorie et méthodes
+9
+d’anneaux, etc.). Dans une certaine mesure, perméabilité et séquençage peuvent être appréhendés par le biais destypes topologiques
+6
+.Définie par Hillier
+ 
+(Hillier 1996 : 316-320), cette typologie permet de qualifier, en termes de mouvement etd’occupation, les relations (connexions) spatiales de n’importe quelle cellule constitutive d’un bâtiment et, parextension, d’un graphe justifié. En effet, occupation et mouvement sont les deux comportements basiquesqu’abrite un espace bâti. L’occupation est du domaine statique mais peut néanmoins impliquer des mouvementstrès localisés au sein de l’espace occupé
+ 
+(Hillier 1996 : 317). Le mouvement, au contraire, concerne davantage larelation entre espaces ou entre l’intérieur et l’extérieur. Chacun de ces comportements a des exigences spatialesdifférentes
+7
+. Un espace d’occupation est généralement convexe
+ 
+(Hillier 1996 : 124-132 et 317-318). Engéométrie, un objet peut être qualifié de ‘convexe’ si pour toute paire de points {A, B} de cet objet, le segment[AB] qui les unit est entièrement contenu dans l’objet. Par analogie, Hillier attribue cette propriété à un espacedont les occupants peuvent se voir les uns les autres
+8
+. Une zone associée au mouvement est, quant à elle,d’avantage linéaire
+ 
+(Hillier 1996 : 317-318). En fait, si le mouvement veut être intelligible et efficient, il estnécessaire qu’il existe des lignes relativement claires et libres - non entravées - à travers l’espace. Les espacesqui composent une architecture peuvent donc être divisés en quatre catégories qui répondent plus ou moins auxexigences de l’occupation et du mouvement. Le graphe ci-dessous illustre ces types topologiques de façon assezévidente
+ 
+(Hillier 1996 : 318, fig. 8.16) :
+Fig. 6
+Le premier type topologique est appelé espace cul-de-sac (
+dead-end space
+) ou de type
+a
+- ronds noirs sur legraphe. Il ne possède qu’un seul lien avec le reste du graphe et n’accueille aucun autre mouvement que celui quiy mène. Il s’agit par nature d’un espace d’occupation. Le lien qui unit ce type d’espace au reste du graphe est dit« lien coupé » car son élimination couperait l’espace en question du reste de la structure spatiale matérialiséedans le plan justifié
+ 
+(Hillier 1996 : 319). Les espaces de type
+b
+- rond gris foncé sur le graphe - possèdent plusd’un lien mais font partie d’un (sous)complexe de connexions au sein duquel le nombre de liens est inférieurd’une unité au nombre d’espaces qui le constituent. Ce type de sous complexe se présente sous la forme d’unarbre. Tous les liens de ce type de complexe sont des liens coupés car l’élimination d’un de ceux-ci entraîne laséparation d’un ou plusieurs espaces du complexe. Cette définition implique que les mouvements dans de telscomplexes sont clairement définis. En effet, il existe exactement une route d’un point à l’autre et toutmouvement passant à travers un point
+b
+vers un autre espace devra repasser par ce même point
+b
+s’il fait demi-tour
+ 
+(Hillier 1996 : 319). Le troisième type topologique - type
+c
+, ronds blancs sur le graphe - renvoie à desespaces possédant plus d’un lien avec le graphe et faisant partie d’un (sous) complexe de connexions qui ne 
+ 
+Du phénotype au génotype
+10
+contient ni espace de type
+a
+ni espace de type
+b
+et dans lequel il y a le même nombre de liens que d’espaces.Cette définition signifie que les espaces de type
+c
+doivent ne se trouver que sur un seul anneau (tous les espacesconstituant ce dernier ne sont pas nécessairement de type
+c
+), ainsi, couper un lien vers un espace de type
+c
+réduitimmédiatement l’anneau en un ou plusieurs arbres. En termes de mouvement, quitter un espace de ce type par unespace voisin n’exige pas qu’il faille revenir par le point ainsi emprunté
+ 
+(Hillier 1996 : 319-320). Les espaces detype
+d 
+- ronds gris clair sur le graphe - ont chacun plus de deux liens et sont intégrés au sein de (sous) complexesqui ne contiennent ni espace de type
+a
+ni espace de type
+b
+. De tels (sous) complexes présentent au moins deuxanneaux ayant au minimum un espace en commun. Le mouvement effectué depuis un espace de type
+d 
+à traversun espace voisin présente la particularité de pouvoir revenir par un itinéraire de plus qu’à travers un autre voisincomme dans le cas d’un espace de type
+c
+(Hillier 1996 : 320).Il faut également souligner que chacun de ces quatre types d’espace (et le type de (sous) complexe qu’ilscaractérisent) ont généralement différentes implications spatiales en ce qui concerne le mouvement etl’occupation (Hillier 1996 : 323). Les espaces de type
+a
+ne sont jamais « traversés » par un mouvement et, enleur sein, la question de la relation entre le mouvement et l’occupation ne se pose pas vraiment - à part en ce quiconcerne le mouvement vers et hors de ces espaces. Dans le cas des espaces de type
+b
+, la possibilité d’unmouvement transitoire (
+through movement 
+) existe. Ce dernier est soumis à un contrôle fort, à la fois parce quechaque route à travers un espace de type
+b
+est unique, mais aussi parce que le mouvement de retour doit passerpar le même espace. Les espaces de type
+c
+offrent également la possibilité à un mouvement transitoire d’avoirlieu. Ils le contraignent également à une séquence d’espaces spécifiques, bien qu’on ne retrouve pas les mêmesexigences pour le mouvement de retour. Pour finir, les espaces de type
+d 
+permettent le mouvement mais avecbeaucoup moins de contrôle inhérent car il existe toujours des options de circulation dans chaque direction. Ons’aperçoit donc que les espaces de type
+b
+- et dans une moindre mesure ceux de type
+c
+- ont une relation plusdéterminante par rapport au mouvement que les espaces de type
+a
+ou
+d 
+. Là où les espaces de type
+a
+n’autorisentaucun mouvement transitoire, ceux de type
+d 
+offrent un éventail trop large de possibilités, alors que ceux detypes
+b
+et
+c
+rendent le mouvement possible tout en le contraignant à certaines séquences spécifiques d’espaces.Comme on l’a précédemment évoqué, ce sont les espaces de type
+b
+qui sont les plus contraignants (
+one way inand one way out spaces
+). Un effet similaire, bien que plus faible, se retrouve avec les espaces et les (sous)complexes de type
+c
+. En effet, bien qu’au niveau de l’anneau en entier il y ait le choix entre une direction oul’autre, une fois commencés, les trajets doivent utiliser une seule séquence spécifique d’espaces
+9
+. Cettesimilitude entre les espaces de type
+b
+et
+c
+vient du fait qu’ils possèdent un double lien - deux étant le plus petitnombre en matière de connexion permettant l’entrée dans un espace par une direction et la sortie par une autre(Hillier 1996 : 324). C’est cette double connectivité, essentielle du point de vue des trajets, qui donne auxespaces de type
+b
+et
+c
+leurs caractéristiques distinctives en matière d’autorisation et de contrainte du mouvement.Lors de l’analyse des trois variables susmentionnées (perméabilité, isolation et séquençage), le repérage de cesdifférents types d’espaces peut permettre - si l’on se réfère à leurs propriétés intrinsèques - d’aboutir à desrésultats satisfaisants d’un point de vue qualitatif. Avant d’aborder brièvement le dernier couple de variables, ilpeut être utile de mettre l’accent sur les deux tendances globales (liées aux types topologiques) selon lesquellesun bâtiment grandit
+ 
+(Hillier 1996 : 321 ; Hanson 1998 : 189-190). Le processus de diminution de la profondeur(
+ Depth-minimising process
+) a lieu quand un groupement d’espaces de type
+a
+sont globalement reliés entre euxpar des espaces de type
+c
+et
+d 
+. Cette forme de croissance tend à être flexible et appropriée à un grand nombred’activités et de fonctions potentielles. Le processus d’augmentation de la profondeur (
+ Depth-maximising process
+) comprend de longues séquences globales d’espaces de type
+b
+localement reliés par un faible nombred’espaces de type
+c
+. Cette forme de croissance basée sur un profond arrangement arborescent de pièces tend àêtre fonctionnellement peu flexible. Il faut également préciser que, plus un bâtiment grandit, moins il estprobable que les nouvelles cellules soient ajoutées en séquences avec les anciennes cellules. En effet, pour desraisons de préservation d’accès et d’éclairage, il est probable qu’elles s’inscrivent au sein d’un arrangementmoins profond et plus buissonneux en termes de graphe justifié
+ 
+
+## Différentiation théorique et position relative
+
+(Hanson 1998 : 273-274).Différentiation catégorique et position relative forment le dernier couple de variables analytiques qualitatives.La
+différentiation catégorique
+renvoie à la manière dont des fonctions particulières sont associées sansambiguïté à certains espaces spécifiques du bâtiment. La
+position relative
+s’intéresse à la manière dont lesespaces sont reliés entre eux et au monde extérieur à travers un schéma conceptuel basé sur les points cardinauxou d’autres schémas de référence
 
 (4) « In most, but by no means all cases […] the distributed system is the set of spaces through wich the visitor, subject to more or less control, may pass ; while the non distributed system, (that is, the set of trees connected to each other only through the distributed system) is the domain of the inhabitants, with stronger sanctions against penetration by the visitor. » (Hillier et Hanson 1984 : 167) ;« […] the inhabitant is in the deeper, often non distributed parts of the building, and interfaces with the visitor through the shallower,often distributed parts of the building that forms its principal circulation system. » (Hillier et Hanson 1984 : 183-184). Une exception à cette constatation se retrouve dans ce qu’Hillier et Hanson qualifie de « reversed buildings » (on retrouve parmi ces derniers des édifices ayant un caractère public institutionnel comme les prisons et les hôpitaux) : « […] the is a very fundamental building genotype that is characterised exactly by the reversal of positions of inhabitants and visitors, in the sense that visitors - those who do not control the knowledge embodied in the building and its purposes - come to occupy the deeper primary, usually non distributed cells ; while inhabitants - those who do control the knowledge embodied in the building and its purposes - or their representativescome to occupy the distributed circulation system. For convenience this species could be called the reversed building - reversed in the sense that patients and prisoners occupy the primary cells, while guards and doctors occupy the distributed system and move freely in it. » (Hillier et Hanson 1984 : 184).
 5
 Ainsi, entre deux cellules distinctes, un mur percé d’une simple porte crée plus d’isolation qu’une succession de colonnes ou unchangement de niveau de sol ou de plafond
+
+ Il convient toutefois de préciser que le seul examen des types topologiques et des données quantitatives qu’on peut en inférer nesuffit pas à appréhender la perméabilité. En effet, elle est également fonction de l’existence d’autres éléments tels que les portes(maintenues ouvertes ou fermées) ou encore des prescriptions culturelles particulières relatives à l’utilisation d’un édifice (Hanson1998 : 123-124).
+7
+C’est à cause de ces exigences si différentes que faire coexister mouvement et occupation pose parfois problème.
+8
+Hillier 1996 : 153 : « [A] group will collectively define a space in which all the people the first person can see can see each other,and this is a mathematical definition of convexity in space, except that a mathematician would say points rather than people. », 317 :« In particular, any activity that involves the interaction and co-presence of several people is by definition likely to be convex, sinceit is only in a convex space that each person can be aware of all the others. ».
