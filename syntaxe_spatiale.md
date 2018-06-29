@@ -1,5 +1,13 @@
 # Syntaxe spatiale
 
+Le terme syntaxe spatiale englobe un ensemble de théories et de techniques pour l'analyse des configurations spatiales.
+
+Conçu par Bill Hillier et d'autres chercheurs à la Bartlett, University College of London à la fin des années 1970 début des années 1980, la syntaxe spatiale fournissait un outil pour aider les architectes à simuler les impacts sociaux de l'organisation spatiale de leurs bâtiments. En analysant l'accessibilité des lieux, leurs configurations ou leurs accès, la syntaxe spatiale permet de **mettre en lumière la traduction spatiale des relations sociales**.
+
+- https://fr.wikipedia.org/wiki/Syntaxe_spatiale
+- https://en.wikipedia.org/wiki/Space_syntax
+
+## En détail
 
 cette méthode vise à éclaircir et à permettre l’interprétation des rapports intrinsèques entre le social et l’architectural, entre un groupe humain donné et son espace bâti. La bipolarité de ces rapports est labase même de l’analyse de la syntaxe spatiale. En effet, une société investit un certain nombre de normesculturelles dans ses réalisations architecturales. En d’autres termes, l’élaboration d’un édifice particulier est régiepar des conventions qui peuvent être d’ordre social, économique ou même politique. À l’inverse, selondifférentes modalités, un bâtiment influence, contraint et aiguille les activités humaines qui s’y déroulent.
 
