@@ -7,6 +7,24 @@ Conçu par Bill Hillier et d'autres chercheurs à la Bartlett, University Colleg
 - https://fr.wikipedia.org/wiki/Syntaxe_spatiale
 - https://en.wikipedia.org/wiki/Space_syntax
 
+## Concept clés
+
+la réalité architecturale est envisagée selon un certainnombre de concepts basiques tels que : le mouvement vers et à l’intérieur d’un édifice ainsi que le contrôle que l’on exerce sur lui, l’occupation fonctionnelle des zones internes, les modèles de rencontre/évitement entre résidents et visiteurs et, par extension, le type d’organisation sociale sous-jacente. Il s’agit donc de mettre en évidence la ou les interface(s) (c'est-à-dire la ou les relation(s) spatiale(s) entre les deux grands groupes d’utilisateurs susmentionnés). Cette ou ces interface(s) étant l’élément clé du programme, c'est-à-dire la dimension spatiale de l’organisation d’un bâtiment, sa configuration (Hillier 1996 : 251)
+
+### Approche qualitative
+
+#### Distributivité et Asymétrie
+
+Il apparaît donc que le pôle de la distributivité articule les relations de limite/frontière, c’est-à-dire d’accès à un espace. À ce sujet, il convient de préciser que, **dans la majorité des cas, la structure distribuée d’un édifice articule les relations entre résidents et visiteurs alors que la structure non-distribuée cadre les relations entre résidents** (4). 
+
+Mais également que **l’asymétrie reflète l’importance de l’espace en termes de ségrégation ou d’intégration**. 
+
+Les graphes ainsi obtenus sont parfois qualifiés d’**annulaires quand la distributivité prime** (fig.4).
+
+On parle d’**arborescence en cas de symétrie et de non-distributivité**, alors qu’**un modèle asymétrique et non-distribué est comparable à une chaîne** (fig.3).
+
+### Approche quantitative
+
 ## En détail
 
 cette méthode vise à éclaircir et à permettre l’interprétation des rapports intrinsèques entre le social et l’architectural, entre un groupe humain donné et son espace bâti. La bipolarité de ces rapports est labase même de l’analyse de la syntaxe spatiale. En effet, une société investit un certain nombre de normesculturelles dans ses réalisations architecturales. En d’autres termes, l’élaboration d’un édifice particulier est régiepar des conventions qui peuvent être d’ordre social, économique ou même politique. À l’inverse, selondifférentes modalités, un bâtiment influence, contraint et aiguille les activités humaines qui s’y déroulent.
@@ -24,8 +42,7 @@ C’est selon cette conception élémentaire que l’analyse de la syntaxe spati
 
  1.2. Les outils
 Parmi les différentes méthodes que l’analyse de la syntaxe spatiale (appelée également analyse de laconfiguration -
-configurational analysis
-) a développées, la réalité architecturale est envisagée selon un certainnombre de concepts basiques tels que : le mouvement vers et à l’intérieur d’un édifice ainsi que le contrôle quel’on exerce sur lui, l’occupation fonctionnelle des zones internes, les modèles de rencontre/évitement entrerésidents et visiteurs et, par extension, le type d’organisation sociale sous-jacente. Il s’agit donc de mettre enévidence la ou les interface(s) (c'est-à-dire la ou les relation(s) spatiale(s) entre les deux grands groupesd’utilisateurs susmentionnés). Cette ou ces interface(s) étant l’élément clé du programme, c'est-à-dire ladimension spatiale de l’organisation d’un bâtiment, sa configuration (Hillier 1996 : 251)
+configurational analysis) a développées, la réalité architecturale est envisagée selon un certainnombre de concepts basiques tels que : le mouvement vers et à l’intérieur d’un édifice ainsi que le contrôle que l’on exerce sur lui, l’occupation fonctionnelle des zones internes, les modèles de rencontre/évitement entre résidents et visiteurs et, par extension, le type d’organisation sociale sous-jacente. Il s’agit donc de mettre en évidence la ou les interface(s) (c'est-à-dire la ou les relation(s) spatiale(s) entre les deux grands groupes d’utilisateurs susmentionnés). Cette ou ces interface(s) étant l’élément clé du programme, c'est-à-dire la dimension spatiale de l’organisation d’un bâtiment, sa configuration (Hillier 1996 : 251)
 2
 
 
@@ -33,23 +50,14 @@ configurational analysis
 La première étape de l’approche qualitative de la syntaxe spatiale consiste à réduire un plan classique en ungraphe justifié
  
 (Hillier et Hanson 1984 : 106 et 149). Pour ce faire, chaque espace constitutif du plan, qu’ils’agisse d’une pièce, d’un couloir ou même d’une cour est considéré comme une cellule spatiale
-3
-. Matérialiséessous forme de cercles dans le graphe, les cellules sont disposées en fonction de leur profondeur respective. Lavaleur d’une cellule en termes de profondeur est définie par le nombre de cellules qu’il faut franchir depuis unpoint d’origine (traditionnellement l’extérieur) pour y parvenir. Par justification, on entend que chaque cellule demême profondeur doit être placée sur la même ligne horizontale fictive. On aboutit alors à un graphe fait decercles disposés en lignes horizontales parallèles en fonction de leur valeur de profondeur. Les cercles sont alorsreliés entre eux en fonction des rapports de perméabilité que les cellules qu’ils représentent entretiennent. Leslignes tracées sur le graphe matérialisent donc les connexions spatiales de l’édifice envisagé. En d’autres termes,si deux pièces sont reliées par une porte ou un accès quelconque dans le bâtiment étudié, les cercles qui lesreprésentent sont connectés par une ligne dans le graphe justifié. Le point d’origine (
-carrier 
-), en ce qui leconcerne, se présente sous la forme d’un cercle marqué d’une croix. Le graphe ainsi élaboré est analysé à lalumière du concept de limite/frontière (
-boundary
-). La limite est dotée d’une double nature, elle créeconjointement une catégorie de l’espace - l’intérieur - et une forme de contrôle - la limite/frontière en elle-même
- (
-Hillier et Hanson 1984 : 19
-)
-. L’exemple le plus facilement appréhensible de limite spatiale étant la porte. Enétudiant les phénomènes spatiaux liés au concept de limite, on cherche à mettre en évidence la manière dont lesrésidents interagissaient avec les visiteurs (ou entre eux). C’est-à-dire, la manière dont ils intégraient les cellulesspatiales particulières au sein de l’édifice (limite en tant que séparation physique entre espaces) et la façon dontils contrôlaient l’accès des visiteurs au bâtiment et les circulations de ceux-ci une fois qu’ils y avaient pénétré(limite en tant que point de passage entre espaces).Deux variables permettent une première qualification visuelle d’un graphe justifié. Il s’agit des relations desymétrie/asymétrie (évoquant la limite en tant que séparation physique) et des modèles de distributivité/non-distributivité (évoquant la limite en tant que point de passage)
+(3). Matérialisées sous forme de cercles dans le graphe, les cellules sont disposées en fonction de leur profondeur respective. Lavaleur d’une cellule en termes de profondeur est définie par le nombre de cellules qu’il faut franchir depuis unpoint d’origine (traditionnellement l’extérieur) pour y parvenir. Par justification, on entend que chaque cellule demême profondeur doit être placée sur la même ligne horizontale fictive. On aboutit alors à un graphe fait decercles disposés en lignes horizontales parallèles en fonction de leur valeur de profondeur. Les cercles sont alorsreliés entre eux en fonction des rapports de perméabilité que les cellules qu’ils représentent entretiennent. Les lignes tracées sur le graphe matérialisent donc les connexions spatiales de l’édifice envisagé. En d’autres termes, si deux pièces sont reliées par une porte ou un accès quelconque dans le bâtiment étudié, les cercles qui les représentent sont connectés par une ligne dans le graphe justifié. Le point d’origine (carrier), en ce qui le concerne, se présente sous la forme d’un cercle marqué d’une croix. Le graphe ainsi élaboré est analysé à la lumière du concept de limite/frontière (boundary). La limite est dotée d’une double nature, elle crée conjointement une catégorie de l’espace - l’intérieur - et une forme de contrôle - la limite/frontière en elle-même (Hillier et Hanson 1984 : 19). 
+
+L’exemple le plus facilement appréhensible de limite spatiale étant la porte. Enétudiant les phénomènes spatiaux liés au concept de limite, on cherche à mettre en évidence la manière dont lesrésidents interagissaient avec les visiteurs (ou entre eux). C’est-à-dire, la manière dont ils intégraient les cellulesspatiales particulières au sein de l’édifice (limite en tant que séparation physique entre espaces) et la façon dontils contrôlaient l’accès des visiteurs au bâtiment et les circulations de ceux-ci une fois qu’ils y avaient pénétré(limite en tant que point de passage entre espaces).Deux variables permettent une première qualification visuelle d’un graphe justifié. Il s’agit des relations desymétrie/asymétrie (évoquant la limite en tant que séparation physique) et des modèles de distributivité/non-distributivité (évoquant la limite en tant que point de passage)
 (Hillier et Hanson 1984 : 147-155). 
 
 Dans un plan justifié, deux espaces nommés a et b seront (Hillier et Hanson 1984 : 148-149) : symétriques si a est à b ce que b est à a par rapport à un point c (perspective extérieure ou carrier). En d’autres termes quand ni a ni b ne contrôlel’accès à l’autre depuis le troisième espace c.
 
 Asymétriques si a n’est pas à b ce que b est à a; c’est-à-dire quand  l’un des points contrôle l’accès à l’autre depuis le troisième espace c. Distribués s’il existe plus d’une ‘route’indépendante de a à b en comptant celle passant par le point initial c; non-distribués s’il existe un espace c, àtravers lequel toute ‘route’ de a à b doit passer.
-
-
 
 Il apparaît donc que le pôle de la distributivité articule les relations de limite/frontière, c’est-à-dire d’accès à un espace. À ce sujet, il convient de préciser que, **dans la majorité des cas, la structure distribuée d’un édifice articule les relations entre résidents et visiteurs alors que la structure non-distribuée cadre les relations entre résidents** (4). 
 
