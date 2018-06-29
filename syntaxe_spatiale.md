@@ -42,4 +42,8 @@ Asymétriques si a n’est pas à b ce que b est à a; c’est-à-dire quand  l�
 
 Il apparaît donc que le pôle de la distributivité articule les relations de limite/frontière, c’est-à-dire d’accès à un espace. À ce sujet, il convient de préciser que, **dans la majorité des cas, la structure distribuée d’un édifice articule les relations entre résidents et visiteurs alors que la structure non-distribuée cadre les relations entre résidents** (4). 
 
-Mais également que l’asymétrie reflète l’importance de l’espace en termes de ségrégation oud’intégration. Les graphes ainsi obtenus sont parfois qualifiés d’annulaires quand la distributivité prime (fig.4).On parle d’arborescence en cas de symétrie et de non-distributivité, alors qu’un modèle asymétrique et non-distribué est comparable à une chaîne (fig.3)
+Mais également que **l’asymétrie reflète l’importance de l’espace en termes de ségrégation ou d’intégration**. 
+
+Les graphes ainsi obtenus sont parfois qualifiés d’**annulaires quand la distributivité prime** (fig.4).
+
+On parle d’**arborescence en cas de symétrie et de non-distributivité**, alors qu’**un modèle asymétrique et non-distribué est comparable à une chaîne** (fig.3)
