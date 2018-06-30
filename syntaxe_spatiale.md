@@ -79,7 +79,19 @@ L’isolation renvoie au degré de discontinuité, c'est-à-dire à la force des
 ## Séquençage
 
 Le séquençage est lié à la manière dont les espaces sont connectés (sous forme de chaînes,  d’anneaux, etc.). Dans une certaine mesure, perméabilité et séquençage peuvent être appréhendés par le biais des types topologiques
-(6).Définie par Hillier (Hillier 1996 : 316-320), cette typologie permet de qualifier, en termes de mouvement etd’occupation, les relations (connexions) spatiales de n’importe quelle cellule constitutive d’un bâtiment et, parextension, d’un graphe justifié. En effet, occupation et mouvement sont les deux comportements basiques qu’abrite un espace bâti. L’occupation est du domaine statique mais peut néanmoins impliquer des mouvementstrès localisés au sein de l’espace occupé (Hillier 1996 : 317). Le mouvement, au contraire, concerne davantage la relation entre espaces ou entre l’intérieur et l’extérieur. Chacun de ces comportements a des exigences spatiales différentes (7). Un espace d’occupation est généralement convexe (Hillier 1996 : 124-132 et 317-318). En géométrie, un objet peut être qualifié de ‘convexe’ si pour toute paire de points {A, B} de cet objet, le segment[AB] qui les unit est entièrement contenu dans l’objet. Par analogie, Hillier attribue cette propriété à un espacedont les occupants peuvent se voir les uns les autres (8). Une zone associée au mouvement est, quant à elle,d’avantage linéaire (Hillier 1996 : 317-318). En fait, si le mouvement veut être intelligible et efficient, il est nécessaire qu’il existe des lignes relativement claires et libres - non entravées - à travers l’espace. Les espaces qui composent une architecture peuvent donc être divisés en quatre catégories qui répondent plus ou moins aux exigences de l’occupation et du mouvement. 
+(6).Définie par Hillier (Hillier 1996 : 316-320), cette typologie permet de qualifier, en termes de mouvement et d’occupation, les relations (connexions) spatiales de n’importe quelle cellule constitutive d’un bâtiment et, par extension, d’un graphe justifié. 
+
+En effet, occupation et mouvement sont les deux comportements basiques qu’abrite un espace bâti. 
+
+L’occupation est du domaine statique mais peut néanmoins impliquer des mouvements très localisés au sein de l’espace occupé (Hillier 1996 : 317). 
+
+Le mouvement, au contraire, concerne davantage la relation entre espaces ou entre l’intérieur et l’extérieur. Chacun de ces comportements a des exigences spatiales différentes (7). 
+
+Un espace d’occupation est généralement convexe (Hillier 1996 : 124-132 et 317-318). En géométrie, un objet peut être qualifié de ‘convexe’ si pour toute paire de points {A, B} de cet objet, le segment[AB] qui les unit est entièrement contenu dans l’objet. Par analogie, Hillier attribue cette propriété à un espace dont les occupants peuvent se voir les uns les autres (8). 
+
+Une zone associée au mouvement est, quant à elle,d’avantage linéaire (Hillier 1996 : 317-318). En fait, si le mouvement veut être intelligible et efficient, il est nécessaire qu’il existe des lignes relativement claires et libres - non entravées - à travers l’espace. 
+
+Les espaces qui composent une architecture peuvent donc être divisés en quatre catégories qui répondent plus ou moins aux exigences de l’occupation et du mouvement. 
 
 
  
@@ -210,11 +222,8 @@ c
 
 ## Différentiation théorique et position relative
 
-(Hanson 1998 : 273-274).Différentiation catégorique et position relative forment le dernier couple de variables analytiques qualitatives.La
-différentiation catégorique
-renvoie à la manière dont des fonctions particulières sont associées sansambiguïté à certains espaces spécifiques du bâtiment. La
-position relative
-s’intéresse à la manière dont lesespaces sont reliés entre eux et au monde extérieur à travers un schéma conceptuel basé sur les points cardinauxou d’autres schémas de référence
+(Hanson 1998 : 273-274).Différentiation catégorique et position relative forment le dernier couple de variables analytiques qualitatives.La différentiation catégorique renvoie à la manière dont des fonctions particulières sont associées sans ambiguïté à certains espaces spécifiques du bâtiment. La
+position relative s’intéresse à la manière dont les espaces sont reliés entre eux et au monde extérieur à travers un schéma conceptuel basé sur les points cardinaux ou d’autres schémas de référence
 
 (4) « In most, but by no means all cases […] the distributed system is the set of spaces through wich the visitor, subject to more or less control, may pass ; while the non distributed system, (that is, the set of trees connected to each other only through the distributed system) is the domain of the inhabitants, with stronger sanctions against penetration by the visitor. » (Hillier et Hanson 1984 : 167) ;« […] the inhabitant is in the deeper, often non distributed parts of the building, and interfaces with the visitor through the shallower,often distributed parts of the building that forms its principal circulation system. » (Hillier et Hanson 1984 : 183-184). Une exception à cette constatation se retrouve dans ce qu’Hillier et Hanson qualifie de « reversed buildings » (on retrouve parmi ces derniers des édifices ayant un caractère public institutionnel comme les prisons et les hôpitaux) : « […] the is a very fundamental building genotype that is characterised exactly by the reversal of positions of inhabitants and visitors, in the sense that visitors - those who do not control the knowledge embodied in the building and its purposes - come to occupy the deeper primary, usually non distributed cells ; while inhabitants - those who do control the knowledge embodied in the building and its purposes - or their representativescome to occupy the distributed circulation system. For convenience this species could be called the reversed building - reversed in the sense that patients and prisoners occupy the primary cells, while guards and doctors occupy the distributed system and move freely in it. » (Hillier et Hanson 1984 : 184).
 5
