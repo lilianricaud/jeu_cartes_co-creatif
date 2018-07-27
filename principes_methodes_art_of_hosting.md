@@ -9,5 +9,4 @@ Quelle que soit la méthodologie envisagée, les 7 principes suivants permettent
 6. Rendre visibles les découvertes et les connaissances collectives
 7. Récolter des apprentissages individuels et collectifs
 
-(Principes tirés d'une vidéo de Juanita Brown et David Isaacs, créateurs du World
-Café, disponible sur YouTube)
+(Principes tirés d'une vidéo de Juanita Brown et David Isaacs, créateurs du World Café, disponible sur YouTube)
