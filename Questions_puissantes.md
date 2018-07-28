@@ -53,6 +53,17 @@ D’un côté, la question que vous posez est très importante alors préparez-l
 - Pourquoi ?
 - Comment ?
 
+### Choix du mot et sens
+
+- Pourquoi ? Choix
+- Combien ? Quantités
+- Comment ? Qualités
+- Qui ? Personnes
+- Ou ? Lieux
+- Quoi ? Objets
+- Quand ? Temps
+- Quel ? Contrats
+
 ## Types de questions selon gamestorming
 
 ### Questions d'ouverture
