@@ -10,6 +10,25 @@ La formulation de la question constituera un vecteur, un axe de recherche indiqu
 
 Des questions fermantes ne permettent de répondre que par oui ou non et ferme la discussion, tandis que des questions puissantes ouvrent de nombreuses possibilités de réponses.
 
+Une question puissante...
+- Est simple et clair
+- Mobilise directement l’attention
+- Provoque la pensée habituelle
+- Stimule la réflexion
+- Génère de l’énergie
+- Concentre l’investigation
+- Touche le cœur des personnes
+- Oriente vers demain
+- Permet un apprentissage partagé
+- Relie à l’action
+
+Sources d’inspiration pour sortir des sentiers battus...
+- Ce qui nous dérange le plus
+- Ce qui nous paraît le plus insignifiant
+- Ce qui nous procure le plus de plaisir
+- Ce qui donne le plus à dire à chacun
+- Ce qui nous taraude
+
 
 ## Concevoir des questions puissantes
 
