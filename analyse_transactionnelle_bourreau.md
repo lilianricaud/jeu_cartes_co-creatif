@@ -1,3 +1,7 @@
+# ANALYSE TRANSACTIONNELLE
+
+Un cadre de lecture des relations comprenant 3 rôles interchangeables: bourreau, victime, sauveur.
+
 
 ## Patterns du bourreau
 
