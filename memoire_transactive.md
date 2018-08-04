@@ -5,6 +5,8 @@ Les psychologues utilisent parfois un questionnaire qui mesure 3 aspects de la m
 - la confiance dans les compétences de chacun
 - la coordination de l'ensemble
 
+-> permettent une mémoire collective opérationnelle au sein d'un groupe.
+
 ## Questionnaire
 
 ------
@@ -31,6 +33,10 @@ Enfin une bonne confirmation se traduit par des réponses positives à des quest
 
 
 ## Source 
-Ces questions sont extraites et adaptées de  d'une échelle de mesure de la mémoire transactive (Lewis, 2003), adaptées et validée en français par Estelle Michinov ("validation de l'echelle de mémoire transctive en langue française et adaptation au contexte académique", revue europeene de psychologue appliquée, vol.57, pp 59, 68, 2007)
+Ces questions sont extraites et adaptées de  d'une échelle de mesure de la mémoire transactive (Lewis, 2003), adaptées et validée en français par Estelle Michinov ("validation de l'echelle de mémoire transactive en langue française et adaptation au contexte académique", revue europeene de psychologue appliquée, vol.57, pp 59, 68, 2007)
 
 Cité dans Cerveau et psycho, juin 2016
+
+
+
+

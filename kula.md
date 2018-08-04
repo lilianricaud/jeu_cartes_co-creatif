@@ -1,6 +1,6 @@
 # Kula
 
-Les échanges kulas sont fondés sur des partenariats drables entre des hommes d'iles différentes dans la région du Massim (des iles du pacifique), qui organisent tour à tour d'aventureuses expéditions outre mer pour se rendre en visite chez le partenaire et y recevoir des dons de coquillages. L'année suivante, ce don doit être rendu, en offrant un bien d'une valeur équivalente ou supérieure.
+Les échanges kulas sont fondés sur des partenariats durables entre des hommes d'iles différentes dans la région du Massim (des iles du pacifique), qui organisent tour à tour d'aventureuses expéditions outre mer pour se rendre en visite chez le partenaire et y recevoir des dons de coquillages. L'année suivante, ce don doit être rendu, en offrant un bien d'une valeur équivalente ou supérieure.
 
 Le kula est un système d'échange cérémoniel qui concerne deux types de biens, des bracelets (mwali) et des colliers (soulava). 
 
