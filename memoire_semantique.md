@@ -2,7 +2,7 @@
 
 mot, sens, symboles "encyclopédie personnelle"
 
-à long terme, soumise à l'oubli,d'où l'importance de réactiver l'information
+à long terme, soumise à l'oubli, d'où l'importance de réactiver l'information
 
 
 

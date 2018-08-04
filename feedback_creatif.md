@@ -1,8 +1,8 @@
-# Feedback créatif
+# FEEDBACK CRÉATIF
 
 Pour créer, il faut avoir une connexion immédiate avec ce qui est crée.
 
-Les cr"ateurs doivent pouvoir voir ce qu'ils font et être capable de tester des idées au moment où ils y pensent.
+Les créateurs doivent pouvoir voir ce qu'ils font et être capable de tester des idées au moment où ils y pensent.
 
 Ceci permetde developper une intuition sur le fonctionnement du système.
 
