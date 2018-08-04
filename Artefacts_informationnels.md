@@ -11,6 +11,6 @@ Les artefacts sont porteurs de sens au même titre que les pièces d'un échiqui
 
 il est nécessaire  d'avoir une quantité d'information importante, mais l'esprit humain peine à manipuler des informations trop nombreuses. En groupe il est difficile de garder une vision globale et partagée des informations.
 
-###Maturité du Pattern
+### Maturité du Pattern
 
 2
