@@ -23,6 +23,24 @@ Il s'agit d'identifier un état interne positif qui pourrait contrebalancer et n
 
 Le protocole du **« changement d'histoire de vie »** est un mélange de celui du protocole de « recherche transdérivationnelle » et de celui des « désactivations d'ancres ». 
 
-Utilisant l'ancrage d'une part, pour retrouver dans notre passé toutes les expériences où a été vécu le même état émotionnel, et la désactivation d'ancre d'autre part, pour changer le vécu d'une suite d'expériences négatives, cette technique permet de changer l'impact négatif d'une chaîne de moments vécus, pour s'orienter vers un état futur plus positif
+Utilisant l'ancrage d'une part, pour retrouver dans notre passé toutes les expériences où a été vécu le même état émotionnel, et la désactivation d'ancre d'autre part, pour changer le vécu d'une suite d'expériences négatives, cette technique permet de changer l'impact négatif d'une chaîne de moments vécus, pour s'orienter vers un état futur plus positif.
 
+## DISSOCIATION
+
+La « dissociation simple » (Dissociation) est une autre technique issue des grands thérapeutes qui se caractérise par l'état dissocié, c'est-à-dire le fait de s'imaginer sur un écran et de se voir en train d'agir. Il s'agit pour le sujet, dans un contexte précis, de se penser comme étant un observateur de soi-même. Son opposé est l'état associé : la personne voit alors à travers son propre regard, comme s'il y était vraiment . 
+
+La dissociation simple est le passage de l'état associé à l'état dissocié. Elle est un moyen de séparer une personne de son ressenti car la dissociation coupe le canal kinesthésique . 
+
+La dissociation simple est notamment utile dans le traitement des traumatismes. La technique de la « double dissociation » (Double Dissociation) concerne des personnes souhaitant se défaire d’un ressenti très négatif à propos d’une situation réellement vécue, par exemple une phobie . Elle est issue de l'observation de Milton Erickson. La personne est invitée à se voir en train de se voir revivre son traumatisme comme étant la spectatrice d'une elle-même spectatrice de son propre souvenir. Richard Bandler conduit son patient à imaginer une situation dans un cinéma où il serait l’acteur, le spectateur et le projectionniste, en se plaçant du point de perception du projectionniste.
+
+## SYNCHRONISATION
+
+La synchronisation (Synchronisation) est une technique qui peut se manifester à deux niveaux, soit verbal, soit non verbal. C'est la manière qu'un individu adopte pour manifester (ou non, c'est la désynchronisation) son accord, ou une certaine confiance dans la relation ou un certain « sentiment de compréhension mutuelle » . 
+
+La synchronisation des mouvements, par exemple, consiste à mimer les mouvements et attitudes de l'interlocuteur , qui, ainsi, va ressentir une sympathie et un accord. La danse en couple est l’exemple le plus représentatif de synchronisation des mouvements : rythme, fluidité et gestes se correspondent plus que s’imitent. La synchronisation
+ne suppose pas une position dominante mais plutôt un échange. C’est un témoignage non verbal de l’acceptation de l’un par l’autre. La synchronisation de la parole est similaire. Cet accord concerne tout autant le débit de la parole, la force de la voix et sa hauteur (plutôt grave ou plutôt aigüe par exemple) que les formules employées.
+
+## SOURCE 
+
+Wikipedia.
 
