@@ -14,9 +14,21 @@ Les hommes en sont arrivés à associer les pelouses au pouvoir politique, au st
 
 C'est alors qu'un nouveau rite est venu s'ajouter à la liturgie des banlieues. Après l'office du dimanche matin à l'église, beaucoup de gens se sont mis à tonde soigneusement leur pelouse. En se promenant dans les rues, un coup d'oeil suffit à s'assurer de la richesse et de la position d'une famille à la taille et à la qualité de sa pelouse. Une pelouse négligée est le plus sur signe que quelque chose ne va pas chez les Jones. Le gazon est desormais la culture la plus répandue aux Etats-Unis après le maïs et le blé, et l'industrie de la pelouse (plantes, engrais, tondeuses, systèmes d'arrosage, jardiniers) représente des milliards de dollars chaque année.
 
-L'engouement pour les pelouses ne s'est pas cantonné à l'Europe ou à l'Amérique. nul besoin d'avoir visité la vallée de la Loire ; Il suffit de voir les présidents américains prononcer des discours sur la pelouse de la Maison Blanche, des matchs de football sur de grands stades verdoyants, ou Homer et Bart Simpson se disputer pour savoir à qui c'est le tour de tondre le gazon. Dans le monde entier, on associe la pelouse au pouvoir, à l'argent et au prestige. La pelouse s'est donc largement propagée, et elle sur le point de conquérir même le coeur du monde islamique. Au Qatar, lenouveau musée des arts islamiques est flanqué de magnifiques pelouses
+L'engouement pour les pelouses ne s'est pas cantonné à l'Europe ou à l'Amérique. nul besoin d'avoir visité la vallée de la Loire ; Il suffit de voir les présidents américains prononcer des discours sur la pelouse de la Maison Blanche, des matchs de football sur de grands stades verdoyants, ou Homer et Bart Simpson se disputer pour savoir à qui c'est le tour de tondre le gazon. Dans le monde entier, on associe la pelouse au pouvoir, à l'argent et au prestige. La pelouse s'est donc largement propagée, et elle sur le point de conquérir même le coeur du monde islamique. Au Qatar, lenouveau musée des arts islamiques est flanqué de magnifiques pelouses qui évoquent autant le palais de Versailles de Louis XIV que Bagdad au temps de Haroun al-Rashid. Elles ont été aménagées par une société américaine, et leurs quelques 100 000 mètres carrés d'herbe - en plein désert d'Arabie - nécessitent chaque jour une quantité prodigieuse d'eau pour rester vert. Simultanement, dans les banlieux de Doha et de Dubai, les familles bourgeoises se vantent de leurs pelouses. N'étaient les robes blanches et les hijab noirs, vous vous croiriez aisement dans le Midwest plutot qu'au Moyen Orient.
+
+## Source 
+
+Homo Deus, Y. N. Harari p73
 
 
 
 
-gratte ciel / ascenceur équivalent moderne de pelouses
+
+# Anecdotes liées
+- En Inde des veuves tondaient la pelouse du Taj Mahal avec de ciseaux (Source B. Molisson)
+- Aux Etats-Unis pendant une secheresse, des golfs peignaient en vert l'herbe seche pour conserver les apparences
+- Aux Etats-Unis dans certaines villes, la municipalité à porter plainte contre des habitant qui faisaient pousser des légumes dans des bacs au lieu de d'avoir juste du gazon.
+
+
+
+Les gratte ciel qui nécessitent des ascenceurs (et donc beaucoup d'énergie) et les voitures seraient ils des équivalents modernes des pelouses en terme de symboles de pouvoir et de stature ?
