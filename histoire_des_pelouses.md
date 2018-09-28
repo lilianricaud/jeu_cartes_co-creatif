@@ -12,6 +12,8 @@ Les palais royaux et chateaux ducaux ont transformé la pelouse en symbole d'aut
 
 Les hommes en sont arrivés à associer les pelouses au pouvoir politique, au statut social et à la richesse économique. Pas étonnant qu'au XIXeme siecle la bourgeoisie montante ait adopté la pelouse avec enthousiasme. Au début, seuls les banquiers, les avocats et les industriels pouvaient s'offrir ce luxe dans leurs demeures privées. Quand la révolution industrielle a élargi les rangs de la bourgeoisie et a donné naissance à la tondeuse et au tourniquet, des millions de familles ont pu s'offrir du gazon. Dans les balieux américaines, une pelouse impeccable a cessé d'être un luxe de nanti pour devenir un must de la classe moyenne.
 
+C'est alors qu'un nouveau rite est venu s'ajouter à la liturgie des banlieues. Après l'office du dimanche matin à l'église, beaucoup de gens se sont mis à tonde soigneusement leur pelouse. En se promenant dans les rues, un coup d'oeil suffit à s'assurer de la richesse et de la position d'une famille à la taille et à la qualité de sa pelouse.
+
 
 
 
