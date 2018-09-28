@@ -1,3 +1,16 @@
 # HISTOIRE DES PELOUSES
 
+Un jeune couple qui se fait construire une nouvelle maison peut demander à l'architecte de prévoir une belle pelouse devant. Pourquoi une pelouse ? "Parce que c'est joli, une pelouse" pourrait répondre le couple. Mais pourquoi les trouve-t-il jolies ? C'est l'aboutissement d'une longue histoire.
 
+Les chasseurs cueilleurs de l'âge de pierre ne cultivaient pas l'herbe à l'entrée de leur cavernes. Aucune verte prairie n'accueillait les visiteurs de l'acropole athénienne, du Capitole à Rome, du Temple de Jérusalem ou encore de la Cité interdite à Pékin. L'idée de faire pousser une pelouse à l'entrée des demeures privées et des batiments publics est née dans les chateaux des aristocrates français et anglais à la fin du moyen age. Cette habitude s'st enracinée à l'aube des Temps modernes, au point de devenir la marque distinctive de la noblesse.
+
+Les pelouses bien entretenues exigeaient du terrain et beaucoup de travail, surtout avant l'apparition des tondeuses et des arrosages automatiques. Elles n'apportaient rien de précieux en contrepartie. On ne pouvait même pas y faire paitre les animaux qui auraient mangé et pietiné l'herbe. Les pauvres paysans ne pouvaient se permettre de gaspiller dans une pelouse une terre et un temps précieux. Le gazon bien entretenu à l'entrée des chateaux était en conséquence le symbole d'une position que personne ne pouvait truquer. C'était une manière de dire au passant: "Je suis si riche et puissant, j'ai tant d'arpents et de terres que je puis me permettre cette verdure extravagante." Plus la pelouse était vaste et soignée, plus la dynastie était puissante. Si vous rendiez visite à u duc, et que sa pelouse fût en piteux état, vous saviez qu'il avait des soucis.
+
+La précieuse pelouse était souvent le cadre de célébrations importantes ou de mondanités tout en demeurrant interdite d'accès le reste du temps. aujoud'hui encore dans d'innombrables palais, batiments officiels et lieux publics, un austère panneau signale aux passants "Pelouse interdite". Dans mon ancien collège à l'université d'Oxford, la cour était entièrement occupée par une vaste et attrayante pelouse, sur laquelle nous ne pouvions marcher ou nous assoir qu'un jour par an. Tous les autres jours, malheur au pauvre étudiant dont le pied profanait le saint gazon.
+
+Les palais royaux et chateaux ducaux ont transformé la pelouse en symbole d'autorité. Quand, à la fin des temps modernes, les rois furent renversés et les ducs guillotinés, les nouveaux présidents et premiers ministres conservèrent les pelouses.  Parlements, cours suprèmes, palais présidentiels, et autres batiments publics,  affichèrent de plus en plus  leur pouvoir en multipliant les rangées de verdure. Dans le même temps, les pelouses ont conquis le monde des sports. Des millénaires durant, les hommes ont joués sur tous les terrains possibles et imaginables ou presque, de la glace au desert. Depuis 
+
+
+
+
+gratte ciel / ascenceur équivalent moderne de pelouses
