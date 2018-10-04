@@ -4,4 +4,4 @@ Les commoners lillois utilisent un temps de coworking hébergé par un tiers-lie
 
 Les agilistes comme Stéphane Langlois non-organisent des Tiers-lieu éphémère : À la manière des ready-made, on déclare un lieu comme co-working. Cette année, nous avons organisé DevOpenSud sur ce modèle. On a loué deux gites pendant quatre jours en haute-ariège, pour travailler, échanger et jouer.
 
-tiers lieu éphémère sur une journée, vivre une exprience condensée d'un tiers lieux ou les règles sont différentes de la routine de bureau.
+tiers lieu éphémère sur une journée, vivre une expérience condensée d'un tiers lieux ou les règles sont différentes de la routine de bureau.
