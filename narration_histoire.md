@@ -53,3 +53,9 @@ La rhétorique classique propose trois rythmes canoniques :
 De nombreux auteurs ont proposé au cours de l'histoire des plans-types, allant de deux à sept parties parfois ; cependant, la tradition rhétorique n'en retient que quatre
 
 https://fr.wikipedia.org/wiki/Rh%C3%A9torique
+
+
+## Source
+
+- Pensez Narativement, Joyeux Bordel (Boyd, Oswald, Mitchel) p138
+- YN Harari, Home Deus
