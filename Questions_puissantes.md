@@ -158,3 +158,5 @@ Adapté de
 - Paul Messer http://www.percolab.com/linnovation-cest-la-pollinisation/
 - ART of HOSTING L’art du leadership participatif (2012) ouvrage collectif.
 - Gamestorming, jouer pour innover Dave Gray, Sunni Brown, James Macanufo
+- Alain Cardon : les questions en coaching
+(http://www.metasysteme.fr/francais/outils-ii-les-questions-du-coach)
