@@ -10,9 +10,9 @@ Partant de la, les acteurs sociaux mènent en permanence une BATAILLE DE L'HISTO
 
 Penser narrativement signifie qu'on élabore une stratégie et qu'on écoute en termes narratifs.
 
-Il faut se souvenir que les gens ne réagissent pas tant à une histoire parce qu'elle est vrai que parce qu'elle fait SENS à leur yeux.
+Il faut se souvenir que les gens ne réagissent pas tant à une histoire parce qu'elle est vrai que parce qu'elle fait SENS à leur yeux et s'inclut dans leur vision pré-existante du monde.
 
-Une histoire provoque une SUSPENSION PROVISOIRE DE LA CRÉDULITÉ.
+ARME DE DISTRACTION MASSIVE, une histoire provoque une SUSPENSION PROVISOIRE DE LA CRÉDULITÉ. Les histoires sont commes des virus contagieux (CONTAGION MÉMÉTIQUE). 
 
 ## ANALYSE DE LA PUISSANCE NARRATIVE
 
