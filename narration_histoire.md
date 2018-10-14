@@ -6,13 +6,19 @@ Nous prenons plus souvent nos décisions avec nos tripes qu'avec notre intellige
 
 A travers les histoires, nous tissons collectivement une TOILE DE SENS intersubjective qui nous aide à nous coordonner.
 
-Partant de la, les acteurs sociaux mènent en permanence une BATAILLE DE L'HISTOIRE pour façonner la peception du public.
+Partant de la, les acteurs sociaux mènent en permanence une BATAILLE DE L'HISTOIRE pour façonner la perception du public.
 
 Penser narrativement signifie qu'on élabore une stratégie et qu'on écoute en termes narratifs.
 
-Il faut se souvenir que les gens ne réagissent pas tant à une histoire parce qu'elle est vrai que parce qu'elle fait sens à leur yeux
+Il faut se souvenir que les gens ne réagissent pas tant à une histoire parce qu'elle est vrai que parce qu'elle fait SENS à leur yeux.
 
-Questions à se poser pour concevoir une NARRATION DU CHANGEMENT: 
+## ANALYSE DE LA PUISSANCE NARRATIVE
+
+L'analyse de la puissance narrative permet de comprendre les ressorts cachés d'une narration dominante et aide à construire de nouvelles narrations.
+
+Utiliser l'analyse de la puissance narrative pour déconstruire les éléments d'une histoire. 
+
+Questions à se poser pour concevoir une NARRATION DU CHANGEMENT:
 
 **Le conflit**
 - Quel est le problème ou le conflit dont il est question ?
@@ -41,29 +47,15 @@ Chaque histoire est construite sur la base d'hypothèses non formulées. Le meil
 Ces 5 elements d'histoire peuvent être combinés pour mener une ANALYSE DE LA PUISSANCE NARRATIVE sur une narration prédominante,  ou pour échaffauder une NARRATION DU CHANGEMENT
 
 
-
-## find the song in people
-
-“If you want to build a ship, don't drum up people together to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea”
-
- Antoine de Saint-Exupéry
-
-## ANALYSE DE LA PUISSANCE NARRATIVE
-
-
-L'analyse de la puissance narrative permet de comprendre les ressorts cachés d'une narration dominante et aide à construire de nouvelles narrations.
-
-Utiliser l'analyse de la puissance narrative pour déconstruire les éléments d'une histoire. 
-
-Deconstruction d'une NARRATION DOMINANTE 
+**Deconstruction d'une NARRATION DOMINANTE**
 
 - quelles histoires définissent les normes culturelles ? 
 - D'où viennent ces histoires ?
-- Quels postulats sous tendent ces histoires ? Sont ils visibles ou invisibles ?
+- Quelles hypothèses sous tendent ces histoires ? Sont elles explicites ou implictes ?
 - Quelles histoires ont été ignorées ou effacées pour créer ces normes ?
 - Y a t-il des mythologies plus larges de la culture dominante qui doivent être remise en question ?
 
-Construction d'une NARRATION DU CHANGEMENT
+**Construction d'une NARRATION DU CHANGEMENT**
 
 - Quels sont nos postulats ?
 - Quelles nouvelles histoires pouvons nous raconter pour décrire de manière précise le monde que nous voyons ?
@@ -71,7 +63,13 @@ Construction d'une NARRATION DU CHANGEMENT
 - Quels récits existants vont déja dans le sens d'une NARRATION DU CHANGEMENT ? 
 - Quelles sont les histoires que nous pouvons aider à inventer pour aider à créer le monde que nous desirons ?
 
-L'analyse de la puissance narrative commence par le fait de reconnaitre que la valeur de l'histoire n'est pas nécessairement la vérité, mais le SENS.
+
+
+## find the song in people
+
+“If you want to build a ship, don't drum up people together to collect wood and don't assign them tasks and work, but rather teach them to long for the endless immensity of the sea”
+
+ Antoine de Saint-Exupéry
 
 ## Narrative analysis
 
