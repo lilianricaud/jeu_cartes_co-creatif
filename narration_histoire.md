@@ -12,6 +12,8 @@ Penser narrativement signifie qu'on élabore une stratégie et qu'on écoute en 
 
 Il faut se souvenir que les gens ne réagissent pas tant à une histoire parce qu'elle est vrai que parce qu'elle fait SENS à leur yeux.
 
+Une histoire provoque une SUSPENSION PROVISOIRE DE LA CRÉDULITÉ.
+
 ## ANALYSE DE LA PUISSANCE NARRATIVE
 
 L'analyse de la puissance narrative permet de comprendre les ressorts cachés d'une narration dominante et aide à construire de nouvelles narrations.
