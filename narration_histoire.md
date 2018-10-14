@@ -41,12 +41,7 @@ Chaque histoire est construite sur la base d'hypothèses non formulées. Le meil
 
 Ces 5 elements d'histoire peuvent être combinés pour mener une ANALYSE DE LA PUISSANCE NARRATIVE sur une narration prédominante,  ou pour échaffauder une NARRATION DU CHANGEMENT
 
-For Dave Snowden (2009), stories are the fundamental patterning devices through which we communicate, learn, and understand the world in a fragmented unstructured anecdotal way. This patterning occurs using micro-narrative rather than complete stories. Stories are fractal in nature, and the capture and exchange of large amounts of micro-narratives determine how our identities are shaped. This is what operates at the family table when we exchange pieces of family stories and consolidate our family identity. When we consciously reflect on these patterns, bringing them from the unself-conscious realm, to the conscious realm, they can serve as boundary object, or objects of inquiry.
 
-source finidori 2018
-
-Using Story to Change Systems
-https://ssir.org/articles/entry/using_story_to_change_systems
 
 ## find the song in people
 
@@ -54,11 +49,27 @@ https://ssir.org/articles/entry/using_story_to_change_systems
 
  Antoine de Saint-Exupéry
 
+## ANALYSE DE LA PUISSANCE NARRATIVE
 
+
+L'analyse de la puissance narrative permet de comprendre les ressorts cachés d'une narration dominante et aide à construire de nouvelles narrations.
+
+
+Une analyse de la puissance narrative nous encourage à nous demander:
+- quelles histoires définissent les normes culturelles ? 
+- D'où viennent ces histoires ?
+- Quels postulats sous tendent ces histoires ? Sont ils visibles ou invisibles ?
+- Quelles histoires ont été ignorées ou effacées pour créer ces normes ?
+- Quels sont nos postulats ?
+- Quelles nouvelles histoires pouvons nous raconter pour décrire de manière précise le monde que nous voyons ?
+Comment notre histoire cible elle les postulats cachés de l'histoire dominante ?
+- Quelles sont les histoires que nous pouvons aider à inventer pour aider à créer le monde que nous desirons ?
+
+L'analyse de la puissance narrative commence par le fait de reconnaitre que la valeur de l'histoire n'est pas nécessairement la vérité, mais le sens.
 
 ## Narrative analysis
 
-A narrative analysis of power encourages us to ask: Which stories define cultural norms? Where did these stories come from? Whose stories were ignored or erased to create these norms? What new stories can we tell to more accurately de- scribe the world we see? And, perhaps most urgently, what are the stories that can help create the world we desire?
+A narrative analysis of power encourages us to ask: Which stories define cultural norms? Where did these stories come from? Whose stories were ignored or erased to create these norms? What new stories can we tell to more accurately describe the world we see? And, perhaps most urgently, what are the stories that can help create the world we desire?
 
 Narrative power analysis starts with the recognition that the currency of story is not necessarily truth, but rather meaning.
 
@@ -81,6 +92,12 @@ Use narrative power analysis to apply elements of story and construct our story
 • How does our story target underlying assumptions in the dominant story?
 • What are our shared assumptions?
 
+For Dave Snowden (2009), stories are the fundamental patterning devices through which we communicate, learn, and understand the world in a fragmented unstructured anecdotal way. This patterning occurs using micro-narrative rather than complete stories. Stories are fractal in nature, and the capture and exchange of large amounts of micro-narratives determine how our identities are shaped. This is what operates at the family table when we exchange pieces of family stories and consolidate our family identity. When we consciously reflect on these patterns, bringing them from the unself-conscious realm, to the conscious realm, they can serve as boundary object, or objects of inquiry.
+
+source finidori 2018
+
+Using Story to Change Systems
+https://ssir.org/articles/entry/using_story_to_change_systems
 
 ## cinq canon de ciceron storytelling
 
