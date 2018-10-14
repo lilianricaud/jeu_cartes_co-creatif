@@ -2,7 +2,6 @@
 
 On aimerait croire que les être humains sont des acteurs rationnels dont les décisions sont fondées sur une évaluation posée des faits, mais la science cognitive nous apprends que nous ne sommes que des animaux narratifs qui découvrent le monde à travers les HISTOIRES.
 
-
 Nous prenons plus souvent nos décisions avec nos tripes qu'avec notre intelligence et les faits bruts de décoffrage suffisent rarement à émouvoir l'opinion publique.
 
 A travers les histoires, nous tissons collectivement une TOILE DE SENS intersubjective qui nous aide à nous coordonner.
@@ -54,18 +53,25 @@ Ces 5 elements d'histoire peuvent être combinés pour mener une ANALYSE DE LA P
 
 L'analyse de la puissance narrative permet de comprendre les ressorts cachés d'une narration dominante et aide à construire de nouvelles narrations.
 
+Utiliser l'analyse de la puissance narrative pour déconstruire les éléments d'une histoire. 
 
-Une analyse de la puissance narrative nous encourage à nous demander:
+Deconstruction d'une NARRATION DOMINANTE 
+
 - quelles histoires définissent les normes culturelles ? 
 - D'où viennent ces histoires ?
 - Quels postulats sous tendent ces histoires ? Sont ils visibles ou invisibles ?
 - Quelles histoires ont été ignorées ou effacées pour créer ces normes ?
+- Y a t-il des mythologies plus larges de la culture dominante qui doivent être remise en question ?
+
+Construction d'une NARRATION DU CHANGEMENT
+
 - Quels sont nos postulats ?
 - Quelles nouvelles histoires pouvons nous raconter pour décrire de manière précise le monde que nous voyons ?
-Comment notre histoire cible elle les postulats cachés de l'histoire dominante ?
+- Comment notre histoire cible elle les postulats cachés de l'histoire dominante ?
+- Quels récits existants vont déja dans le sens d'une NARRATION DU CHANGEMENT ? 
 - Quelles sont les histoires que nous pouvons aider à inventer pour aider à créer le monde que nous desirons ?
 
-L'analyse de la puissance narrative commence par le fait de reconnaitre que la valeur de l'histoire n'est pas nécessairement la vérité, mais le sens.
+L'analyse de la puissance narrative commence par le fait de reconnaitre que la valeur de l'histoire n'est pas nécessairement la vérité, mais le SENS.
 
 ## Narrative analysis
 
