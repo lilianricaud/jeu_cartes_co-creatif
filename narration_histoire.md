@@ -57,7 +57,7 @@ Ces 5 elements d'histoire peuvent être combinés pour mener une ANALYSE DE LA P
 
 **Construction d'une NARRATION DU CHANGEMENT**
 
-- Quels sont nos postulats ?
+- Quels sont nos hypothèses ?
 - Quelles nouvelles histoires pouvons nous raconter pour décrire de manière précise le monde que nous voyons ?
 - Comment notre histoire cible elle les postulats cachés de l'histoire dominante ?
 - Quels récits existants vont déja dans le sens d'une NARRATION DU CHANGEMENT ? 
