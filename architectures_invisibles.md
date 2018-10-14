@@ -1,8 +1,8 @@
 # ARCHITECTURES INVISIBLES: 
 
-favorise ou défavorisent certaines possibilités. Ex langage : les mots sont des murs ou des ponts qui favorisent la communication ou au contraire la bloque. Une MONNAIE RARE crée de la compétition, donc des murs.
+favorise ou défavorisent certaines possibilités. Ex langage : les mots sont des murs ou des ponts qui favorisent la communication ou au contraire la bloque. Une MONNAIE RARE crée de la compétition, donc des murs entre les personnes.
 
-La permaculture parle de structures invisibles, JF Noubel d'architectures invisibles. Dans les zones en guerre où le tissu social est detruit, la permaculture focalise sur recréer des architectures invisibles avant/en même temps que de recreer des architectures physiques.
+La permaculture parle de structures invisibles, JF Noubel d'architectures invisibles. Dans les zones en guerre où le tissu social est detruit, la permaculture focalise sur le travail de recréer des architectures invisibles avant/en même temps qu'elle travaille à recréer des architectures physiques.
 
 Stratégie: expliciter/rendre visible ces structures.
 
