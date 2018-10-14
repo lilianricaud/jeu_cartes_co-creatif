@@ -7,9 +7,7 @@ La permaculture parle de structures invisibles, JF Noubel d'architectures invisi
 Stratégie: expliciter/rendre visible ces structures.
 
 Developing mastery in invisible architectures is a 2 steps process:
-1.  Learn how to detect them through details in our everyday life (the way we use certain words or
-grammatical structures, the way we behave through social codes, the way we exchange with others
-through a specific currency system, etc)
+1.  Learn how to detect them through details in our everyday life (the way we use certain words or grammatical structures, the way we behave through social codes, the way we exchange with others through a specific currency system, etc)
 2.  Design new invisible architectures that can trigger higher intelligence, wisdom and consciousness
 The design of invisible architectures is an empirical work that has the same dynamics as physical
 architectures

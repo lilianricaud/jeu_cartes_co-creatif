@@ -1,8 +1,8 @@
 ## ARTEFACTS + CANEVAS
 
-Un artefact consiste a incarner des choses intangibles dans un objet tangible pour en faciliter la manipulation.
+Un ARTEFACT consiste à incarner des choses intangibles dans un objet tangible pour en faciliter la manipulation.
 
-Un canevas est un support visuel, une matrice qui aide à organiser ces artefacts.
+Un CANEVAS est un support visuel, une matrice qui aide à organiser ces artefacts.
 
 Exemple: dans un jeu d'échec, les pieces sont des artefacts, le damier un canevas.
 

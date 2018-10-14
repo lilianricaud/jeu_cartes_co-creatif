@@ -1,6 +1,6 @@
 # CAPABILITÉS
 
-Une « capabilité » ou « capacité » ou « liberté substantielle »1 est, suivant la définition qu’en propose Amartya Sen, la possibilité effective qu’un individu a de choisir diverses combinaisons de fonctionnements, autrement dit une évaluation de la liberté dont il jouit effectivement. 
+Une « capabilité » ou « capacité » ou « liberté substantielle » est, suivant la définition qu’en propose Amartya Sen, la possibilité effective qu’un individu a de choisir diverses combinaisons de fonctionnements, autrement dit une évaluation de la liberté dont il jouit effectivement. 
 
 Capabilité est un terme issu des travaux d'Amartya Sen, qui considère que satisfaire les besoins des personnes n’est pas suffisant et qu’il faut aussi tenir compte de leurs libertés de choix et d’action (les « capabilités »). 
 
