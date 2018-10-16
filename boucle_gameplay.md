@@ -13,7 +13,7 @@ Contient 3 éléments
 - induit par la structure de jeu (terminer un niveau)
 - par les mécaniques ludiques (tuer un ennemi pour survivre)
 
-Peut etre de diférentes natures.
+Peut être de diférentes natures.
 
 ## Défi
 

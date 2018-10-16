@@ -18,7 +18,7 @@ Une combinaison de ces trois compétences semble corrélée à une mise en œuvr
 
 ### Avoir un souci du bien commun
 
-- Le projet va générer des productions, qui devront être placées sous le  sceau du "commun"
+- Le projet va générer des productions, qui devront être placées sous le sceau du "commun"
 
 > indiquerait la maturité d'un groupe à coopérer/collaborer et consoliderait l'engagement à long terme
 

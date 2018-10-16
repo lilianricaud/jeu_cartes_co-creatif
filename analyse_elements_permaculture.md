@@ -1,9 +1,9 @@
 # ANALYSE ELEMENTS PERMACULTURE
 
-Lister Elements et pour chacun
+Lister les élements présents dans le système et pour chacun préciser:
 - types
 - besoins
 - produits
-- caracteristiques intrinsèques
+- caractéristiques intrinsèques
 
-faire le lien pour que l'un elements nourrisse ou complete les besoins d'un autre.
+Cette analyse sert à identifier les complémentarités. Le design permaculturel vise ensuite à mettre en place des lien pour que l'un élements nourrisse ou complète les besoins d'un autre.
