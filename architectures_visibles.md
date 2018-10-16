@@ -2,7 +2,7 @@
 
 Let's imagine a group of people. It can be 20 or a few hundreds, it doesn't really matter. The way people are
 going to be placed into space is going to have a crucial influence in the way they will relate to one another,
-how they build a collective sense of reality, how the build a sense of the collective itself, how they make their
+how they build a collective sense of reality, how they build a sense of the collective itself, how they make their
 decision. Are people seating in a circle or is the group broken down in separate tables? Are they around a
 square table? A round one? Are they in a train? On the beach? In a restaurant? In a classroom or an
 amphitheater all looking at the same person? Who can see who? Who sees the back of who? How does the
