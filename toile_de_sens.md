@@ -98,7 +98,7 @@ Soudain s’ouvre une faille temporelle, un mystérieux rayon de lumière illumi
 
 Même le vicaire penserait probablement que l’ado traverse un épisode psychotique. En revanche, si un jeune Anglais décide de rejoindre Amnesty International et de se rendre en Syrie pour protéger les droits de l’homme parmi les réfugiés, on verra en lui un héros. 
 
-Au Moyen Âge, on l’aurait pris pour un dingue. Dans l’Angleterre du XIIeme siècle, personne ne savait ce qu’étaient les droits de l’homme. Tu veux aller au Moyen-Orient et risquer ta vie non pas pour tuer des musulmans, mais pour protéger un groupe de musulmans d’un autre? Tu as perdu la tête.  
+Au Moyen Âge, on l’aurait pris pour un dingue. Dans l’Angleterre du XIIeme siècle, personne ne savait ce qu’étaient les droits de l’homme. Tu veux aller au Moyen-Orient et risquer ta vie non pas pour tuer des musulmans, mais pour protéger un groupe de musulmans d’un autre? Tu as perdu la tête.
 
 Ainsi va l’histoire. Les gens tissent une toile de sens, y croient de tout leur coeur, mais tôt ou tard la toile s’effiloche; quand on se retourne sur le passé, on ne comprend pas comment on a pu la prendre au sérieux. 
 
