@@ -1,12 +1,14 @@
-# Sens
+# SENS
 
 ingrédient de motivation profonde individuelle et collective.
 
+EXPLICITER le SENS facilite l'ALIGNEMENT. Un OBJECTIF PRÉPONDÉRANT doit avoir du sens. INTENTION
+
 ce qui a du sens
 - satisfait
-- interesse
+- intéresse
 - stimule
-- developpe
+- développe
 - permet
 
 Le sens est un stimuli pour :
@@ -23,9 +25,8 @@ La quête de sens est une recherche d'harmonie / cohérence entre état interne 
 
 voir Estelle Morin (psychologue)
 
-Histoire: 3 tailleurs de pierre sont interrogés: "que faites vous?"
+Histoire: 3 tailleurs de pierre sont interrogés: "Que faites vous?"
 - le premier dit: "je gagne ma vie"
-- le second dit: "je tailler des pierres"
+- le second dit: "je taille des pierres"
 - le troisième dit: "je construit une cathédrale"
 
-EXPLICITER le SENS facilite ALIGNEMENT. OBJECTIF PRÉPONDÉRANT doit avoir du sens.
