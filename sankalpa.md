@@ -29,3 +29,6 @@ Quelques règles pour formuler Sankalpa:
 8. Sankalpa est votre secret. Il doit rester à l’abri du jugement d’autrui.
 
 9. Si vous hésitez sur le Sankalpa à adopter, choisissez en un simple en lien avec un obstacle concret à surmonter. Une fois se premier obstacle dépassé, un Sankalpa plus durable avec un objectif plus ambitieux pourra émerger.
+
+Source
+http://ekongkar.yoga/?p=2480
