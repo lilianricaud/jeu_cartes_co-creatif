@@ -8,4 +8,7 @@ Importance d'un alignement intention individuelle et intention collective; co-co
 
 Start with Why-> GOLDEN CIRCLE
 
+## Voir aussi 
+
+SANKALPA: intention choisie et plantée comme une graine en soi pour favoriser son expression.
 
