@@ -1,6 +1,6 @@
 # NARRATION HISTOIRE
 
-On aimerait croire que les être humains sont des acteurs rationnels dont les décisions sont fondées sur une évaluation posée des faits, mais la science cognitive nous apprends que nous ne sommes que des animaux narratifs qui découvrent le monde à travers les HISTOIRES.
+On aimerait croire que les être humains sont des acteurs rationnels dont les décisions sont fondées sur une évaluation posée des faits, mais la science cognitive nous apprends que nous ne sommes que des animaux narratifs qui découvrent le monde à travers les HISTOIRES. (l'espèce fabulatrice Nancy Huston, TOILE DE SENS YN Harari)
 
 Nous prenons plus souvent nos décisions avec nos tripes qu'avec notre intelligence et les faits bruts de décoffrage suffisent rarement à émouvoir l'opinion publique.
 
