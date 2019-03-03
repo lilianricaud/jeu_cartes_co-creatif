@@ -1,0 +1,3 @@
+# aikido
+
+The secret of Aikido is to harmonize ourselves with the movement of the universe and bring ourselves into accord with the universe itself.He who has gained the secret of Aikido has the universe in himself and can say, “I am the universe. I am never defeated, however fast the enemy may attack.It is not because my technique is faster than that of my enemy. It is not a question of speed.The fight is finished before it is begun. When an enemy tries to fight with me, the universe itself, he has to break the harmony of the universe.Hence at the moment he has a mind to fight with me, he is already defeated.-Morehei Ushiba, OSense
