@@ -122,3 +122,4 @@ https://fr.wikipedia.org/wiki/Rh%C3%A9torique
 
 - Pensez Narativement, Joyeux Bordel (Boyd, Oswald, Mitchel) p138
 - YN Harari, Home Deus
+- Le Héros aux mille et un visages — Wikipédia: Le Héros aux mille et un visages (en anglais The Hero with a Thousand Faces) est un essai de mythologies comparées publié en 1949 par le spécialiste des mythes Joseph Campbell. Campbell y propose un schéma narratif archétypique, celui du voyage du héros, qu'il dégage de l'étude de différentes mythologies. C'est la première publication dans laquelle Campbell élabore sa théorie du monomythe, qu'il développe dans ses ouvrages suivants. https://fr.wikipedia.org/wiki/Le_H%C3%A9ros_aux_mille_et_un_visages
