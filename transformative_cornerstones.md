@@ -98,3 +98,60 @@ the fourth transformative cornerstone – interpretation and subjective sense ma
 -   How can processes of transformative learning expose and alter ingrained assumptions and beliefs, opening peoples’ minds to new and multiple ways of under-standing the world and processes of global change?
 -   What could such learning processes contribute to the development of effective responses to global change and how can we best promote them
 
+*explaining scepticism,  indifference and denialism*
+-   How do we explain the so-called ‘Giddens paradox’: the fact that people remain indifferent to risks that are potentially cataclysmic?
+-   How is it possible that, in the face of decades of scientific practice and the role of science in modern societies, people and politicians can so easily deny the science of climate change? 
+-   What are the origins of and reasons for skepticism, denialism and inaction in the face of climate change, and what is the role of education in this regard?
+-   Why are climate skeptics and denialists given so much media coverage in advanced societies? What power bases and interests are advanced by appeals for inac-tion and how can such forces be counteracted?
+
+
+## Cornerstone 5 : responsibilities
+
+The  fifth  transformative  cornerstone  foregrounds  obligations,  duties  and  responsibilities  to  the  poor,  to  the  vulnerable  and to future generations, bringing these concerns into the legitimate  space  of  scientific  expertise,  policy  and  prac-tice. it addresses methods, evaluative systems and policy mechanisms  that  can  ensure  the  use  and  relevance  of  ethical approaches in the development of new visions and building of new economies for the future. the cornerstone on responsibilities upholds an ethical lens on all interpreta-tions of and responses to global change, be they of a tech-nical, political, economic or discursive nature.
+
+### responsibilities: illustrative questions
+
+*foregrounding normative agendas*
+-   How can we best bring a normative agenda – one that foregrounds obligations, duties and responsibilities to the poor, to the vulnerable and to future generations – into the legitimate space of scientific expertise, policy and practice?
+-   How do we ensure that this normative agenda is respectful of diverse cultural, faith and value systems?
+-   What is the role of cooperation and solidarity in tackling global change? How do we build global and local econ-omies and societies based on these principles?
+
+
+*fostering global and inter-generational  solidarity and justice*
+-   to what extent do existing economic, social and politi-cal systems, policies and practices promote unjust global relations and inequalities?
+-   What will it take for the world community to recognize and respond to this?
+-   How can we ensure that responses to climate and broader global change, including processes of deliber-ate social transformation, integrate and foster global and inter-generational justice?
+-   What legal structures are required at different geopoliti-cal levels to address multiple aspects of justice in global dimensions?
+
+*Safeguarding ethical approaches*
+-   What are the practical consequences – also for policy making – of understanding climate change and global change as ethical problems? 
+-   What tools and methods do we need to develop to bring ethical challenges in to quantitative evaluative measures and economic planning? 
+-   When do processes aimed at driving social transforma-tion become politically and culturally unacceptable and perceived as attempts at social engineering?
+-   What are the ethical aspects of geo-engineering?
+
+## Cornerstone 6 : governance and  decision making
+
+The final transformative cornerstone addresses a large and important set of questions about governance, choice and decision making. It emphasizes  the  importance  of  understanding  the  role  of  science  in  the  policy  process,  of  knowing  more  clearly  what  makes  knowledge  work,  whose  knowledge  counts  under what circumstances, and where the limits of expert knowledge lie. this cornerstone leads, finally, to a focus on issues of institutional reform, new institutional design and the  building  –  at  different  levels  –  of  structures  to  enable  dialogue  across  competing  interests,  values  and  world-views and under conditions of continued uncertainty.
+
+### governance and  decision making: illustrative questions
+
+*Coming to grips with policy processes and political will*
+-   How do policy processes related to questions of climate change and global change actually work? How do we make decisions in the face of uncertainty?
+-   Who determines the choices available and what path-ways exist for influencing policy agendas and decision making processes?
+-   What is the role of scientific knowledge and media in processes of political decision making and  policy formulation? What role do emotions play  in such processes?
+-   How do we use the future in making policies for today? What blind spots and assumptions about the future do we inject into our decision making?
+-   What determines why political agreements  succeed or fail?
+-   What drives commitment to political action?  What are the barriers to such commitment and how can these be overcome?
+-   could a reframing of climate change – e.g. in terms of human wellbeing – make for more attractive, entic-ing and pragmatic policy goals? if so, how should we reframe the issue?
+-   Should climate change be mainstreamed and if so,  how do we ensure policy coherence?
+
+*making knowledge work*
+-   How can we best increase the delivery and use of knowledge for global change; how do we get decision makers to pay attention to the results of research? 
+-   Who has access to decision makers; whose knowledge counts and why? How do we ensure cognitive justice, equality of knowledge claims and access to the  policy process?
+
+*building relevant institutions and structures*
+-   What decision making institutions and structures do we ideally need at different levels to address issues of climate change? And how do we ensure dialogue and collaboration across these levels?
+-   is the global scale of governance still relevant when it comes to forward looking action on climate change? Where are possible new global coalitions to come from?
+-   How do we ensure democracy in global governance? What would constitute real, authentic, meaningful par-ticipation by multiple actors and how can we ensure it?
+-   do we need radically new political regimes and forms of democracy and, if so, of what kind and are they feasibl?
+-   Would the integration of local and indigenous knowl-edge with academic knowledge and technology lead to more effective solutions to global change and, if so, how best do we accomplish this? 
