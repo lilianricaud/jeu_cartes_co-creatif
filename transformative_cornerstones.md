@@ -66,13 +66,35 @@ the third transformative cornerstone addresses the impor-tant issue of change it
 -   What kind of leadership is needed for change and how is it exercised in different contexts?
 -   What makes for successful change agents; how do we nurture them?
 
-Speeding and scaling up  processes of change
+*Speeding and scaling up processes of change*
 -   At what scale must change happen for it to make a positive difference? 
 -   How can we speed and scale up change processes, especially successful, sustainable local or community-based transformative action?
 -   What would unlock the connection between such action and wider processes of transformative global thinking?
 -   How do we move from individual to institutional and eventual systemic processes of change? 
--   How can we use media and new modes of social com-munication to increase capacities to contest climate change, envision and build alternative socio-economic systems, development trajectories and new political realities?
+-   How can we use media and new modes of social communication to increase capacities to contest climate change, envision and build alternative socio-economic systems, development trajectories and new political realities?
 -   What actions are needed in crucial economic sectors – those of energy, housing, heating, cooling, transporta-tion, and agriculture – in order to ensure a decarboniza-tion and dematerialization of the economy?
 
 
+*building consensus on the directions for change*
+-   What does change mean to different people and different groups? 
+-   Who decides on the direction of change required? What should the role of the state be in proactively determining priorities for change?
+-   What are the risks of social engineering and how do we prevent them?
+-   can change processes be deliberative and participatory; can they be representative of the majority, that is, respectful of democratic principles? How can we integrate into dominant narratives of change those visions coming from non-dominant groupings, as well as non-scientific experts? 
+-   What are the inherent pitfalls and dangers of processes of change – for democracy?
+-   What would realistic, feasible constructions of alterna-tive social systems and lifestyles look like; what new leitmotifs would we need to guide change towards such systems?
+-   How do we achieve success in reframing climate change as a social and deep systemic problem, rather than a technical problem to be fixed?
+
+## Cornerstone 4 : Interpretation and subjective sense making
+
+the fourth transformative cornerstone – interpretation and subjective sense making – confronts the personal and collective values, beliefs, assumptions, interests, worldviews, hopes,  needs  and  desires  that  underlie  people’s  experi-ences  of  and  responses  –  or  lack  of  responses  –  to  processes  of  global  change.  these  are  the  component  elements of the interpretative processes that shape personal narratives  and  social  discourses  about  the  nature  of  the  world and the environment, as well as the nature and need for transformation towards global sustainability.
+
+### Interpretation and subjective sense making: illustrative questions
+
+*understanding the nature  and role of subjectivities*
+-   What sets of values, beliefs, assumptions, interests, worldviews, hopes, needs and desires underlie different responses to global change and drive different visions of the kind of societies we should be striving to build?
+-   What discourses and narratives of global change – those expressed in different ways of communication and forms of expression – drive our sense making, life priorities, and social agendas; and what shared social meanings do they embrace?
+
+*exposing blindspots*
+-   How can processes of transformative learning expose and alter ingrained assumptions and beliefs, opening peoples’ minds to new and multiple ways of under-standing the world and processes of global change?
+-   What could such learning processes contribute to the development of effective responses to global change and how can we best promote them
 
