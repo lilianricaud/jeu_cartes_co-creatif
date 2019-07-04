@@ -45,3 +45,11 @@ http://www.worldsocialscience.org/documents/transformative-cornerstones.pdf
 -   How do people and institutions understand and antici-pate the risks of social boundaries and social tipping points in relation to global change?
 -   What are the consequences of global change for the basic social fabric of life: for institutions such as the family, welfare systems, legal rules, rights and duties, or private-public interactions?
 -   do the consequences of global change lead to more or less social cohesion and solidarity; to what extent do they exacerbate crisis and conflict and drive the privatization of security and militarization of society?
+
+*Measuring success: Improving the out-comes of specific actions and instruments*
+-   What are the outcomes of specific climate change policy instruments and actions, including for example economic incentives and media strategies, for both mitigation and adaptation?
+-   Are these responses working well for people and socie-ties? do they lead to transformative change or do they perpetuate existing marginalisation and inequalities? 
+-   What are the unintended or unexpected consequences of measures aimed at addressing the impacts of global change; what new vulnerabilities, if any, do our policies and economic measures give rise to?
+-   How can we best monitor, measure and evaluate policy actions and instruments; how do we know that we are moving towards resilience and sustainability?
+
+
