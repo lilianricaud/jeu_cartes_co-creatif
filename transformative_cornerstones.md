@@ -75,7 +75,7 @@ It is to identify what leadership and other capacities are  required  for  succe
 -   What drives individual and collective behavioural change and change in social practices; what are the preconditions for and barriers to change in behaviours and practices?
 -   What influence does our (evolving) knowledge of global change drivers and impacts have on the decisions and practices of individuals and communities?
 -   What examples do we have of successful, local trans-formative action and how can we motivate it, what mechanisms and incentives can we use?
--   to what extent are people and groups driven by altru-ism rather than interest? is there a role for trust and reciprocity in processes of change? And for incentives and competition? 
+-   to what extent are people and groups driven by altruism rather than interest? is there a role for trust and reciprocity in processes of change? And for incentives and competition? 
 -   What kind of leadership is needed for change and how is it exercised in different contexts?
 -   What makes for successful change agents; how do we nurture them?
 
@@ -85,7 +85,7 @@ It is to identify what leadership and other capacities are  required  for  succe
 -   What would unlock the connection between such action and wider processes of transformative global thinking?
 -   How do we move from individual to institutional and eventual systemic processes of change? 
 -   How can we use media and new modes of social communication to increase capacities to contest climate change, envision and build alternative socio-economic systems, development trajectories and new political realities?
--   What actions are needed in crucial economic sectors – those of energy, housing, heating, cooling, transporta-tion, and agriculture – in order to ensure a decarboniza-tion and dematerialization of the economy?
+-   What actions are needed in crucial economic sectors – those of energy, housing, heating, cooling, transporta-tion, and agriculture – in order to ensure a decarbonization and dematerialization of the economy?
 
 
 *building consensus on the directions for change*
@@ -94,14 +94,14 @@ It is to identify what leadership and other capacities are  required  for  succe
 -   What are the risks of social engineering and how do we prevent them?
 -   can change processes be deliberative and participatory; can they be representative of the majority, that is, respectful of democratic principles? How can we integrate into dominant narratives of change those visions coming from non-dominant groupings, as well as non-scientific experts? 
 -   What are the inherent pitfalls and dangers of processes of change – for democracy?
--   What would realistic, feasible constructions of alterna-tive social systems and lifestyles look like; what new leitmotifs would we need to guide change towards such systems?
+-   What would realistic, feasible constructions of alternative social systems and lifestyles look like; what new leitmotifs would we need to guide change towards such systems?
 -   How do we achieve success in reframing climate change as a social and deep systemic problem, rather than a technical problem to be fixed?
 
 ## Cornerstone 4 : Interpretation and subjective sense making
 
 **The fourth transformative cornerstone – interpretation and subjective sense making – confronts the personal and collective values, beliefs, assumptions, interests, worldviews, hopes,  needs  and  desires  that  underlie  people’s  experiences  of  and  responses  –  or  lack  of  responses  –  to  processes  of  global  change.**
 
-These  are  the  component  elements of the interpretative processes that shape personal narratives  and  social  discourses  about  the  nature  of  the  world and the environment, as well as the nature and need for transformation towards global sustainability. this fourth transformative  cornerstone  challenges  social  scientists  to  make  sense  of  the  ingrained  assumptions  and  associ-ated  blindspots  that  underlie  choices  and  priorities,  pre-vent awareness of that which needs to change, and keeps systems  deadlocked  in  spirals  of  inaction.  it  raises  questions about the nature and role of transformative learning in unlocking minds and motivations, and investigates the reasons for indifference, scepticism and denialism in the face of potentially cataclysmic processes of climate change
+These  are  the  component  elements of the interpretative processes that shape personal narratives  and  social  discourses  about  the  nature  of  the  world and the environment, as well as the nature and need for transformation towards global sustainability. this fourth transformative  cornerstone  challenges  social  scientists  to  make  sense  of  the  ingrained  assumptions  and  associated  blindspots  that  underlie  choices  and  priorities,  prevent awareness of that which needs to change, and keeps systems  deadlocked  in  spirals  of  inaction.  it  raises  questions about the nature and role of transformative learning in unlocking minds and motivations, and investigates the reasons for indifference, scepticism and denialism in the face of potentially cataclysmic processes of climate change
 
 
 
