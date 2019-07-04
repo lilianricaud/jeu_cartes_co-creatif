@@ -65,9 +65,9 @@ it is about expos-ing  the  diverse  realities  of  living  with  global  change
 
 ## Cornerstone 3: Conditions and visions for change
  
-**The third transformative cornerstone addresses the impor-tant issue of change itself. it asks how change happens, at what levels and scales, and in what directions. the purpose here is to understand what drives individual and collective processes  of  change,  as  well  as  change  in  social  practices.**
+**The third transformative cornerstone addresses the impor-tant issue of change itself. it asks how change happens, at what levels and scales, and in what directions. The purpose here is to understand what drives individual and collective processes  of  change,  as  well  as  change  in  social  practices.**
 
-It is to identify what leadership and other capacities are  required  for  successful  change  to  occur,  whilst  being  absolutely clear about the limitations and democratic pit-falls  of  deliberate  processes  of  change.  this  cornerstone  aims  to  shed  light  on  criteria  for  successful,  transforma-tive  actions  towards  equitable  sustainability  at  the  local,  community level, and on how to speed and scale those up into processes of transformative global thinking. feasible, realistic visions for change matter, but so do the methods and  procedures  by  which  they  are  built.  this  raises  fun-damental questions about the ways and consequences of reframing global change – particularly climate change – as a deep systemic problem. it raises questions about differ-ent narratives of socially desirable change, associated life-styles  and  alternative  socio-economic,  technological  and  political systems. At the same time it addresses concerns about  processes  of  social  engineering,  and  asks  about  the  feasibility  of  participatory  approaches  to  determin-ing  and  achieving  alternative  visions  of  the  future.  in  this  regard building consensus on directions and mechanisms of change in ways that include marginalized as well as non-scientific views and voices is a key challenge.
+It is to identify what leadership and other capacities are  required  for  successful  change  to  occur,  whilst  being  absolutely clear about the limitations and democratic pitfalls  of  deliberate  processes  of  change.  this  cornerstone  aims  to  shed  light  on  criteria  for  successful,  transforma-tive  actions  towards  equitable  sustainability  at  the  local,  community level, and on how to speed and scale those up into processes of transformative global thinking. feasible, realistic visions for change matter, but so do the methods and  procedures  by  which  they  are  built.  this  raises  fundamental questions about the ways and consequences of reframing global change – particularly climate change – as a deep systemic problem. it raises questions about differ-ent narratives of socially desirable change, associated life-styles  and  alternative  socio-economic,  technological  and  political systems. At the same time it addresses concerns about  processes  of  social  engineering,  and  asks  about  the  feasibility  of  participatory  approaches  to  determin-ing  and  achieving  alternative  visions  of  the  future.  in  this  regard building consensus on directions and mechanisms of change in ways that include marginalized as well as non-scientific views and voices is a key challenge.
 
 ### Conditions and visions for change: illustrative questions
 
@@ -99,7 +99,11 @@ It is to identify what leadership and other capacities are  required  for  succe
 
 ## Cornerstone 4 : Interpretation and subjective sense making
 
-the fourth transformative cornerstone – interpretation and subjective sense making – confronts the personal and collective values, beliefs, assumptions, interests, worldviews, hopes,  needs  and  desires  that  underlie  people’s  experi-ences  of  and  responses  –  or  lack  of  responses  –  to  processes  of  global  change.  these  are  the  component  elements of the interpretative processes that shape personal narratives  and  social  discourses  about  the  nature  of  the  world and the environment, as well as the nature and need for transformation towards global sustainability.
+**The fourth transformative cornerstone – interpretation and subjective sense making – confronts the personal and collective values, beliefs, assumptions, interests, worldviews, hopes,  needs  and  desires  that  underlie  people’s  experiences  of  and  responses  –  or  lack  of  responses  –  to  processes  of  global  change.**
+
+These  are  the  component  elements of the interpretative processes that shape personal narratives  and  social  discourses  about  the  nature  of  the  world and the environment, as well as the nature and need for transformation towards global sustainability. this fourth transformative  cornerstone  challenges  social  scientists  to  make  sense  of  the  ingrained  assumptions  and  associ-ated  blindspots  that  underlie  choices  and  priorities,  pre-vent awareness of that which needs to change, and keeps systems  deadlocked  in  spirals  of  inaction.  it  raises  questions about the nature and role of transformative learning in unlocking minds and motivations, and investigates the reasons for indifference, scepticism and denialism in the face of potentially cataclysmic processes of climate change
+
+
 
 ### Interpretation and subjective sense making: illustrative questions
 
@@ -120,7 +124,14 @@ the fourth transformative cornerstone – interpretation and subjective sense ma
 
 ## Cornerstone 5 : responsibilities
 
-The  fifth  transformative  cornerstone  foregrounds  obligations,  duties  and  responsibilities  to  the  poor,  to  the  vulnerable  and to future generations, bringing these concerns into the legitimate  space  of  scientific  expertise,  policy  and  prac-tice. it addresses methods, evaluative systems and policy mechanisms  that  can  ensure  the  use  and  relevance  of  ethical approaches in the development of new visions and building of new economies for the future. the cornerstone on responsibilities upholds an ethical lens on all interpreta-tions of and responses to global change, be they of a tech-nical, political, economic or discursive nature.
+  
+**The  fifth  transformative  cornerstone  foregrounds  obligations,  duties  and  responsibilities  to  the  poor,  to  the  vulnerable  and to future generations, bringing these concerns into the legitimate  space  of  scientific  expertise,  policy  and  practice. it addresses methods, evaluative systems and policy mechanisms  that  can  ensure  the  use  and  relevance  of  ethical approaches in the development of new visions and building of new economies for the future.** 
+
+The  double  injustice  imposed  by  the  effects  of  climate  and related environmental changes on already vulnerable populations and those without a voice (future generations), calls  for  urgent  work  on  understanding  what  it  takes  to  foster  global  and  inter-generational  solidarity  and  justice.  it simply cannot be assumed that all responses to climate change  are  or  will  be  framed  as  “just”  interventions.
+
+The cornerstone on responsibilities upholds an ethical lens on all interpretations of and responses to global change, be they of a technical, political, economic or discursive nature.
+
+
 
 ### responsibilities: illustrative questions
 
@@ -144,7 +155,11 @@ The  fifth  transformative  cornerstone  foregrounds  obligations,  duties  and 
 
 ## Cornerstone 6 : governance and  decision making
 
-The final transformative cornerstone addresses a large and important set of questions about governance, choice and decision making. It emphasizes  the  importance  of  understanding  the  role  of  science  in  the  policy  process,  of  knowing  more  clearly  what  makes  knowledge  work,  whose  knowledge  counts  under what circumstances, and where the limits of expert knowledge lie. this cornerstone leads, finally, to a focus on issues of institutional reform, new institutional design and the  building  –  at  different  levels  –  of  structures  to  enable  dialogue  across  competing  interests,  values  and  world-views and under conditions of continued uncertainty.
+**The final transformative cornerstone addresses a large and important set of questions about governance, choice and decision making. much of the policy processes related to climate  change  and  global  environmental  change  remain  poorly  understood.**  
+
+Social  science  knowledge  is  needed  on how decisions are made in the face of uncertainty, what pathways  are  available  for  influencing  decision  making,  what  determines  the  success  or  failure  of  political  agree-ments  and  what  drives  political  will.  Knowledge  is  also  needed on the possible effects of different ways of framing global change problems on policy makers and practition-ers;  not  all  expert  input  has  the  same  policy  appeal  or  is  given  equal  hearing  by  those  in  power.  this  cornerstone  emphasizes  the  importance  of  understanding  the  role  of  science  in  the  policy  process,  of  knowing  more  clearly  what  makes  knowledge  work,  whose  knowledge  counts  under what circumstances, and where the limits of expert knowledge lie. this cornerstone leads, finally, to a focus on issues of institutional reform, new institutional design and the  building  –  at  different  levels  –  of  structures  to  enable  dialogue  across  competing  interests,  values  and  world-views and under conditions of continued uncertainty
+
+
 
 ### governance and  decision making: illustrative questions
 
