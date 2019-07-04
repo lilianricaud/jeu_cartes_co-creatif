@@ -1,5 +1,7 @@
 # Transformative cornerstones
 
+comes from social sciences
+
 - Cornerstone 1: Historical and contextual complexities
 - Cornerstone 2: consequences
 - Cornerstone 3: conditions and visions for change
