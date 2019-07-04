@@ -12,7 +12,13 @@ comes from social sciences
 http://www.worldsocialscience.org/documents/transformative-cornerstones.pdf
 
 
-## Cornerstone 1: Historical and contextual complexities - Illustrative questions
+## Cornerstone 1: Historical and contextual complexities
+
+**The  first  transformative  cornerstone  of  social  science  research sets out to elucidate the full complexity of global change  processes  in  modern  societies.**
+
+Here  the  work  for  social  science  is  to  understand  the  political  econ-omy  of  climate  and  other  processes  of  environmental  change,  and  to  understand  how  these  processes  relate  to  a  multitude  of  other  social  crises.  it  is  to  distinguish  between different yet interconnected stressors and driv-ers  of  global  change,  and  to  clarify  the  interdependen-cies  of  peoples’  vulnerabilities  to  these  and  a  range  of  other  social  processes,  such  as  migration  or  conflict.  Situating  global  change  processes  in  this  way  also  calls  for  in-depth  historical  analyses.  Here  the  purpose  is  to  explain the complex trajectories and processes that have led  to  today’s  unsustainable  lifestyles  and  models  of  progress, and to draw lessons from earlier processes of transformative change. understanding the complexity of global  change  processes  also  entails  understanding  the  influence of context, and addressing how global change risks,  impacts,  perceptions,  experiences  and  responses  differ  across  different  regions  and  cultures  of  the  world,  across  social  classes,  gender,  race  or  faith  groupings,  and across a range of personal or professional identities.
+
+### Historical and contextual complexities - Illustrative questions
 
 *Distinguishing multiple stressors, drivers and interdependencies*
 -   What are the multiple stressors and drivers of climate and broader processes of global change and how are these interconnected?
@@ -34,6 +40,11 @@ http://www.worldsocialscience.org/documents/transformative-cornerstones.pdf
 
 ## Cornerstone 2: Consequences - Illustrative questions
 
+**Identifying and mapping the full range of actual and unfolding  threats  and  impacts  of  global  change  processes  on  people and communities in diverse locations is the work of the second transformative cornerstone.** 
+
+it is about expos-ing  the  diverse  realities  of  living  with  global  change,  and  it calls for a special focus on poor and vulnerable sectors of different societies. understanding the consequences of global  change  brings  to  light  the  lives  of  climate  change  victims  and  their  coping  mechanisms,  responses,  inno-vations  and  limitations.  it  also  raises  important  questions  about social boundaries and tipping points related to envi-ronmental pressures and disasters on existing human sys-tems and economies, on the basic social fabric of life. Work on  the  consequences  of  global  change  also  requires  a  focus on existing policy solutions, technologies, and other response  measures  in  a  range  of  sectors,  including  eco-nomic  and  education  sectors.  Here  the  task  is  to  unpack  their successes and failures in iterative processes of learn-ing  aimed  at  improving  the  outcomes  of  specific  actions  and instruments.
+
+
 *Living with global change: taking stock of threats and impacts  across different groups and regions*
 -  What are the real threats and actual, unfolding impacts of climate and broader global change on different groups and communities in different parts of the world?
 -   What are the consequences in the most vulnerable regions, such as Africa, Latin America and South Asia? 
@@ -53,8 +64,10 @@ http://www.worldsocialscience.org/documents/transformative-cornerstones.pdf
 -   How can we best monitor, measure and evaluate policy actions and instruments; how do we know that we are moving towards resilience and sustainability?
 
 ## Cornerstone 3: Conditions and visions for change
+ 
+**The third transformative cornerstone addresses the impor-tant issue of change itself. it asks how change happens, at what levels and scales, and in what directions. the purpose here is to understand what drives individual and collective processes  of  change,  as  well  as  change  in  social  practices.**
 
-the third transformative cornerstone addresses the impor-tant issue of change itself. it asks how change happens, at what levels and scales, and in what directions. the purpose here is to understand what drives individual and collective processes  of  change,  as  well  as  change  in  social  prac-tices. it is to identify what leadership and other capacities are  required  for  successful  change  to  occur,  whilst  being  absolutely clear about the limitations and democratic pit-falls  of  deliberate  processes  of  change.  this  cornerstone  aims  to  shed  light  on  criteria  for  successful,  transforma-tive  actions  towards  equitable  sustainability  at  the  local,  community level, and on how to speed and scale those up into processes of transformative global thinking. 
+It is to identify what leadership and other capacities are  required  for  successful  change  to  occur,  whilst  being  absolutely clear about the limitations and democratic pit-falls  of  deliberate  processes  of  change.  this  cornerstone  aims  to  shed  light  on  criteria  for  successful,  transforma-tive  actions  towards  equitable  sustainability  at  the  local,  community level, and on how to speed and scale those up into processes of transformative global thinking. feasible, realistic visions for change matter, but so do the methods and  procedures  by  which  they  are  built.  this  raises  fun-damental questions about the ways and consequences of reframing global change – particularly climate change – as a deep systemic problem. it raises questions about differ-ent narratives of socially desirable change, associated life-styles  and  alternative  socio-economic,  technological  and  political systems. At the same time it addresses concerns about  processes  of  social  engineering,  and  asks  about  the  feasibility  of  participatory  approaches  to  determin-ing  and  achieving  alternative  visions  of  the  future.  in  this  regard building consensus on directions and mechanisms of change in ways that include marginalized as well as non-scientific views and voices is a key challenge.
 
 ### Conditions and visions for change: illustrative questions
 
