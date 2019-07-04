@@ -52,4 +52,27 @@ http://www.worldsocialscience.org/documents/transformative-cornerstones.pdf
 -   What are the unintended or unexpected consequences of measures aimed at addressing the impacts of global change; what new vulnerabilities, if any, do our policies and economic measures give rise to?
 -   How can we best monitor, measure and evaluate policy actions and instruments; how do we know that we are moving towards resilience and sustainability?
 
+## Cornerstone 3: Conditions and visions for change
+
+the third transformative cornerstone addresses the impor-tant issue of change itself. it asks how change happens, at what levels and scales, and in what directions. the purpose here is to understand what drives individual and collective processes  of  change,  as  well  as  change  in  social  prac-tices. it is to identify what leadership and other capacities are  required  for  successful  change  to  occur,  whilst  being  absolutely clear about the limitations and democratic pit-falls  of  deliberate  processes  of  change.  this  cornerstone  aims  to  shed  light  on  criteria  for  successful,  transforma-tive  actions  towards  equitable  sustainability  at  the  local,  community level, and on how to speed and scale those up into processes of transformative global thinking. 
+
+### Conditions and visions for change: illustrative questions
+
+*understanding how we can change  behaviour and social practice*
+-   What drives individual and collective behavioural change and change in social practices; what are the preconditions for and barriers to change in behaviours and practices?
+-   What influence does our (evolving) knowledge of global change drivers and impacts have on the decisions and practices of individuals and communities?
+-   What examples do we have of successful, local trans-formative action and how can we motivate it, what mechanisms and incentives can we use?
+-   to what extent are people and groups driven by altru-ism rather than interest? is there a role for trust and reciprocity in processes of change? And for incentives and competition? 
+-   What kind of leadership is needed for change and how is it exercised in different contexts?
+-   What makes for successful change agents; how do we nurture them?
+
+Speeding and scaling up  processes of change
+-   At what scale must change happen for it to make a positive difference? 
+-   How can we speed and scale up change processes, especially successful, sustainable local or community-based transformative action?
+-   What would unlock the connection between such action and wider processes of transformative global thinking?
+-   How do we move from individual to institutional and eventual systemic processes of change? 
+-   How can we use media and new modes of social com-munication to increase capacities to contest climate change, envision and build alternative socio-economic systems, development trajectories and new political realities?
+-   What actions are needed in crucial economic sectors – those of energy, housing, heating, cooling, transporta-tion, and agriculture – in order to ensure a decarboniza-tion and dematerialization of the economy?
+
+
 
