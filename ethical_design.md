@@ -23,3 +23,5 @@ It is thoughtful and accommodating; not arrogant or demanding. It understands th
 Technology that respects human rights is decentralised, peer-to-peer, zero-knowledge, end-to-end encrypted, free and open source, interoperable, accessible, and sustainable.
 
 It respects and protects your civil liberties, reduces inequality, and benefits democracy.
+
+Source: https://2017.ind.ie/ethical-design/
