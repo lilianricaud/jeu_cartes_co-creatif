@@ -1,0 +1,3 @@
+## CONTRE-PRODUCTIVITÉ
+
+La principale notion illichienne est le concept de la contre-productivité, qui décrit un phénomène embarrassant : lorsqu'elles atteignent un seuil critique (et sont en situation de monopole) les grandes institutions de nos sociétés modernes industrielles s'érigent parfois sans le savoir en obstacles à leur propre fonctionnement : la médecine nuit à la santé (tuant la maladie parfois au détriment de la santé du patient), le transport et la vitesse font perdre du temps, l'école abêtit, les communications deviennent si denses et si envahissantes que plus personne n'écoute ou ne se fait entendre, etc. 
