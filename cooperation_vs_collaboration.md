@@ -67,8 +67,7 @@ Dans les démarches collaboratives chacun utilise l'ensemble des ressources dans
 
 ## En conclusion
 
-Ces deux notions ne sont pas encore "stabilisées" bien que on s'accorde sur le fait que la collaboration implique un processus plus  
-« démocratique » : les rapports sont plus égalitaires  
+Ces deux notions ne sont pas encore "stabilisées" bien que on s'accorde sur le fait que la collaboration implique un processus plus « démocratique » : les rapports sont plus égalitaires  
 
 Les filtres culturels sont forts et dans les deux cas peuvent avoir une connotation "négative":  
 
