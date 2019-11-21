@@ -27,11 +27,11 @@ Les villes stockent et transmettent de nouvelles idées utiles à l'ensemble de 
 La spécialisation de la ville la rend plus intelligente, plus utile pour les personnes qui l'habite. Et ce qui est extraordinaire encore, c’est que cet apprentissage émerge sans que personne ne le sache. 
 
 
-La gestion de l'information - le fait de faciliter la gestion de la complexité dans un habitat humain à grande échelle - est seulement le but * latent * d'une ville.
+La gestion de l'information - le fait de faciliter la gestion de la complexité dans un habitat humain à grande échelle - est seulement le but *latent* d'une ville.
 
 En effet, lorsque celle-ci se crée, ses habitants sont motivés par d'autres motifs, tels que la sécurité ou le commerce.
 
-Personne n'a créé une ville dans le but explicite de stocker des informations plus efficacement ou de rendre son organisation sociale plus acceptable en raison de la bande passante limitée de l'esprit humain. Cette gestion des données ne se produit que plus tard, comme une sorte de réflexion collective après coup: encore un autre comportement de macro qui ne peut pas être prédit par les micromotivationnns. Les villes peuvent fonctionner comme des bibliothèques et des interfaces, mais elles ne sont pas construites dans ce but explicite.
+Personne n'a créé une ville dans le but explicite de stocker des informations plus efficacement ou de rendre son organisation sociale plus acceptable en raison de la bande passante limitée de l'esprit humain. Cette gestion des données ne se produit que plus tard, comme une sorte de réflexion collective après coup: encore un autre comportement de macro qui ne peut pas être prédit par les micromotivations. Les villes peuvent fonctionner comme des bibliothèques et des interfaces, mais elles ne sont pas construites dans ce but explicite.
 
 En effet, les villes traditionnelles (...) sont rarement construites dans un but précis: elles se produisent. (...) C’est la somme de milliers d’interactions locales: regroupement, partage, encombrement, commerce - autant d’activités disparates qui se fondent dans l’ensemble de la vie urbaine.
 Envoyer des commentaires
