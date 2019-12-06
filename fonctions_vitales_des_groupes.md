@@ -1,6 +1,6 @@
 # Fonctions vitales des groupes
 
-Plusieurs fonctions sont nécessaire dans les groupes. On peut citer 7 fonctions vitales: 
+Selon Yvan Maltcheff, plusieurs fonctions sont nécessaires dans les groupes. On peut citer 7 fonctions vitales: 
 
 - **Fonction de vision**: gardien de la vision, de l'intention première, de projection dans le futur
 - **Fonction d'expertise**: expertise de contenu
