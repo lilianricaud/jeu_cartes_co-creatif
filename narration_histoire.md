@@ -14,6 +14,20 @@ Il faut se souvenir que les gens ne réagissent pas tant à une histoire parce q
 
 ARME DE DISTRACTION MASSIVE, une histoire provoque une SUSPENSION PROVISOIRE DE LA CRÉDULITÉ. Les histoires sont commes des virus contagieux (CONTAGION MÉMÉTIQUE). 
 
+## Pourquoi étudier l'Histoire ?
+
+L'étude de l'histoire a pour but de desserer l'emprise du passé. Elle nous permet de tourner la tête à notre guise, et de commencer à repérer des possibilités que nos ancètres n'auraient su imaginer ou n'ont pas voulu que nous imaginions. en observant la chaine accidentelle des evenements qui nous ont conduits ici, nous comprenons comment nos pensées mêmes et nos rêves ont pris forme, et nous pouvons commencer à penser et à réver différemment. 
+
+Etudier l'histoire ne nous dira pas que choisir, mais cela nous offre au moins d'avantage d'options.
+
+Les mouvements qui cherchent à changer le monde commencent souvent par réécrire l'histoire, permettant ainsi aux gens de réimaginer le futur.
+
+Que vous souhaitiez voir les ouvriers déclencher une grève générale, les femmes prendrent possession de leur corps, ou les minorités opprimées revendiquer leurs droits politiques, la première étape consiste à raconter à nouveau leur histoire.
+
+La nouvelle histoire expliquera que "notre situation présente n'est ni naturelle, ni éternelle. Les choses étaient différentes jadis. Le monde injuste tel que nous le connaissons est simplement le fruit d'une chaine de hasards. Si nous agissons sagement, nous pouvons changer ce monde et en créer un bien meilleur." Voila pourquoi les marxistes racontent l'histoire du capitalisme, les féministes étudient la formation des sociétés patriarcales, et pourquoi les Afro-Américains commémorent les horreurs de la traite négrière. Ils n'entendent pas perpetuer le passé, mais s'en libérer.
+
+Ce qui est vrai des révolutions sociales, l'est tout autant au niveau "micro", celui de la vie quotidienne. (voir l'HISTOIRE DES PELOUSES)
+
 ## ANALYSE DE LA PUISSANCE NARRATIVE
 
 L'analyse de la puissance narrative permet de comprendre les ressorts cachés d'une narration dominante et aide à construire de nouvelles narrations.
