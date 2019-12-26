@@ -34,7 +34,7 @@ Ce peut être une question cruciale pour l'organisation:
 - Les personnages parlent ils pour eux-mêmes ou est ce que quelqu'un parle en leur nom ?
 
 **L'imagerie**
-Une bonne histoire fait usage de l'imagerie et d'un lanagage évocateur pour nous montrer ce qui est en jeu, plutot que pour dire au public ce qu'il doit en penser.
+Une bonne histoire fait usage de l'imagerie et d'un langage évocateur pour nous montrer ce qui est en jeu, plutot que pour dire au public ce qu'il doit en penser.
 - Quelles sont les images fortes qui pourraient contribuer à renforcer l'histoire ? 
 - Y a t-il une métaphore ou une analogie qui pourrait représenter le problème ?
 
@@ -53,7 +53,7 @@ Ces 5 elements d'histoire peuvent être combinés pour mener une ANALYSE DE LA P
 
 - quelles histoires définissent les normes culturelles ? 
 - D'où viennent ces histoires ?
-- Quelles hypothèses sous tendent ces histoires ? Sont elles explicites ou implictes ?
+- Quelles hypothèses sous tendent ces histoires ? Sont elles explicites ou implicites ?
 - Quelles histoires ont été ignorées ou effacées pour créer ces normes ?
 - Y a t-il des mythologies plus larges de la culture dominante qui doivent être remise en question ?
 
@@ -109,9 +109,9 @@ https://ssir.org/articles/entry/using_story_to_change_systems
 
 La rhétorique classique propose trois rythmes canoniques :
 
-    celui qui consiste à instaurer des arguments forts en exorde et en épilogue et ménager le public entre-temps, appelé l'« ordre homérique »106 ;
-    celui qui consiste à commencer par des arguments faibles puis à progresser de manière ascendante (ou l'inverse) est recommandé par Quintilien ;
-    celui qui consiste enfin à mettre en premier les arguments logiques puis ceux qui plaisent et enfin ceux qui émeuvent suivant l'ordre formulé par l'adage « docere, placere, movere ».
+- celui qui consiste à instaurer des arguments forts en exorde et en épilogue et ménager le public entre-temps, appelé l'« ordre homérique »106 ;
+- celui qui consiste à commencer par des arguments faibles puis à progresser de manière ascendante (ou l'inverse) est recommandé par Quintilien ;
+- celui qui consiste enfin à mettre en premier les arguments logiques puis ceux qui plaisent et enfin ceux qui émeuvent suivant l'ordre formulé par l'adage « docere, placere, movere ».
 
 De nombreux auteurs ont proposé au cours de l'histoire des plans-types, allant de deux à sept parties parfois ; cependant, la tradition rhétorique n'en retient que quatre
 
