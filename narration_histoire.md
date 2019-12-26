@@ -20,6 +20,9 @@ L'étude de l'histoire a pour but de desserer l'emprise du passé. Elle nous per
 
 Etudier l'histoire ne nous dira pas que choisir, mais cela nous offre au moins d'avantage d'options.
 
+## Pourquoi réécrire l'histoire ?
+RELECTURE DE L'HISTOIRE
+
 Les mouvements qui cherchent à changer le monde commencent souvent par réécrire l'histoire, permettant ainsi aux gens de réimaginer le futur.
 
 Que vous souhaitiez voir les ouvriers déclencher une grève générale, les femmes prendrent possession de leur corps, ou les minorités opprimées revendiquer leurs droits politiques, la première étape consiste à raconter à nouveau leur histoire.
