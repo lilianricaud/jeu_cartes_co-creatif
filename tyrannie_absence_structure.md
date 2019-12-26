@@ -11,8 +11,10 @@ Des hierarchies implicites se recréent avec encore plus d'inconvénients, puisq
 
 -> plutot qu'annuler les hiérarchies mieux vaut expliciter les rôles et zones de pouvoir et les distribuer entre les membres.
 
-https://infokiosques.net/lire.php?id_article=2
 
+## Liens
+https://infokiosques.net/lire.php?id_article=2
+http://organisez-vous.org/jofreemanarticle/
 https://www.jofreeman.com/joreen/tyranny.htm
 
 
