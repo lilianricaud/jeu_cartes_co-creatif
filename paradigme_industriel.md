@@ -1,6 +1,6 @@
 # PARADIGME INDUSTRIEL
 
-L'industrialisation n'est pas l'apparition de nombreuses machines - même si le machinisme sera un caractère de l'insudtrialisation. L'industrialisation n'est pas la disponibilité d'une nnouvelle source d'énergie, la chaleur du charbon - même si la recherche de nous sources énergétiques est bien un caractéristique de l'industrialisation.
+L'industrialisation n'est pas l'apparition de nombreuses machines - même si le machinisme sera un caractère de l'industrialisation. L'industrialisation n'est pas la disponibilité d'une nouvelle source d'énergie, la chaleur du charbon - même si la recherche de nous sources énergétiques est bien un caractéristique de l'industrialisation.
 
 **L'industrialisation c'est la raison dans la production.**
 
