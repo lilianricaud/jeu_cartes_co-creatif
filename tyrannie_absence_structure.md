@@ -13,4 +13,6 @@ Des hierarchies implicites se recréent avec encore plus d'inconvénients, puisq
 
 https://infokiosques.net/lire.php?id_article=2
 
+https://www.jofreeman.com/joreen/tyranny.htm
+
 
