@@ -6,4 +6,4 @@
 - **become a peer** don't creat finished product but innovation ecosystem, treat customers like peers.
 - **sharing the fruits** if you make it profitable for customers to get involved you will always be able to count on a dynamic and fertile ecosystem
 
-wikinomics p147.
+wikinomics p147.  
