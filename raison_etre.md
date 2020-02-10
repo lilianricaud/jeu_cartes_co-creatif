@@ -11,7 +11,12 @@ La raison d'etre est capitale parce qu'elle done du SENS à l'individu ou à l'o
 - dit quelque chose d'essentiel de l'entreprise à celle et ceux qui y travaille. Signfication deuxième dimension de SENS
 - dit comment s'incarne concrètement dans la réalité, l'entreprise. Incarnation, troisieme dimension de SENS.
 
-Elodie Perreau, anthropologue et consultante chez You Don't Need Us, a produit un court podcast pour expliquer l'importance de définir la raison d'être de son entreprise, de comprendre pourquoi elle est là et quel est son rôle, de partager cette raison d'exister avec ses collaborateurs. 
+Elodie Perreau, anthropologue et consultante chez You Don't Need Us, a produit un court podcast pour expliquer l'importance de définir la raison d'être de son entreprise, de comprendre pourquoi elle est là et quel est son rôle, de partager cette raison d'exister avec ses collaborateurs.
 
-via Formapart
+https://soundcloud.com/ydnu/raison-etre-entreprise
+
+Entre raison d'être, entreprise à mission, rapport Notat-Senard et loi PACTE, personne ou presque n'y comprend rien.
+
+Pas de panique, Martin Richer vous explique tout, de manière claire et pédagogique. 
+https://www.youtube.com/watch?v=KmZfKuasqHI
 
