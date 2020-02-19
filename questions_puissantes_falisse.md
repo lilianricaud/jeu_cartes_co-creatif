@@ -134,6 +134,7 @@ Quel est le prix de votre salaire ?
 Si vous connaissiez la date et l'heure de votre mort, que feriez vous dès aujourd'hui ?
 Que souhaitez vous transmettre à l'humanité ?
 Quels sont les 5 critères qui donnent du sens à votre travail ?
+Quelles sont les 3 priorités de votre vie ?
 
 ## Intention
 Où porterez-vous votre attention aujourd’hui ?
