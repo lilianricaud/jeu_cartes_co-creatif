@@ -44,7 +44,7 @@ Lorsque les copies sont gratuites, vous devez vendre des choses qui ne peuvent �
 
 ## Immédiateté: 
 
-on peut toujours trouver une version gratuite tot ou tard, mais on peut être pret à payer pour un accès immédiat.
+on peut toujours trouver une version gratuite tôt ou tard, mais on peut être pret à payer pour un accès immédiat.
 
 Accès aux version beta, que les fans soient impliqués dans le processus de conception lui même;
 
