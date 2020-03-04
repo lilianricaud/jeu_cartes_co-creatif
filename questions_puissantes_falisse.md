@@ -158,6 +158,7 @@ quelles différences faites-vous entre un résultat et un travail accompli ?
 
 
 ## Autres
+Par quelle métaphore décrivez-vous le mieux votre projet professionnel ?
 Qu’essayez-vous vraiment de dire quand vous dites ça ?
 Que ne feriez-vous pas pour éviter un échec ?
 Que dites-vous le plus souvent quand vous parlez pour ne rien dire ?
