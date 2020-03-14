@@ -158,6 +158,7 @@ quelles différences faites-vous entre un résultat et un travail accompli ?
 
 
 ## Autres
+Comment avoir confiance dans une décision ? 
 Par quelle métaphore décrivez-vous le mieux votre projet professionnel ?
 Qu’essayez-vous vraiment de dire quand vous dites ça ?
 Que ne feriez-vous pas pour éviter un échec ?
