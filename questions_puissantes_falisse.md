@@ -89,6 +89,7 @@ Quel est le point commun de tout ce qui vous rend profondement joyeux ?
 Quelle citation vous a fait le plus rire ?
 Imaginez que vous êtes doté d'un précieux pouvoir. Quel serait il ? Comment le partageriez vous ?
 Quel grand homme/femme vous a le plus inspiré·e ?
+Quels compliments recevez-vous le plus souvent? 
 
 ## Entreprise / stratégie
 Dans cette situation, quelle question ne vous êtes-vous pas encore posée ?
