@@ -1,3 +1,4 @@
+# 6 conditions pour concevoir un cadre de travail contributif qui implique les participants
 
  Dans les annés 1960′s  Fred Emery (Australia) et Eric Trist (UK, US and Canada) inventeur de l'approche Participative Work Design ont dégagés 6 conditions pour concevoir un cadre de travail contributif qui implique les participants :
  

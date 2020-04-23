@@ -18,7 +18,7 @@ Dans la réalité objective, les choses existent indépendamment de nos croyance
 
 La réalité subjective, en revanche, dépend de mes croyances et sentiments personnels. Supposez que j’éprouve une douleur vive àla tête que j’aille consulter un médecin. Celui-ci m’examine des pieds à la tête et ne trouve rien. Il m’envoie donc faire un test sanguin, un test urinaire, un test ADN, une radio, un électrocardiogramme, une IRM et pléthore d’autres examens. 
 
-Quand les résultats arrivent,il me déclare je me porte à merveille et que je peux rentrer chez moi. Or, je continue d’avoir affreusement mal à la tête. Alors même que tous les objectifs n’ont rien décelé, et que je suis le seul à la ressentir, cette douleur est pour moi réelle à cent pour cent. 
+Quand les résultats arrivent, il me déclare je me porte à merveille et que je peux rentrer chez moi. Or, je continue d’avoir affreusement mal à la tête. Alors même que tous les objectifs n’ont rien décelé, et que je suis le seul à la ressentir, cette douleur est pour moi réelle à cent pour cent. 
 
 La plupart des gens partent de l’idée que la réalité est objective ou objective, qu’il n’y a pas de tierce option. Dès lors qu’ils sont persuadés qu’une chose ne se réduit pas à leur subjectivité, ils en concluent aussitôt qu’elle doit être objective. 
 

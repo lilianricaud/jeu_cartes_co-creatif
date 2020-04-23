@@ -8,7 +8,7 @@ Un sort ("a spell") signifie simplement épeler (spelling). c'est pour cela que 
 
 (...)
 
-En angleterre, la magie des bardes était plus crainte que celle des sorciers. Un sorcier pouvait vous provoquer des irritations cutanées ou faire naitre votre enfant avec un pied bot. Alors qu'un barde, sil écrivait une bonne satire de vous, pouvait vous détruire aux yeux de vos proches, de votre famille, et même de vous même. et si le barde était doué, on rirait encore de vous des siècles après votre mort.
+En angleterre, la magie des bardes était plus crainte que celle des sorciers. Un sorcier pouvait vous provoquer des irritations cutanées ou faire naitre votre enfant avec un pied bot. Alors qu'un barde, s'il écrivait une bonne satire de vous, pouvait vous détruire aux yeux de vos proches, de votre famille, et même de vous même. et si le barde était doué, on rirait encore de vous des siècles après votre mort.
 
 Source:
 
