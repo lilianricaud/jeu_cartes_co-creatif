@@ -62,6 +62,8 @@ Que pourriez vous faire pour être certain de ne pas vous améliorer ?
 Que perdriez vous à assumer la plein responsabilité de ce qui vous arrive ? Que gagneriez vous ?
 Qui pouvez vous ne pas être ?
 Qu'est ce qui vous pousse à ne pas prendre de décisions ?
+En quoi êtes-vous une source d’inspiration pour ceux qui vous entoure ?
+La vie est une école. Qu’êtes-vous venu y apprendre ?
 
 ## Si
 Si vous étiez ermite, que prendriez-vous le temps d'admirer ?
